@@ -1,0 +1,886 @@
+De Didier Fontaine
+
+
+
+
+240	oubli	λήθη
+240b	oubli	ἐπιλησμονή
+
+241	réception	λῆψις
+241b	accueil	δοχή
+
+242	encensoir	λιβανωτός
+242b	brûle-parfum	θυμιατήριον
+
+243	lapider	λιθοβολέω
+243b	lapider	καταλιθάζω
+
+244	estimer	λογίζομαι
+244b	compter	ἀριθμέω
+
+245	insulter	λοιδορέω
+245b	outrager	ἐνυβρίζω
+
+246	qui reste	λοιπός
+246b	restant	ἐπίλοιπος
+
+247	rançon	λύτρον
+247b	rançon	ἀντίλυτρον
+
+248	flambeau	λύχνος
+248b	lampe	λαμπάς
+
+249	une disciple	μαθήτρια
+249b	disciple	μαθητής
+
+250	témoigner	μαρτυρέω
+250b	confesser	ἀνθομολογέομαι
+
+251	vainement	μάτην
+251b	sans raison	εἰκῇ
+
+252	combattre	μάχομαι
+252b	lutter	ἀγωνίζομαι
+
+253	grandeur	μεγαλωσύνη
+253b	majesté	μεγαλειότης
+
+254	grandeur	μέγεθος
+254b	grandeur	μεγαλωσύνη
+
+255	diviser	μερίζω
+255b	séparer	διχάζω
+
+256	souci	μέριμνα
+256b	soin	ἐπιμέλεια
+
+257	remplir	μεστόω
+257b	remplir	γεμίζω
+
+258	diriger	μετάγω
+258b	conduire	ἡγέομαι
+
+259	déplacer	μετακινέω
+259b	transférer	μεθίστημι
+
+260	troquer	μεταλλάσσω
+260b	échanger	ἀντιβάλλω
+
+261	mesurer	μετρέω
+261b	mesurer	ἀντιμετρέω
+
+262	jusqu'à	μέχρι
+262b	jusqu'à ce que	ἕως
+
+263	assurément	μήν
+263b	vraiment	ἀληθῶς
+
+264	indiquer	μηνύω
+264b	révéler	γνωρίζω
+
+265	pas encore	μήπω
+265b	pas encore	μηδέπω
+
+266	souvenir	μνημόσυνον
+266b	mémorial	μνημεῖον
+
+267	comettre l'adultère	μοιχεύω
+267b	être adultère	μοιχάομαι
+
+268	adultère	μοιχός
+268b	péché d'adultère	μοιχεία
+
+269	avec difficulté	μόλις
+269b	difficilement	δυσκόλως
+
+270	habitation	μονή
+270b	demeure	ἔπαυλις
+
+271	insensé	μωρός
+271b	stupide	ἄφρων
+
+272	temple	ναός
+272b	temple	ἱερόν
+
+273	adolescent	νεανίσκος
+273b	jeune homme	νεανίας
+
+274	mort	νεκρός
+274b	mort	θάνατος
+
+275	nuage	νέφος
+275b	nuée	νεφέλη
+
+276	je l'atteste	νή
+276b	par	διά
+
+277	conquête	νῖκος
+277b	victoire	νίκη
+
+278	maintenant	νῦν
+278b	à l'instant	ἄρτι
+
+279	étranger	ξένος
+279b	héberger	ξενίζω
+
+280	sec	ξηρός
+280b	desséché	αὐχμηρός
+
+281	tondre	ξυράω
+281b	raser	ἐδαφίζω
+
+282	voyager	ὁδεύω
+282b	aller vers	ἐπιπορεύομαι
+
+283	conduire	ὁδηγέω
+283b	pousser	ἐλαύνω
+
+284	angoisser	ὀδυνάω
+284b	se tourmenter	ἀδημονέω
+
+285	domestique	οἰκειακός
+285b	domestique	οἰκεῖος
+
+286	maison	οἶκος
+286b	maisonnée	οἰκία
+
+287	miséricorde	οἰκτιρμός
+287b	compassion	ἔλεος
+
+288	miséricordieux	οἰκτίρμων
+288b	compatissant	ἐλεήμων
+
+289	anéantir	ὀλοθρεύω
+289b	exterminer	ἐξολοθρεύω
+
+290	comparer	ὁμοιόω
+290b	être semblable	ἔοικα
+
+291	injurier	ὀνειδίζω
+291b	reprocher	μωμάομαι
+
+292	injure	ὀνειδισμός
+292b	reproche	μομφή
+
+293	antre	ὀπή
+293b	ouverture	ἄνοιξις
+
+294	en arrière	ὀπίσω
+294b	derrière	ὄπισθεν
+
+295	apparaître	ὀπτάνομαι
+295b	montrer	ἐμφανίζω
+
+296	vision	ὅραμα
+296b	apparition	ὀπτασία
+
+297	vision	ὅρασις
+297b	apparition	ὅραμα
+
+298	aspirer à	ὀρέγω
+298b	tendre	ἁπαλός
+
+299	droit	ὀρθός
+299b	direct	εὐθύς
+
+300	aube	ὄρθρος
+300b	éclat du jour	αὐγή
+
+301	argileux	ὀστράκινος
+301b	de terre cuite	κεραμικός
+
+302	quand	ὅταν
+302b	chaque fois que	ἡνίκα
+
+303	lorsque	ὅτε
+303b	quand	ὅταν
+
+304	où	οὗ
+304b	là où	ὅπου
+
+305	nullement	οὐδαμῶς
+305b	aucunement	μηδαμῶς
+
+306	jamais	οὐδέποτε
+306b	jamais	μηδέποτε
+
+307	pas encore	οὐδέπω
+307b	pas encore	μήπω
+
+308	donc	οὖν
+308b	c'est pourquoi	διόπερ
+
+309	pas encore	οὔπω
+309b	pas encore	οὐδέπω
+
+310	celui-ci	οὗτος
+310b	celui-ci	ὅδε
+
+311	dette	ὀφείλημα
+311b	dû	ὀφειλή
+
+312	troubler	ὀχλέω
+312b	malmener	θορυβέω
+
+313	petit poisson	ὀψάριον
+313b	poisson	ἰχθύς
+
+314	aspect	ὄψις
+314b	vue	βλέμμα
+
+315	solde	ὀψώνιον
+315b	salaire	μισθός
+
+
+317	enfant	παιδίον
+317b	petit enfant	παιδάριον
+
+318	jeune servant	παῖς
+318b	jeune servante	παιδίσκη
+
+319	battre	παίω
+319b	frapper	κρούω
+
+320	ancien	παλαιός
+320b	antique	ἀρχαῖος
+
+321	vieillir	παλαιόω
+321b	devenir vieux	γηράσκω
+
+322	de nouveau	πάλιν
+322b	encore	ἔτι
+
+323	en tout temps	πάντοτε
+323b	toujours	ἀεί
+
+324	exhorter	παραμυθέομαι
+324b	avertir	παραινέω
+
+325	réconfort	παραμύθιον
+325b	exhortation	παραμυθία
+
+326	transgression	παρανομία
+326b	illégalité	ἀνομία
+
+327	préparer	παρασκευάζω
+327b	préparer	ἑτοιμάζω
+
+328	préparation	παρασκευή
+328b	disponibilité	ἑτοιμασία
+
+329	immédiatement	παραχρῆμα
+329b	aussitôt	εὐθέως
+
+330	passer à côté	παρέρχομαι
+330b	passer	παραπορεύομαι
+
+331	exhortation	παρηγορία
+331b	réconfort	παραμύθιον
+
+332	plat	πεδινός
+332b	assiette	παροψίς
+
+333	éprouver	πειράω
+333b	tenter	πειράζω
+
+334	de l'autre côté	πέραν
+334b	au delà	ἐπέκεινα
+
+335	autour	περί
+335b	tout autour	κυκλόθεν
+
+336	surabondance	περισσεία
+336b	abondance	ἁδρότης
+
+337	se vanter	περπερεύομαι
+337b	vanter	καυχάομαι
+
+338	voler	πέτομαι
+338b	dérober	κλέπτω
+
+339	de pierre	πετρώδης
+339b	pierreux	λίθινος
+
+340	combien grand	πηλίκος
+340b	autant que	ὅσος
+
+341	saisir	πιάζω
+341b	prendre	ἐπιλαμβάνομαι
+
+342	comprimer	πιέζω
+342b	tourmenter	θλίβω
+
+343	enflammer	πίμπρημι
+343b	brûler	καυματίζω
+
+344	rendre confiant	πιστόω
+344b	croire	πιστεύω
+
+345	tromper	πλανάω
+345b	errer	ἀστατέω
+
+346	façonner	πλάσσω
+346b	former	μορφόω
+
+347	très grand	πλεῖστος
+347b	plus grand	μείζων
+
+348	abonder	πλεονάζω
+348b	surabonder	περισσεύω
+
+349	être supérieur	πλεονεκτέω
+349b	être utile	λυσιτελέω
+
+350	remplir	πλήθω
+350b	remplir	μεστόω
+
+351	toutefois	πλήν
+351b	sûrement	 πάντως
+
+352	rempli	πλήρης
+352b	plein	μεστός
+
+353	remplir	πληρόω
+353b	remplir	πλήθω
+
+354	prochain	πλησίον
+354b	proche	ἐγγύς
+
+355	frapper	πλήσσω
+355b	battre	παίω
+
+356	barque	πλοῖον
+356b	navire	ναῦς
+
+357	laver	πλύνω
+357b	laver	νίπτω
+
+358	étrangler	πνίγω
+358b	étouffer	ἀπάγχω
+
+359	souffle	πνοή
+359b	esprit	πνεῦμα
+
+360	de quel lieu	πόθεν
+360b	d'où	ὅθεν
+
+361	troupeau	ποίμνη
+361b	troupeau	ἀγέλη
+
+362	troupeau	ποίμνιον
+362b	troupeau	ποίμνη
+
+363	méchant	πονηρός
+363b	mauvais	κακός
+
+364	peine	πόνος
+364b	labeur	μόχθος
+
+365	de pourpre	πορφυροῦς
+365b	pourpre	πορφύρα
+
+366	boisson	πόσις
+366b	boire	πίνω
+
+367	combien	πόσος
+367b	combien grand	πηλίκος
+
+368	quand	πότε
+368b	lorsque	ὅτε
+
+369	où	ποῦ
+369b	là où	οὗ
+
+370	action	πρᾶξις
+370b	oeuvre	ἔργον
+
+371	doux	πραΰς
+371b	bienveillant	ἤπιος
+
+372	convenir	πρέπω
+372b	arriver	καθήκω
+
+373	ambassade	πρεσβεία
+373b	ancienneté	παλαιότης
+
+374	plus ancien	πρεσβύτερος
+374b	ancien	παλαιός
+
+375	ancien	πρεσβύτης
+375b	vieillard	γέρων
+
+376	devant	πρό
+376b	avant	πρίν
+
+377	mendier	προσαιτέω
+377b	mendier	ἐπαιτέω
+
+378	patienter	προσδοκάω
+378b	attendre	ἐκδέχομαι
+
+379	attente	προσδοκία
+379b	attente	ἐκδοχή
+
+380	s'approcher	προσέρχομαι
+380b	approcher	ἐγγίζω
+
+381	réintégration	πρόσληψις
+381b	réception	λῆψις
+
+382	approcher	προσπορεύομαι
+382b	s'approcher	προσέρχομαι
+
+383	effrayer	πτύρω
+383b	être craintif	δειλιάω
+
+384	pauvre	πτωχός
+384b	indigent	πενιχρός
+
+385	bûcher	πυρά
+385b	feu	πῦρ
+
+386	combustion	πύρωσις
+386b	brûlure	καῦμα
+
+387	vendre	πωλέω
+387b	vendre	πιπράσκω
+
+388	petit d'animal	πῶλος
+388b	ânon	ὀνάριον
+
+389	pétrifier	πωρόω
+389b	lapider	λιθάζω
+
+390	comment	-πώς
+390b	pour que	ὅπως
+
+391	comment	πῶς
+391b	comment	-πώς
+
+392	déchirer	ῥήγνυμι
+392b	briser	θραύω
+
+393	impulsion	ῥιπή
+393b	élan	ὁρμή
+
+394	ruelle	ῥύμη
+394b	rue	πήγανον
+
+395	libérer	ῥύομαι
+395b	délivrer	ἀπαλλάσσω
+
+396	fortifier	ῥώννυμι
+396b	renforcer	ἐπισχύω
+
+397	de chair	σάρκινος
+397b	charnel	σαρκικός
+
+398	vénérer	σέβομαι
+398b	honorer	σεβάζομαι
+
+399	fortifier	σθενόω
+399b	rendre fort	κραταιόω
+
+400	bêcher	σκάπτω
+400b	creuser	ὀρύσσω
+
+401	tente	σκῆνος
+401b	hutte	σκηνή
+
+402	bondir	σκιρτάω
+402b	sauter	ἅλλομαι
+
+403	disséminer	σκορπίζω
+403b	disperser	διασπείρω
+
+404	ténèbre	σκότος
+404b	obscurité	σκοτία
+
+405	déchirer	σπαράσσω
+405b	déchirer	rompre
+
+406	tirer	σπάω
+406b	entraîner	ἑλκύω
+
+407	semence	σπορά
+407b	germe	σπέρμα
+
+408	germe	σπόρος
+408b	semence	σπορά
+
+409	s'empresser	σπουδάζω
+409b	hâter	σπεύδω
+
+410	plus à la hâte	σπουδαιότερος
+410b	plus diligent	σπουδαιότερον
+
+411	panier	σπυρίς
+411b	corbeille	σαργάνη
+
+412	resplendir	στίλβω
+412b	briller	λάμπω
+
+413	branche	στοιβάς
+413b	palme	βαΐον
+
+414	armée de soldats	στρατιά
+414b	troupes	στράτευμα
+
+415	étaler	στρωννύω
+415b	étendre	κεῖμαι
+
+416	sycomore	συκομωραία
+416b	sycomore	συκάμινος
+
+417	dépouiller	συλάω
+417b	dépouiller	ἐκδύω
+
+418	conseiller	σύμβουλος
+418b	membre du conseil	βουλευτής
+
+419	compatir	συμπαθέω
+419b	avoir pitié	ἐλεέω
+
+420	rassembler	συναθροίζω
+420b	rassembler	ἐπισυνάγω
+
+421	suivre	συνακολουθέω
+421b	accompagner	ἐπακολουθέω
+
+422	être avec	σύνεἶμι
+422b	aller avec	συμπορεύομαι
+
+423	accompagner	συνέπομαι
+423b	suivre	συνακολουθέω
+
+424	prendre plaisir à	συνήδομαι
+424b	réjouir avec	συγχαίρω
+
+425	aborder	συντυγχάνω
+425b	rencontrer avec	συναντάω
+
+426	traîner	σύρω
+426b	tirer	σπάω
+
+427	resserrer	συστέλλω
+427b	rétrécir	στενοχωρέω
+
+428	égorger	σφάζω
+428b	tuer	θανατόω
+
+429	fortement	σφοδρῶς
+429b	extrêmement	λίαν
+
+430	cordes	σχοινίον
+430b	cordes	σειρά
+
+431	amasser	σωρεύω
+431b	entasser	ἐπισωρεύω
+
+432	délivrance	σωτηρία
+432b	libération	ἄφεσις
+
+433	sépulture	ταφή
+433b	enterrement	ἐνταφιασμός
+
+434	rapidement	ταχέως
+434b	peut-être	τάχα
+
+435	prompt	ταχύ
+435b	rapidement	ταχέως
+
+436	vif	ταχύς
+436b	rapide	ταχινός
+
+437	parfait	τέλειος
+437b	accompli	ἄρτιος
+
+438	perfection	τελειότης
+438b	redressement	κατάρτισις
+
+439	achèvement	τελείωσις
+439b	perfection	τελειότης
+
+440	terme	τέλος
+440b	fin	τελευτή
+
+441	artisan	τεχνίτης
+441b	artisan du bois	τέκτων
+
+442	garder	τηρέω
+442b	s'appliquer	προσέχω
+
+443	observation	τήρησις
+443b	surveillance	ἐπισκοπή
+
+444	châtier	τιμωρέω
+444b	punir	κολάζω
+
+445	châtiment	τιμωρία
+445b	punition	κόλασις
+
+446	qui	τίς
+446b	quel	ποῖος
+
+447	mur	τοῖχος
+447b	muraille	τεῖχος
+
+448	alors	τότε
+448b	donc	ἄρα
+
+449	nourrir	τρέφω
+449b	faire paître	βόσκω
+
+450	grincer	τρίζω
+450b	grincer des dents	βρύχω
+
+451	trou	τρυμαλιά
+451b	fosse	βόθυνος
+
+452	croquer	τρώγω
+452b	mordre	μασσάομαι
+
+453	percuter	τύπτω
+453b	frapper	πατάσσω
+
+
+
+455	venir à la rencontre	ὑπαντάω
+455b	aller à la rencontre	ἀπαντάω
+
+
+
+
+
+
+459	élever au-dessus	ὑπερυψόω
+459b	s'élever	ὑπεραίρω
+
+460	soustraire	ὑποστέλλω
+460b	cacher	λανθάνω
+
+461	défection	ὑποστολή
+461b	cachette	κρύπτη
+
+462	endurer	ὑποφέρω
+462b	supporter	ἀνέχομαι
+
+
+464	élever	ὑψόω
+464b	lever	ἐπαίρω
+
+
+466	visible	φανερός
+466b	manifeste	ἐμφανής
+
+467	montrer	φανερόω
+467b	apparaître	ὀπτάνομαι
+
+468	apparaître	φαντάζω
+468b	montrer	φανερόω
+
+469	porter	φέρω
+469b	porter	βαστάζω
+
+470	rumeur	φήμη
+470b	renommée	κλέος
+
+471	déclarer	φημί
+471b	promettre	ἐπαγγέλλομαι
+
+472	détruire	φθείρω
+472b	dévaster	πορθέω
+
+473	corruption	φθορά
+473b	destruction	καθαίρεσις
+
+474	museler	φιμόω
+474b	museler	ἐπιστομίζω
+
+475	enflammer	φλογίζω
+475b	brûler	πυρόω
+
+476	meurtrier	φονεύς
+476b	homicide	ἀνθρωποκτόνος
+
+477	apporter	φορέω
+477b	porter	φέρω
+
+478	flageller	φραγελλόω
+478b	fouetter	μαστίζω
+
+479	indiquer	φράζω
+479b	montrer	ἐνδείκνυμι
+
+480	clore	φράσσω
+480b	fermer	καμμύω
+
+481	penser	φρονέω
+481b	estimer	δοκέω
+
+482	pensée	φρόνημα
+482b	projet	ἐπίνοια
+
+483	pensée	φρόνησις
+483b	comportement	φρόνημα
+
+484	se soucier de 	φροντίζω
+484b	réfléchir	ἐνθυμέομαι
+
+485	monter la garde	φρουρέω
+485b	garder	τηρέω
+
+486	prison	φυλακή
+486b	garde	κουστωδία
+
+487	surveiller	φυλάσσω
+487b	garder	φρουρέω
+
+488	masse	φύραμα
+488b	fardeau	ὄγκος
+
+489	lumière	φῶς
+489b	clarté	φέγγος
+
+490	réjouir	χαίρω
+490b	se réjouir	εὐφραίνω
+
+491	joie	χαρά
+491b	gaieté	εὐφροσύνη
+
+492	faire grâce	χαρίζομαι
+492b	être reconnaissant	εὐχαριστέω
+
+493	gratifier	χαριτόω
+493b	faire grâce	χαρίζομαι
+
+
+
+496	poussière	χοῦς
+496b	fine poussière	κονιορτός
+
+497	rassasier	χορτάζω
+497b	rassasier	κορέννυμι
+
+498	foin	χόρτος
+498b	herbe	βοτάνη
+
+499	prêter	χράω
+499b	prêter	δανείζω
+
+500	besoin	χρεία
+500b	nécessité	ἀνάγκη
+
+501	avantageux	χρήσιμος
+501b	utile	εὔχρηστος
+
+502	oindre	χρίω
+502b	oindre	ἀλείφω
+
+503	séparer	χωρίζω
+503b	s'éloigner	διΐστημι
+
+
+
+505	tromperie	ψεῦσμα
+505b	mensonge	ψεῦδος
+
+506	compter	ψηφίζω
+506b	estimer	λογίζομαι
+
+507	froid	ψυχρός
+507b	froid	ψῦχος
+
+508	ici	ὧδε
+508b	ici	ἐνθάδε
+
+509	beau	ὡραῖος
+509b	bon	καλός
+
+510	rugir	ὠρύομαι
+510b	rugir	μυκάομαι
+
+511	comme	ὡς
+511b	selon que	καθά
+
+512	utilité	ὠφέλεια
+512b	usage	χρῆσις
+
+513	profiter	ὠφελέω
+513b	recevoir un service	ὀνίνημι
+
+514	utile	ὠφέλιμος
+514b	avantageux	χρήσιμος
+
+515	annoncer	ἀγγέλλω
+515b	rapporter une nouvelle	ἀπαγγέλλω
+
+516	panier	ἄγγος
+516b	récipient	ἀγγεῖον
+
+517	assembler	ἀθροίζω
+517b	rassembler	συναθροίζω
+
+518	jeter le filet	ἀμφιβάλλω
+518b	jeter autour	περιβάλλω
+
+519	s'enorgueillir	αὐχέω
+519b	vanter	περπερεύομαι
+
+520	incorruptibilité	ἀφθορία
+520b	incorruptibilité	ἀφθαρσία
+
+521	trou d'une aiguille	βελόνη
+521b	aiguille	ῥαφίς
+
+522	nettoyer en séparant	διακαθᾶραι
+522b	nettoyer complètement	διακαθαρίζω
+
+523	abandonner	ἐνκακεῖν
+523b	délaisser	ἐγκαταλείπω
+
+524	sortir de	ἐκβαίνω
+524b	sortir	ἐξέρχομαι
+
+525	excessivement	ἐκπερισσῶς
+525b	excessivement	σφόδρα
+
+526	bondir	ἐκπηδάω
+526b	sauter hors	ἐξάλλομαι
+
+527	d'ici	ἔνθεν
+527b	de là	ἐκεῖθεν
+
+528	survenir	ἐπεισέρχομαι
+528b	venir sur	ἐπέρχομαι
+
+529	troubler	θορυβάζομαι
+529b	malmener	ὀχλέω
+
+530	faire habiter	κατοικίζω
+530b	habiter	κατοικέω
+
+531	se changer en	μετατρέπομαι
+531b	retourner	ἐπιστρέφω
+
+532	plus petit	μικρότερος
+532b	moindre	ἐλάχιστος
+
+533	meulière	μύλινος
+533b	meulière	μυλικός
+
+
+
+535	bonté	πραϋπάθεια
+535b	douceur	πρᾳΰτης
+
+
+
+537	premièrement	πρώτως
+537b	d'abord	πρῶτον
+
+538	parente	συγγενίς
+538b	parenté	συγγένεια
+
+539	avantage	σύμφορος
+539b	profit	ὄφελος
