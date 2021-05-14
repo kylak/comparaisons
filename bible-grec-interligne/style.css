@@ -1,0 +1,62 @@
+body {
+font-family: Roboto,RobotoDraft,Helvetica,Arial,sans-serif;
+}
+
+
+b {
+display: block;
+color: orange;
+margin-bottom: 3px;
+}
+
+.b {
+font-weight: bold;
+color: orange;
+margin-bottom: 3px;
+}
+
+a {
+color: #4774ce;
+text-decoration: none;
+}
+
+table td {
+border-bottom: 1px solid #ddd;
+}
+
+tr:hover {
+background-color: #e8e8e8;
+}
+
+.td1 {
+font-family: Roboto,RobotoDraft,Helvetica,Arial,sans-serif;
+font-size:15px;
+text-transform: uppercase;
+white-space: nowrap;
+}
+
+.td2 {
+font-family: Roboto,RobotoDraft,Helvetica,Arial,sans-serif;
+font-size:15px;
+padding: 0 6px;
+border-left: 1px solid #ddd;
+border-right: 1px solid #ddd;
+}
+
+.td3 {
+padding-left:5px;
+font-family: Consolas, Monaco, Lucida Console, Liberation Mono, DejaVu Sans Mono, Courier New, monospace, serif;
+font-size:15px;
+}
+
+.pre {
+white-space: pre;
+}
+
+rtxt {
+color:green;
+}
+
+wits{
+color:red;
+}
