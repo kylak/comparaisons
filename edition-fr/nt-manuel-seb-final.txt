@@ -50,7 +50,7 @@ MATTHIEU:3:1 Cependant en ces journées-là devient à côté Ioannes le Baptise
 MATTHIEU:3:2 disant· Transintelligez· Car approche la royauté des cieux.
 MATTHIEU:3:3 Car celui-ci est celui ayant été dit par Ésaïa le prophète disant· Son de voix beuglant dans le désert· Préparez la route de Maître, faites droits ses chemins usés.
 MATTHIEU:3:4 Lui cependant le Ioannes avait son vêtement depuis de cheveux de chameau et ceinture dermique autour de son flanc, la cependant nourriture était de lui sauterelles et miel agreste.
-MATTHIEU:3:5 Alors allait au dehors vers lui Ierosoluma et toute la Ioudaia et toute l'alentour de la région du Iordane,
+MATTHIEU:3:5 Alors allait au dehors vers lui Ierosoluma et toute la Ioudaia et toute la région alentour du Iordane,
 MATTHIEU:3:6 et ils étaient baptisés dans le Iordane au fleuve en dessous de lui discourants pareillement au dehors leurs péchés.
 MATTHIEU:3:7 Ayant vu cependant nombreux des Pharisiens et de Sadducéens venants sur son baptême il leur dit· progénitures de vipères, qui vous montra en dessous à fuir au loin de l'imminante colère ?
 MATTHIEU:3:8 Faites donc fruit digne de la transintelligence
@@ -485,7 +485,7 @@ MATTHIEU:14:31 Directement cependant le Iésous ayant étendu dehors la main le 
 MATTHIEU:14:32 Et ayants montés eux envers le navire cessa le vent.
 MATTHIEU:14:33 Ceux cependant en le navire embrassèrent vers lui disants· Vraiment de Dieu fils tu es.
 MATTHIEU:14:34 Et ayants traversés ils vinrent sur la terre envers Génésareth.
-MATTHIEU:14:35 Et l'ayants reconnus les hommes de ce lieu-là envoyèrent envers toute entière cette région d'alentour là et lui apportèrent tous ceux mauvaisement ayants
+MATTHIEU:14:35 Et l'ayants reconnus les hommes de ce lieu-là envoyèrent envers toute entière cette région alentour-là et lui apportèrent tous ceux mauvaisement ayants
 MATTHIEU:14:36 et ils l'appelaient à côté afin que seulement qu'ils touchent la frange de son himation· Et combien grands touchèrent furent sauvés complètement.
 MATTHIEU:15:1 Alors approchent vers le Iésous au loin de Ierosoluma Pharisiens et scribes disants·
 MATTHIEU:15:2 Par quoi tes disciples marchent à côté de la transmission des anciens ? Car ils ne lavent pas les mains lorsque le cas échéant pain qu'ils mangent.
@@ -1094,26 +1094,26 @@ MARC:1:22 Et ils étaient choqués sur son enseignement· Car il était les ense
 MARC:1:23 Et directement était en leur synagogue un être humain en souffle impur et il croassa de bas en haut
 MARC:1:24 disant· Quoi à nous et à toi, Iésous Nazarénien ? Tu vins nous perdre complètement ? Je sais toi qui tu es, le saint du Dieu.
 MARC:1:25 Et il le survalorisa le Iésous disant· Sois muselé et sors hors de lui.
-MARC:1:26 Et ayant déchiré lui le souffle le impur et ayant sonné de voix à son de voix à grande sortit hors de lui.
-MARC:1:27 et furent effaré en totalités de sorte que chercher ensemble vers eux disants· quel est celui-ci ? enseignement nouvelle de haut en bas autorité· et aux souffles aux impurs ordonne sûrement, et écoutent en soumission à lui.
-MARC:1:28 et sortit l'ouïe de lui directement partout envers toute entière la autour de la région de la Galilée.
-MARC:1:29 Et directement hors de la synagogue ayants sortis vinrent envers la maison de Simon et de André avec au-delà de Iakobos et de Ioannes.
-MARC:1:30 la cependant belle-mère de Simon couchait de haut en bas enfiévrante, et directement disent à lui autour de elle.
-MARC:1:31 et ayant approché éveilla elle ayant saisi avec force de la main· et abandonna elle le fièvre, et servait à eux.
-MARC:1:32 de Tardive cependant de ayante devenue, lorsque coucha le soleil, portaient vers lui tous ceux mauvaisement ayants et ceux démonisants·
-MARC:1:33 et était toute entière la ville étante rassemblée vers la porte.
-MARC:1:34 et soigna nombreux mauvaisement ayants aux diverses aux maladies et démons nombreux éjecta et non abandonnait bavarder les démons, en ce que avaient su lui.
-MARC:1:35 Et matinalement nuitamment extrêmement ayant placé debout de bas en haut sortit et éloigna envers désert lieu et là priait.
-MARC:1:36 et poursuivit de haut en bas lui Simon et ceux avec au-delà de lui,
-MARC:1:37 et trouvèrent lui et disent à lui en ce que tous cherchent toi.
-MARC:1:38 et dit à eux· que nous conduisions ailleurs envers les ayantes bourgades, afin que et là que je proclame· envers celui-ci car je sortis.
-MARC:1:39 Et vint proclamant envers les synagogues de eux envers toute entière la Galilée et les démons éjectant.
-MARC:1:40 Et vient vers lui lépreux appelant à côté lui et agenouillant disant à lui en ce que si le cas échéant que tu veuilles tu peux moi purifier.
-MARC:1:41 et ayant été remué aux entrailles ayant étendu dehors sa main toucha et dit à lui· je veux, sois purifié·
-MARC:1:42 et directement éloigna au loin de lui la lèpre, et fut purifié.
-MARC:1:43 et ayant irrité dans à lui directement éjecta lui
-MARC:1:44 et dit à lui· vois à pas un pas un que tu dises, mais dirige en arrière toi-même montre à le sacrificateur et apporte autour du purification de toi lesquels ordonnança auprès Môusês, envers témoignage à eux.
-MARC:1:45 Celui cependant ayant sorti commença proclamer nombreux et divulguer le discours, de sorte que non encore lui pouvoir visiblement envers ville venir à l'intérieur, mais au-dehors sur aux déserts aux lieux était· et venaient vers lui de tous les côtés.
+MARC:1:26 Et l'ayant convulsé le souffle impur et ayant sonné de voix à grande voix il sortit hors de lui.
+MARC:1:27 Et ils furent effarés en totalités de sorte de chercher ensemble vers eux-mêmes disants· Quel est celui-ci ? Enseignement nouveau selon une autorité· Et aux souffles impurs il ordonne au-dessus, et ils l'écoutent au-dessous.
+MARC:1:28 Et sortit l'ouïe de lui directement partout envers toute entière la région alentour de la Galilée.
+MARC:1:29 Et directement hors de la synagogue ayants sortis vinrent envers la maison de Simon et de André avec Iakobos et Ioannes.
+MARC:1:30 La cependant belle-mère de Simon couchait de haut en bas enfiévrante, et directement ils lui disent autour d'elle.
+MARC:1:31 Et ayant approché il l'éveilla ayant saisi avec force la main· Et elle l'abandonna la fièvre, et elle les servait.
+MARC:1:32 Tardive cependant ayante devenue, lorsque coucha le soleil, ils portaient vers lui tous ceux mauvaisement ayants et ceux démonisants·
+MARC:1:33 Et était toute entière la ville étante rassemblée vers la porte.
+MARC:1:34 Et il soigna nombreux ayants mauvaisement diverses maladies et il éjecta nombreux démons et il n'abandonnait pas les démons pour bavarder, en ce qu'ils l'avaient su.
+MARC:1:35 Et matinalement nuitamment extrêmement ayant placé debout de bas en haut il sortit et il éloigna envers un lieu désert et là il priait.
+MARC:1:36 Et il le poursuivit de haut en bas Simon et ceux avec lui,
+MARC:1:37 Et il le trouvèrent et lui disent en ce que tous te cherchent.
+MARC:1:38 Et il leur dit· Que nous conduisions ailleurs envers les ayantes bourgades, afin que là aussi que je proclame· Car envers cela je sortis.
+MARC:1:39 Et il vint proclamant envers leurs synagogues envers la Galilée toute entière et éjectant les démons.
+MARC:1:40 Et vient vers lui un lépreux l'appelant à côté et agenouillant lui disant en ce que si le cas échéant que tu veuilles tu peux me purifier.
+MARC:1:41 Et ayant été remué aux entrailles ayant étendu dehors sa main il toucha et lui dit· Je veux, sois purifié·
+MARC:1:42 Et directement éloigna loin de lui la lèpre, et il fut purifié.
+MARC:1:43 Et ayant irrité après lui directement il l'éjecta
+MARC:1:44 et il lui dit· vois, à pas un, pas un, que tu dises, mais dirige en arrière, te montre toi-même au sacrificateur et apporte autour de ta purification lesquels ordonnança auprès Môusês, envers un témoignage pour eux.
+MARC:1:45 Celui-ci cependant ayant sorti commença proclamer nombreux et divulguer le discours, de sorte que non encore pour lui de pouvoir visiblement venir à l'intérieur envers une ville, mais au-dehors sur des lieux déserts il était· Et ils venaient vers lui de toute part.
 MARC:2:1 Et ayant venu à l'intérieur encore envers Kapharnaoum par de journées fut écouté en ce que en à maison est.
 MARC:2:2 et furent mené ensemble nombreux de sorte que non encore placer ni cependant ces vers la porte, et bavardait à eux le discours.
 MARC:2:3 Et viennent portants vers lui paralytique étant levé sous de quatre.
@@ -1135,7 +1135,7 @@ MARC:2:18 Et étaient les disciples de Ioannes et les Pharisiens jeûnants. et v
 MARC:2:19 et dit à eux le Iésous· ne pas peuvent les fils de l'épousaille en à lequel l'époux avec au-delà de eux est jeûner ? combien grand temps ont l'époux avec au-delà de eux non peuvent jeûner.
 MARC:2:20 viendront cependant journées lorsque le cas échéant que soit levé au loin au loin de eux l'époux, et alors jeûneront en à celle-là à la journée.
 MARC:2:21 Aucun ajout de morceau de tissu de non foulé coud sur himation ancien· si cependant ne pas, lève le plénitude au loin de lui le nouveau de l'ancien et pire schisme devient.
-MARC:2:22 et aucun jette vin jeune envers outres anciens· si cependant ne pas, brisera le vin les outres et le vin est perdu complètement et les outres· mais vin jeune envers outres nouveaux.
+MARC:2:22 et aucun jette vin jeune envers outres anciens· si cependant ne pas, fracassera le vin les outres et le vin est perdu complètement et les outres· mais vin jeune envers outres nouveaux.
 MARC:2:23 Et devint lui en aux sabbats aller à côté par des champs ensemencés, et ses disciples commencèrent route faire épilants les épis.
 MARC:2:24 et les Pharisiens disaient à lui· vois quel font aux sabbats lequel non est permis ?
 MARC:2:25 et dit à eux· jamais vous lûtes quel fit David lorsque nécessité eut et eut faim lui et ceux avec au-delà de lui,
@@ -1221,7 +1221,7 @@ MARC:4:41 et furent effrayé effroi grand et disaient vers les uns les autres· 
 MARC:5:1 Et vinrent envers ce au delà de la mer envers la région des Géraséniens.
 MARC:5:2 et de ayant sorti de lui hors du navire directement rencontra à lui hors des mémoriaux être humain en à souffle à impur,
 MARC:5:3 lequel la colonisation avait en aux monuments, et pas cependant à chaîne non plus aucun pouvait lui attacher de lien
-MARC:5:4 par ce lui souvent aux entraves et aux chaînes être attaché de lien et être déchiré sous de lui les chaînes et les entraves être frotté ensemble, et aucun avait la ténacité lui dompter·
+MARC:5:4 par ce lui souvent aux entraves et aux chaînes être attaché de lien et être tiré à travers sous de lui les chaînes et les entraves être broyé ensemble, et aucun avait la ténacité lui dompter·
 MARC:5:5 et par de tout de nuit et de journée en aux monuments et en aux montagnes était croassant et coupant de haut en bas lui-même aux pierres.
 MARC:5:6 Et ayant vu le Iésous au loin à distance courut et embrassa vers à lui
 MARC:5:7 et ayant croassé à son de voix à grande dit· quel à moi et à toi, Iésous fils du Dieu du très haut ? j'adjure toi le Dieu, ne pas moi que tu tortures.
@@ -1409,15 +1409,15 @@ MARC:9:14 Et ayants venus vers les disciples virent foule nombreux autour eux et
 MARC:9:15 et directement tout le foule ayants vus lui furent stupéfié et courants vers saluaient lui.
 MARC:9:16 et demanda sur eux· quel vous cherchez ensemble vers eux ?
 MARC:9:17 Et fut répondu à lui un hors du foule· enseignant, je portai mon fils vers toi, ayant souffle sans bavardage·
-MARC:9:18 et où si le cas échéant lui que saisisse de haut en bas brise lui, et écume et grince les dents et est séché· et je dis aux disciples de toi afin que lui que éjectent, et non eurent la ténacité.
+MARC:9:18 et où si le cas échéant lui que saisisse de haut en bas fracasse lui, et écume et grince les dents et est séché· et je dis aux disciples de toi afin que lui que éjectent, et non eurent la ténacité.
 MARC:9:19 celui cependant ayant été répondu à eux dit· O génération incroyante, jusqu'à quand vers vous je serai ? jusqu'à quand je supporterai de vous ? portez lui vers moi.
-MARC:9:20 et portèrent lui vers lui. et ayant vu lui le souffle directement déchira ensemble lui, et ayant tombé sur de la terre vautrait écumant.
+MARC:9:20 et portèrent lui vers lui. et ayant vu lui le souffle directement convulsa ensemble lui, et ayant tombé sur de la terre vautrait écumant.
 MARC:9:21 et demanda sur son père· combien grand temps est comme celui-ci devient à lui ? celui cependant dit· hors petite enfance·
 MARC:9:22 et souvent et envers feu lui jeta et envers eaux afin que perde complètement lui· mais si un quelconque tu peux, aide à nous ayant été remué aux entrailles sur nous.
 MARC:9:23 le cependant Iésous dit à lui· ce si tu peux, tous puissants à celui à croyant.
 MARC:9:24 et directement ayant croassé le père du petit enfant disait· je crois· aide de moi à l'incroyance.
 MARC:9:25 Ayant vu cependant le Iésous en ce que accourt foule, survalorisa à le souffle à l'impur disant à lui· le sans bavardage et sourd muet souffle, moi j'ordonne sûrement à toi, sors hors de lui et non encore que tu viennes à l'intérieur envers lui.
-MARC:9:26 et ayant croassé et nombreux ayant déchiré lui sortit· et devint comme si mort, de sorte que les nombreux dire en ce que mourut loin.
+MARC:9:26 et ayant croassé et nombreux ayant convulsé lui sortit· et devint comme si mort, de sorte que les nombreux dire en ce que mourut loin.
 MARC:9:27 le cependant Iésous ayant saisi avec force de sa main éveilla lui, et plaça debout de bas en haut.
 MARC:9:28 Et de ayant venu à l'intérieur de lui envers maison ses disciples de haut en bas en propre demandaient sur lui· en ce que nous non nous fûmes pu éjecter lui ?
 MARC:9:29 et dit à eux· celui-ci le genre en à aucun peut sortir si ne pas en à prière et à jeûne.
@@ -1610,7 +1610,7 @@ MARC:13:36 ne pas ayant venu soudainement que trouve vous dormants de haut en ba
 MARC:13:37 lequel cependant à vous je dis à tous je dis, vigilez.
 MARC:14:1 Était cependant le pâque et les sans levains avec au-delà deux journées. et cherchaient les chefs sacrificateurs et les scribes comment lui en à tromperie ayants saisis avec force que tuent catégoriquement·
 MARC:14:2 disaient car· ne pas en à la fête, de peur que sera tumulte du peuple.
-MARC:14:3 Et de étant de lui en à Béthanie en à la maison de Simon du lépreux, de couchant de haut en bas de lui vint femme ayante alabastre de onguent de nard de liquide de très coûteuse, ayante frottée ensemble l'alabastre versa de haut en bas de lui de la tête.
+MARC:14:3 Et de étant de lui en à Béthanie en à la maison de Simon du lépreux, de couchant de haut en bas de lui vint femme ayante alabastre de onguent de nard de liquide de très coûteuse, ayante broyée ensemble l'alabastre versa de haut en bas de lui de la tête.
 MARC:14:4 étaient cependant des quelconques irritants beaucoup vers eux-mêmes· envers quel la perte complète celle-ci de l'onguent devient ?
 MARC:14:5 pouvait car celui-ci l'onguent être vendu sur le haut de deniers de trois cents et être donné aux pauvres· et irritaient dans à elle.
 MARC:14:6 Le cependant Iésous dit· abandonnez elle· quel à elle frappements vous fournissez ? beau action travailla en à moi.
@@ -1670,7 +1670,7 @@ MARC:14:59 et pas cependant ainsi égale était la déposition de témoignage de
 MARC:14:60 Et ayant placé debout de bas en haut le chef sacrificateur envers au milieu demanda sur le Iésous disant· non tu réponds aucun quel ceux-ci de toi témoignent contre ?
 MARC:14:61 celui cependant silençait et non répondit aucun. encore le chef sacrificateur demandait sur lui et dit à lui· toi tu es le Christ le fils de l'élogié ?
 MARC:14:62 le cependant Iésous dit· moi je suis, et vous verrez le fils de l'être humain hors de droits étant assis de la puissance et venant avec au-delà des nuées du ciel.
-MARC:14:63 le cependant chef sacrificateur ayant déchiré en séparant ses chitons dit· quel encore nécessité nous avons de témoins ?
+MARC:14:63 le cependant chef sacrificateur ayant fracassé à travers ses chitons dit· quel encore nécessité nous avons de témoins ?
 MARC:14:64 vous écoutâtes de la blasphème· quel à vous apparaît en lumière ? ceux cependant tous condamnèrent lui tenu dans être de mort.
 MARC:14:65 Et commencèrent des quelconques cracher envers à lui et couvrir autour de lui le face et tabasser lui et dire à lui· prophétise, et les ministres aux gifles lui prirent.
 MARC:14:66 Et de étant du Pierre vers le bas en à la cour vient une des jeunes servantes du chef sacrificateur
@@ -1881,7 +1881,7 @@ LUC:2:51 et descendit avec au-delà de eux et vint envers Nazareth et était ét
 LUC:2:52 Et Iésous progressait à la sagesse et à âge et à grâce à côté à Dieu et aux êtres humains.
 LUC:3:1 En à an cependant à quinzième de l'hégémonie de Tiberius de Kaesar, de gouvernant de Pontius de Pilatus de la Ioudaia, et de étant tétrarque de la Galilée de Hérode, de Philippe cependant du frère de lui de étant tétrarque de la Iturée et de Trachonitide de région, et de Lysanias de la Abilène de étant tétrarque,
 LUC:3:2 sur de chef sacrificateur de Anna et de Kaiapha, devint oral de Dieu sur Ioannes le de Zacharia fils en à la déserte.
-LUC:3:3 Et vint envers toute autour de la région du Iordane proclamant baptême de transintelligence envers abandon de péchés,
+LUC:3:3 Et vint envers toute région alentour du Iordane proclamant baptême de transintelligence envers abandon de péchés,
 LUC:3:4 comme est écrit en à bible de discours de Ésaïa du prophète· son de voix de beuglant en à la déserte· préparez la route de Maître, droites faites ses chemins usés· 
 LUC:3:5 toute vallée sera rempli et tout montagne et colline sera baissé, et sera les tordus envers droite et les raboteuses envers routes lisses·
 LUC:3:6 et verra toute chair le salut du Dieu.
@@ -1930,7 +1930,7 @@ LUC:4:10 est écrit car en ce que aux messagers de lui commandera autour de toi 
 LUC:4:11 et en ce que sur de mains lèveront toi, de peur que tu frappes vers vers pierre le pied de toi.
 LUC:4:12 et ayant été répondu dit à lui le Iésous en ce que est dit· non tu tenteras à l'excès Maître le Dieu de toi.
 LUC:4:13 Et ayant achevé ensemble tout tentation le diable plaça debout au loin au loin de lui jusqu'à l'extrémité de moment.
-LUC:4:14 Et retourna en arrière le Iésous en à la puissance du souffle envers la Galilée. et rumeur sortit d'haut en bas de toute entière de l'autour de la région autour de lui.
+LUC:4:14 Et retourna en arrière le Iésous en à la puissance du souffle envers la Galilée. et rumeur sortit d'haut en bas de toute entière de la région alentour autour de lui.
 LUC:4:15 et lui enseignait en aux synagogues de eux étant glorifié sous de tous.
 LUC:4:16 Et vint envers Nazareth, où était étant nourri, et vint à l'intérieur de haut en bas ce habituant à lui en à la journée des sabbats envers la synagogue et plaça debout de bas en haut lire.
 LUC:4:17 et fut donné sur à lui papier de bible du prophète de Ésaïa et ayant déroulé le papier de bible trouva le lieu où était étant écrit·
@@ -1951,9 +1951,9 @@ LUC:4:31 Et vint de haut en bas envers Kapharnaoum ville de la Galilée. et éta
 LUC:4:32 et étaient choqué sur à sa enseignement, en ce que en à autorité était le discours de lui.
 LUC:4:33 Et en à la synagogue était être humain ayant souffle de démon de impur et croassa de bas en haut à son de voix à grande·
 LUC:4:34 ah, quel à nous et à toi, Iésous Nazarénien ? tu vins perdre complètement nous ? je sais toi quel tu es, le saint du Dieu.
-LUC:4:35 et survalorisa à lui le Iésous disant· sois muselé et sors au loin de lui. et ayant flanqué lui le démon envers le au milieu sortit au loin de lui pas un ayant blessé lui.
+LUC:4:35 et survalorisa à lui le Iésous disant· sois muselé et sors au loin de lui. et ayant flanqué lui le démon envers le au milieu sortit au loin de lui pas un ayant nuit lui.
 LUC:4:36 et devint effarement sur tous et bavardaient ensemble vers les uns les autres disants· quel le discours celui-ci en ce que en à autorité et à puissance ordonne sûrement aux impurs aux souffles et sortent ?
-LUC:4:37 et allait au dehors écho autour de lui envers tout lieu de l'autour de la région.
+LUC:4:37 et allait au dehors écho autour de lui envers tout lieu de la région alentour.
 LUC:4:38 Ayant placé debout de bas en haut cependant au loin de la synagogue vint à l'intérieur envers la maison de Simon. belle-mère cependant du Simon était étante tenue ensemble à fièvre à grand et sollicitèrent lui autour de elle.
 LUC:4:39 et ayant placé debout sur sur le haut de elle survalorisa à le fièvre et abandonna elle· instantanément cependant ayante placée debout de bas en haut servait à eux.
 LUC:4:40 de Couchant cependant du soleil en totalités combien grands avaient étants infirme aux maladies aux diverses conduisirent eux vers lui· celui cependant à un à chacun de eux les mains imposant soignait eux.
@@ -1966,7 +1966,7 @@ LUC:5:2 et vit deux navires plaçants debout à côté la lac· les cependant p�
 LUC:5:3 ayant entré cependant envers un des navires, lequel était de Simon, sollicita lui au loin de la terre surmener de bas en haut peu· ayant assis cependant hors du navire enseignait les foules.
 LUC:5:4 Comme cependant pausa bavardant, dit vers le Simon· surmène de bas en haut envers le profondeur et lâchez les filets de vous envers prise.
 LUC:5:5 et ayant été répondu Simon dit· Supérieur, par de toute entière de nuit ayants peinés aucun nous prîmes· sur cependant à l'oral de toi je lâcherai les filets.
-LUC:5:6 et celui-ci ayants faits enfermèrent ensemble multitude de poissons nombreux, était déchiré en séparant cependant les filets de eux.
+LUC:5:6 et celui-ci ayants faits enfermèrent ensemble multitude de poissons nombreux, était fracassé à travers cependant les filets de eux.
 LUC:5:7 et firent signe de haut en bas aux participants en à l'autre-différent à navire de ce ayants venus prendre avec à eux· et vinrent et remplirent tous deux les navires de sorte que être enfoncé eux.
 LUC:5:8 Ayant vu cependant Simon Pierre tomba auprès aux genoux de Iésous disant· sors au loin de moi, en ce que homme pécheur je suis, Maître.
 LUC:5:9 effarement car eut autour lui et tous ceux avec à lui sur à la prise des poissons de lesquels prirent avec,
@@ -1997,7 +1997,7 @@ LUC:5:33 Ceux cependant dirent vers lui· les disciples de Ioannes jeûnent fré
 LUC:5:34 celui cependant Iésous dit vers eux· ne pas vous pouvez les fils de l'épousaille en à lequel l'époux avec au-delà de eux est faire jeûner ?
 LUC:5:35 viendront cependant journées, et lorsque le cas échéant que soit levé au loin au loin de eux l'époux, alors jeûneront en à celles-là aux journées.
 LUC:5:36 Disait cependant et parabole vers eux en ce que aucun ajout au loin de himation de nouveau ayant scindé jette dessus sur himation ancien· si cependant ne pas au moins, et le nouveau scindera et à l'ancien non sonnera ensemble l'ajout ce au loin du nouveau.
-LUC:5:37 et aucun jette vin jeune envers outres anciens· si cependant ne pas au moins, brisera le vin le jeune les outres et lui sera déversé et les outres perdront complètement·
+LUC:5:37 et aucun jette vin jeune envers outres anciens· si cependant ne pas au moins, fracassera le vin le jeune les outres et lui sera déversé et les outres perdront complètement·
 LUC:5:38 mais vin jeune envers outres nouveaux doit être mis.
 LUC:5:39 aucun ayant bu ancien veut jeune· dit car· le ancien utile bon est.
 LUC:6:1 Devint cependant en à sabbat aller à travers lui par de champs ensemencés, et épilaient ses disciples et mangeaient les épis froissants aux mains.
@@ -2047,8 +2047,8 @@ LUC:6:44 chacun car arbre hors de l'en propre de fruit est connu· non car hors 
 LUC:6:45 le bon être humain hors du bon de trésor de la coeur porte en avant le bon, et le mauvais hors du mauvais porte en avant le mauvais· hors car de superflu de coeur bavarde le bouche de lui.
 LUC:6:46 Quel cependant moi vous appelez· Maître Maître, et non vous faites lesquels je dis ?
 LUC:6:47 Tout celui venant vers moi et écoutant de moi des discours et faisant eux, je montrerai en dessous à vous à quel est semblable·
-LUC:6:48 semblable est à être humain à édifiant en maison maison lequel creusa et approfondit et posa fondement sur la roche· de inondation cependant de ayante devenue brisa auprès le fleuve à la maison à celle-là, et non eut la ténacité ébranler elle par ce bellement être édifié en maison elle.
-LUC:6:49 celui cependant ayant écouté et ne pas ayant fait semblable est à être humain à ayant édifié en maison maison sur la terre séparément de fondement, à laquelle brisa auprès le fleuve, et directement tomba ensemble et devint le fracture de la maison de celle-là grand.
+LUC:6:48 semblable est à être humain à édifiant en maison maison lequel creusa et approfondit et posa fondement sur la roche· de inondation cependant de ayante devenue fracassa auprès le fleuve à la maison à celle-là, et non eut la ténacité ébranler elle par ce bellement être édifié en maison elle.
+LUC:6:49 celui cependant ayant écouté et ne pas ayant fait semblable est à être humain à ayant édifié en maison maison sur la terre séparément de fondement, à laquelle fracassa auprès le fleuve, et directement tomba ensemble et devint le fracture de la maison de celle-là grand.
 LUC:7:1 Parce que donc remplit tous ses oraux envers les ouïes du peuple, vint à l'intérieur envers Kapharnaoum.
 LUC:7:2 de Chef de cent cependant de un quelconque esclave mauvaisement ayant imminait achever, lequel était à lui en valeur.
 LUC:7:3 ayant écouté cependant autour du Iésous envoya vers lui anciens des Ioudaiens sollicitant lui de telle manière que ayant venu que sauve complètement son esclave. 
@@ -2065,7 +2065,7 @@ LUC:7:13 et ayant vu elle le Maître fut remué aux entrailles sur à elle et di
 LUC:7:14 et ayant approché toucha de la cercueil, ceux cependant portants placèrent debout, et dit· adolescent, à toi je dis, sois éveillé.
 LUC:7:15 et assit de bas en haut le mort et commença bavarder, et donna lui à sa mère. 
 LUC:7:16 prit cependant effroi tous et glorifiaient le Dieu disants en ce que prophète grand fut éveillé en à nous et en ce que visita le Dieu son peuple. 
-LUC:7:17 et sortit le discours celui-ci en à toute entière à la Ioudaia autour de lui et à toute à l'autour de la région.
+LUC:7:17 et sortit le discours celui-ci en à toute entière à la Ioudaia autour de lui et à toute à la région alentour.
 LUC:7:18 Et annoncèrent à Ioannes ses disciples autour de tous de ceux-ci. et ayant appelé auprès deux des quelconques de ses disciples le Ioannes
 LUC:7:19 manda vers le Maître disant· toi tu es celui venant ou autre que nous attendions ?
 LUC:7:20 ayants devenus à côté cependant vers lui les hommes dirent· Ioannes le Baptiseur envoya nous vers toi disant· toi tu es celui venant ou autre que nous attendions ?
@@ -2127,7 +2127,7 @@ LUC:8:25 dit cependant à eux· où la croyance de vous ? ayants étés effrayé
 LUC:8:26 Et naviguèrent de haut en bas envers la région des Géraséniens, laquelle une quelconque est vis à vis de la Galilée.
 LUC:8:27 à ayant sorti cependant à lui sur la terre rencontra homme un quelconque hors de la ville ayant démons et à temps à assez-important non habilla himation et en à maison non restait mais en aux monuments.
 LUC:8:28 ayant vu cependant le Iésous ayant croassé de bas en haut tomba auprès à lui et à son de voix à grande dit· quel à moi et à toi, Iésous fils du Dieu du très haut ? j'attache de lien de toi, ne pas moi que tu tortures.
-LUC:8:29 annonça auprès car à le souffle à l'impur sortir au loin de l'être humain. à nombreux car aux temps avait ravi avec lui et était lié aux chaînes et aux entraves étant gardé et déchirant en séparant les liens était poussé sous du démon envers les désertes.
+LUC:8:29 annonça auprès car à le souffle à l'impur sortir au loin de l'être humain. à nombreux car aux temps avait ravi avec lui et était lié aux chaînes et aux entraves étant gardé et fracassant à travers les liens était poussé sous du démon envers les désertes.
 LUC:8:30 demanda sur cependant lui le Iésous· quel à toi nom est ? celui cependant dit· légion, en ce que vint à l'intérieur démons nombreux envers lui.
 LUC:8:31 et appelaient à côté lui afin que ne pas que ordonne sûrement à eux envers l'abysse éloigner.
 LUC:8:32 était cependant là troupeau de pourceaux de assez-importants étante nourrie en à le montagne· et appelèrent à côté lui afin que permette à eux envers ceux-là venir à l'intérieur· et permit à eux.
@@ -2135,7 +2135,7 @@ LUC:8:33 ayants sortis cependant les démons au loin de l'être humain vinrent �
 LUC:8:34 Ayants vus cependant ceux nourrissants ce devenant fuirent et annoncèrent envers la ville et envers les champs.
 LUC:8:35 sortirent cependant voir ce devenant et vinrent vers le Iésous et trouvèrent étant assis l'être humain au loin de lequel les démons sortit étant vêtu himation et étant sain d'émotion à côté les pieds du Iésous, et furent effrayé.
 LUC:8:36 annoncèrent cependant à eux ceux ayants vus comment fut sauvé celui ayant été démonisé.
-LUC:8:37 et sollicita lui en totalité le multitude de l'autour de la région des Géraséniens éloigner au loin de eux, en ce que à effroi à grand étaient tenu ensemble· lui cependant ayant entré envers navire retourna en arrière.
+LUC:8:37 et sollicita lui en totalité le multitude de la région alentour des Géraséniens éloigner au loin de eux, en ce que à effroi à grand étaient tenu ensemble· lui cependant ayant entré envers navire retourna en arrière.
 LUC:8:38 attachait de lien cependant de lui l'homme au loin de lequel avait sorti les démons être avec à lui· délia au loin cependant lui disant·
 LUC:8:39 retourne en arrière envers le maison de toi et raconte complètement combien grands à toi fit le Dieu. et éloigna de haut en bas toute entière la ville proclamant combien grands fit à lui le Iésous.
 LUC:8:40 En cependant à ce retourner en arrière le Iésous accepta loin lui le foule· étaient car tous attendants lui.
@@ -2193,10 +2193,10 @@ LUC:9:35 et son de voix devint hors de la nuée disante· celui-ci est mon fils 
 LUC:9:36 et en à ce devenir la son de voix fut trouvé Iésous seul. et eux gardèrent le silence et à aucun annoncèrent en à celles-là aux journées aucun de lesquels voient.
 LUC:9:37 Devint cependant à la suivant à journée de ayants venus de haut en bas de eux au loin du montagne rencontra avec à lui foule nombreux.
 LUC:9:38 et vois homme au loin du foule beugla disant· enseignant, j'attache de lien de toi regarder sur sur mon fils, en ce que monogène à moi est,
-LUC:9:39 et vois souffle prend lui et soudainement croasse et déchire lui avec au-delà de écume et laborieusement déplace loin au loin de lui frottant ensemble lui·
+LUC:9:39 et vois souffle prend lui et soudainement croasse et convulse lui avec au-delà de écume et laborieusement déplace loin au loin de lui broyant ensemble lui·
 LUC:9:40 et je fus attaché de lien des disciples de toi afin que éjectent lui, et non furent pu.
 LUC:9:41 ayant été répondu cependant le Iésous dit· O génération incroyante et étante tournée de travers, jusqu'à quand je serai vers vous et je supporterai de vous ? amène ici le fils de toi.
-LUC:9:42 encore cependant de approchant de lui brisa lui le démon et déchira ensemble· survalorisa cependant le Iésous à le souffle à l'impur et guérit le jeune servant et redonna lui à le père de lui.
+LUC:9:42 encore cependant de approchant de lui fracassa lui le démon et convulsa ensemble· survalorisa cependant le Iésous à le souffle à l'impur et guérit le jeune servant et redonna lui à le père de lui.
 LUC:9:43 étaient choqué cependant tous sur à la grandeur du Dieu. de Tous cependant de étonnants sur à tous à lesquels faisait dit vers ses disciples· 
 LUC:9:44 posez vous envers les oreilles de vous les discours ceux-ci· le car fils de l'être humain immine être livré envers mains de êtres humains.
 LUC:9:45 ceux cependant méconnaissaient l'oral celui-ci et était étant couvert à côté au loin de eux afin que ne pas que perçoivent lui, et effrayaient solliciter lui autour de l'oral de celui-ci.
@@ -2627,7 +2627,7 @@ LUC:19:39 et des quelconques des Pharisiens au loin du foule dirent vers lui· e
 LUC:19:40 et ayant été répondu dit· je dis à vous, en ce que si le cas échéant ceux-ci silenceront, les pierres croasseront.
 LUC:19:41 Et comme approcha ayant vu la ville pleura sur elle
 LUC:19:42 disant en ce que si tu connus en à la journée à celle-ci et toi ces vers paix· maintenant cependant fut caché au loin de yeux de toi.
-LUC:19:43 en ce que surgiront journées sur toi et jetteront autour les ennemis de toi palissade à toi et encercleront autour toi et tiendront ensemble toi de tous les côtés,
+LUC:19:43 en ce que surgiront journées sur toi et jetteront autour les ennemis de toi palissade à toi et encercleront autour toi et tiendront ensemble toi de toute part,
 LUC:19:44 et raseront toi et les enfants de toi en à toi, et non abandonneront pierre sur pierre en à toi, en échange de lesquels non tu connus le moment de la surveillance de toi.
 LUC:19:45 Et ayant venu à l'intérieur envers le sanctuaire commença éjecter ceux vendants
 LUC:19:46 disant à eux· est écrit· et sera mon maison maison de prière, vous cependant lui vous fîtes caverne de pilleurs.
@@ -3709,12 +3709,12 @@ JEAN:19:27 puis dit à le disciple· vois la mère de toi. et au loin de celle-l
 JEAN:19:28 Avec au-delà celui-ci sachant le Iésous en ce que déjà tous est fini, afin que soit perfectionné l'écriture, dit· j'ai soif.
 JEAN:19:29 ustensile couchait de vinaigre plein· éponge donc plein du vinaigre à hysope ayants posés autour apportèrent de lui à le bouche.
 JEAN:19:30 lorsque donc prit le vinaigre Iésous dit· est fini, et ayant incliné la tête livra le souffle.
-JEAN:19:31 Les donc Ioudaiens, puisque préparation était, afin que ne pas que reste sur du croix les corps en à le sabbat, était car grande la journée de celui-là du sabbat, sollicitèrent le Pilatus afin que soient brisé de haut en bas de eux les jambes et que soient levé.
-JEAN:19:32 vinrent donc les soldats et de le certes de premier brisèrent de haut en bas les jambes et de l'autre de celui de ayant été crucifié avec à lui·
-JEAN:19:33 sur cependant le Iésous ayants venus, comme virent déjà lui étant mort, non brisèrent de haut en bas de lui les jambes,
+JEAN:19:31 Les donc Ioudaiens, puisque préparation était, afin que ne pas que reste sur du croix les corps en à le sabbat, était car grande la journée de celui-là du sabbat, sollicitèrent le Pilatus afin que soient fracassé de haut en bas de eux les jambes et que soient levé.
+JEAN:19:32 vinrent donc les soldats et de le certes de premier fracassèrent de haut en bas les jambes et de l'autre de celui de ayant été crucifié avec à lui·
+JEAN:19:33 sur cependant le Iésous ayants venus, comme virent déjà lui étant mort, non fracassèrent de haut en bas de lui les jambes,
 JEAN:19:34 mais un des soldats à lance de lui la côté piqua, et sortit directement sang et eau.
 JEAN:19:35 et celui voyant témoigne, et véritable de lui est la déposition de témoignage, et celui-là sait en ce que vrais dit, afin que et vous que vous croyiez.
-JEAN:19:36 devint car ceux-ci afin que l'écriture que soit rempli· os non sera frotté ensemble de lui.
+JEAN:19:36 devint car ceux-ci afin que l'écriture que soit rempli· os non sera broyé ensemble de lui.
 JEAN:19:37 et encore autre-différente écriture dit· verront envers lequel transpercèrent.
 JEAN:19:38 Avec au-delà cependant ceux-ci sollicita le Pilatus Ioseph celui au loin de Arimathée, étant disciple du Iésous étant caché cependant par l'effroi des Ioudaiens, afin que lève le corps du Iésous· et permit le Pilatus. vint donc et leva son corps. 
 JEAN:19:39 vint cependant et Nikodème, celui ayant venu vers lui de nuit le premier, portant mixture de myrrhe et de aloès comme livres cent.
@@ -4129,7 +4129,7 @@ ACTES:10:13 et devint son de voix vers lui· ayant placé debout de bas en haut,
 ACTES:10:14 le cependant Pierre dit· nullement, Maître, en ce que jamais je mangeai tout commun et impur.
 ACTES:10:15 et son de voix encore hors de deuxième vers lui· lesquels le Dieu purifia, toi ne pas rends commun.
 ACTES:10:16 celui-ci cependant devint sur trois fois et directement fut pris de bas en haut l'ustensile envers le ciel.
-ACTES:10:17 Comme cependant en à lui-même hésitait complètement le Pierre quel le cas échéant que soit le vision lequel vit, vois les hommes ceux étants envoyés sous du Cornelius ayants demandés partout la maison du Simon placèrent debout sur sur le portail,
+ACTES:10:17 Comme cependant en à lui-même hésitait complètement le Pierre quel le cas échéant que soit le vision lequel vit, vois les hommes ceux étants envoyés sous du Cornelius ayants sollicités à travers la maison du Simon placèrent debout sur sur le portail,
 ACTES:10:18 et ayants sonnés de voix enquéraient si Simon celui étant surnommé Pierre ici est étrangé.
 ACTES:10:19 de Le cependant de Pierre de réfléchissant deux fois autour du vision dit à lui le souffle· vois hommes trois cherchent toi,
 ACTES:10:20 mais ayant placé debout de bas en haut descends et va avec à eux pas un jugeant à travers en ce que moi j'envoie eux.
@@ -4273,7 +4273,7 @@ ACTES:14:2 les cependant ayants désobéis Ioudaiens éveillèrent au dessus et 
 ACTES:14:3 assez-important certes donc temps grattèrent à travers parlants entièrement sur à le Maître à celui à témoignant à le discours de sa grâce, à donnant signes et prodiges devenir par de leurs mains. 
 ACTES:14:4 fut scindé cependant le multitude de la ville, et ceux certes étaient avec aux Ioudaiens, ceux cependant avec aux envoyés.
 ACTES:14:5 comme cependant devint impulsion des ethnies et aussi et de Ioudaiens avec aux chefs de eux brutaliser et lapider eux,
-ACTES:14:6 ayants vus avec fuirent de haut en bas envers les villes de la Lycaonie Lystre et Derbé et la autour de la région,
+ACTES:14:6 ayants vus avec fuirent de haut en bas envers les villes de la Lycaonie Lystre et Derbé et la région alentour,
 ACTES:14:7 et là évangélisants étaient.
 ACTES:14:8 Et un quelconque homme impuissant en aux Lystre aux pieds était assis, boiteux hors de cavité ventrale de mère de lui lequel jamais piétina autour.
 ACTES:14:9 celui-ci écouta du Paulus de bavardant· lequel ayant regardé fixement à lui et ayant vu en ce que a croyance de ce être sauvé,
@@ -4281,7 +4281,7 @@ ACTES:14:10 dit à grande à son de voix· place debout de bas en haut sur les p
 ACTES:14:11 les et aussi foules ayants vus lequel fit Paulus élevèrent la son de voix de eux Lycaonien disants· les dieux ayants étés rendus semblable aux êtres humains descendirent vers nous,
 ACTES:14:12 appelaient et aussi le Bar-Nabas Zeus, le cependant Paulus Hermès, parce que donc lui était celui dirigeant du discours.
 ACTES:14:13 le et aussi sacrificateur du Zeus de celui de étant avant de la ville taureaux et couronnes sur les portails ayant porté avec aux foules voulait sacrifier.
-ACTES:14:14 Ayants écoutés cependant les envoyés Bar-Nabas et Paulus ayants déchirés en séparant les himations de eux-mêmes sautèrent hors envers le foule croassants
+ACTES:14:14 Ayants écoutés cependant les envoyés Bar-Nabas et Paulus ayants fracassés à travers les himations de eux-mêmes sautèrent hors envers le foule croassants
 ACTES:14:15 et disants· hommes, quel ceux-ci vous faites ? et nous de similaires souffrances nous sommes à vous êtres humains évangélisants vous au loin de ceux-ci des vains retourner au-dessus sur Dieu vivant, lequel fit le ciel et la terre et la mer et tous ces en à eux·
 ACTES:14:16 lequel en aux allantes à côté aux générations permit tous les ethnies aller aux routes de eux·
 ACTES:14:17 et néanmoins non sans témoignage lui-même abandonna oeuvrant bon, célestement à vous pluies donnant et moments portants des fruits, remplissant dans de nourriture et de joie les coeurs de vous.
@@ -4358,7 +4358,7 @@ ACTES:16:18 celui-ci cependant faisait sur nombreuses journées. ayant été pei
 ACTES:16:19 Ayants vus cependant les Maîtres de elle en ce que sortit l'espérance de la travail de eux, ayants saisis le Paulus et le Silas tirèrent envers l'agora sur les chefs
 ACTES:16:20 et ayants amenés eux aux stratèges dirent· ceux-ci les êtres humains troublent dehors de nous la ville, Ioudaiens subsistants,
 ACTES:16:21 et annoncent de haut en bas coutumes lesquels non est permis à nous recevoir de côté pas cependant faire à Romains à étants.
-ACTES:16:22 et plaça debout sur ensemble le foule d'haut en bas de eux et les stratèges ayants brisés autour de eux les himations ordonnaient bâtonner,
+ACTES:16:22 et plaça debout sur ensemble le foule d'haut en bas de eux et les stratèges ayants fracassés autour de eux les himations ordonnaient bâtonner,
 ACTES:16:23 nombreuses et aussi ayants imposés à eux coups jetèrent envers garde ayants annoncés auprès à le geôlier sûrement garder eux.
 ACTES:16:24 lequel annonce auprès telle ayant pris jeta eux envers la plus au dedans garde et ceux pieds sécurisa de eux envers le bois.
 ACTES:16:25 De haut en bas cependant le minuit Paulus et Silas priants chantaient hymne le Dieu, entendaient sûrement cependant de eux les prisonniers.
@@ -4596,7 +4596,7 @@ ACTES:23:6 Ayant connu cependant le Paulus en ce que le un part est de Sadducée
 ACTES:23:7 celui-ci cependant de lui de bavardant devint soulèvement des Pharisiens et de Sadducéens et fut scindé le multitude.
 ACTES:23:8 Sadducéens certes car disent ne pas être résurrection et ni messager et ni souffle, Pharisiens cependant discourent pareillement ces tous deux.
 ACTES:23:9 devint cependant cri grande, et ayants placés debout de bas en haut des quelconques des scribes du part des Pharisiens luttaient en séparant disants· aucun mauvais nous trouvons en à l'être humain à celui-ci· si cependant souffle bavarda à lui ou messager ?
-ACTES:23:10 de Nombreuse cependant de devenante de soulèvement ayant été effrayé le chiliarque ne pas que soit déchiré le Paulus sous de eux ordonna l'armée de soldats ayant descendu ravir lui hors de au milieu de eux conduire et aussi envers l'installation de côté.
+ACTES:23:10 de Nombreuse cependant de devenante de soulèvement ayant été effrayé le chiliarque ne pas que soit tiré à travers le Paulus sous de eux ordonna l'armée de soldats ayant descendu ravir lui hors de au milieu de eux conduire et aussi envers l'installation de côté.
 ACTES:23:11 à La cependant à survenante à nuit ayant placé debout sur à lui le Maître dit· aie courage· comme car tu protestas ces autour de moi envers Ierousalem, ainsi toi attache de lien et envers Rome témoigner.
 ACTES:23:12 de Ayante devenue cependant de journée ayants faits torsion ensemble les Ioudaiens anathématisèrent eux-mêmes disants et ni manger et ni boire jusqu'à de lequel que tuent catégoriquement le Paulus.
 ACTES:23:13 étaient cependant plus nombreux de quarante ceux celle-ci la conspiration ayants faits,
@@ -4859,7 +4859,7 @@ ROMAINS:3:12 tous écartèrent simultanément furent rendu sans nécessités· n
 ROMAINS:3:13 tombeau étant ouvert le larynx de eux, aux langues de eux trompaient, poison de aspics sous les lèvres de eux·
 ROMAINS:3:14 de lesquels le bouche de imprécation et de amertume est plein,
 ROMAINS:3:15 pointus les pieds de eux déverser sang,
-ROMAINS:3:16 friction et misère en aux routes de eux,
+ROMAINS:3:16 co-broyage et misère en aux routes de eux,
 ROMAINS:3:17 et route de paix non connurent.
 ROMAINS:3:18 non est effroi de Dieu depuis en-devant des yeux de eux.
 ROMAINS:3:19 nous savons cependant en ce que combien grands le loi dit à ceux en à le loi bavarde, afin que tout bouche que soit fermé et sous l'exécution de justice que devienne tout le monde à le Dieu·
@@ -5208,7 +5208,7 @@ ROMAINS:16:16 saluez les uns les autres en à embrassade à saint. saluent vous 
 ROMAINS:16:17 J'appelle à côté cependant vous, frères, viser ceux les dissensions et les scandales à côté l'enseignement laquelle vous vous apprîtes faisants, et écartez au loin de eux·
 ROMAINS:16:18 les car tels à le Maître de nous à Christ non sont esclaves mais à la de eux-mêmes à cavité ventrale, et par de la discours utile bon et de éloge appâtent d'excès les coeurs des non mauvais.
 ROMAINS:16:19 la car de vous écoute soumise envers tous arriva au loin· sur à vous donc je réjouis, je veux cependant vous sages être envers le bon, purs cependant envers le mauvais.
-ROMAINS:16:20 le cependant Dieu de la paix frottera ensemble le Satan sous les pieds de vous en à vitesse. La grâce du Maître de nous de Iésous avec au-delà de vous.
+ROMAINS:16:20 le cependant Dieu de la paix broiera ensemble le Satan sous les pieds de vous en à vitesse. La grâce du Maître de nous de Iésous avec au-delà de vous.
 ROMAINS:16:21 Salue vous Timotheos le compagnon d'oeuvre de moi et Loukios et Iason et Sosipater les congénitaux de moi.
 ROMAINS:16:22 je salue vous moi Tertius celui ayant écrit l'épître en à Maître.
 ROMAINS:16:23 salue vous Gaios le étranger de moi et de toute entière de l'église. salue vous Érastos l'économe de la ville et Kouartos le frère.
@@ -6009,7 +6009,7 @@ GALATES:4:23 mais celui certes hors de la jeune servante de haut en bas chair es
 GALATES:4:24 lesquels des quelconques est étants allégorisés· celles-ci car sont deux testaments, une certes au loin de montagne de Sinaï envers esclavage engendrante, laquelle une quelconque est Agar.
 GALATES:4:25 ce cependant Agar Sinaï montagne est en à la Arabie· aligne au même rang avec cependant à la maintenant à Ierousalem, est esclave car avec au-delà des enfants de elle.
 GALATES:4:26 celle cependant en haut Ierousalem libre est, laquelle une quelconque est mère de nous·
-GALATES:4:27 est écrit car· sois réjoui, stérile celle non produisante, brise et beugle, celle non ressentante la douleur de l'accouchement· en ce que nombreux les enfants de la déserte davantage ou de celle de ayante l'homme.
+GALATES:4:27 est écrit car· sois réjoui, stérile celle non produisante, fracasse et beugle, celle non ressentante la douleur de l'accouchement· en ce que nombreux les enfants de la déserte davantage ou de celle de ayante l'homme.
 GALATES:4:28 Vous cependant, frères, de haut en bas Isaak de promesse enfants vous êtes.
 GALATES:4:29 mais comme certes alors celui de haut en bas chair ayant été engendré poursuivait celui de haut en bas souffle, ainsi et maintenant.
 GALATES:4:30 mais quel dit l'écriture ? éjecte la jeune servante et le fils de elle· non car ne pas héritera le fils de la jeune servante avec au-delà du fils de la libre.
@@ -6486,7 +6486,7 @@ COLOSSIENS:4:18 Le salutation à celle à mienne à main de Paulus. souvenez de 
 1-TESSALONICIENS:5:11 C'est pourquoi appelez à côté les uns les autres et édifiez en maison un le un, de haut en bas comme et vous faites.
 1-TESSALONICIENS:5:12 Nous sollicitons cependant vous, frères, savoir ceux peinants en à vous et plaçants debout devant de vous en à Maître et admonestants vous
 1-TESSALONICIENS:5:13 et diriger eux superabondamment en à amour par l'action de eux. pacifiez en à vous-mêmes.
-1-TESSALONICIENS:5:14 Nous appelons à côté cependant vous, frères, admonestez les indisciplinés, exhortez les faibles d'âmes, tenez contre des infirmes, éloignez fureur vers tous.
+1-TESSALONICIENS:5:14 Nous appelons à côté cependant vous, frères, admonestez les désordonnés, exhortez les faibles d'âmes, tenez contre des infirmes, éloignez fureur vers tous.
 1-TESSALONICIENS:5:15 voyez ne pas un quelconque mauvais en échange de mauvais à un quelconque que redonne, mais toujours le bon poursuivez et envers les uns les autres et envers tous.
 1-TESSALONICIENS:5:16 Toujours réjouissez,
 1-TESSALONICIENS:5:17 incessamment priez,
@@ -6535,12 +6535,12 @@ COLOSSIENS:4:18 Le salutation à celle à mienne à main de Paulus. souvenez de 
 2-TESSALONICIENS:3:3 Croyant cependant est le Maître, lequel fixera vous et gardera au loin du mauvais.
 2-TESSALONICIENS:3:4 nous persuadons cependant en à Maître sur vous, en ce que lesquels nous annonçons auprès et vous fîtes et vous faites et vous ferez.
 2-TESSALONICIENS:3:5 Le cependant Maître que dirige droit de haut en bas de vous les coeurs envers l'amour du Dieu et envers la résistance du Christ.
-2-TESSALONICIENS:3:6 Nous annonçons auprès cependant à vous, frères, en à nom du Maître de nous de Iésous de Christ équiper vous au loin de tout de frère irrégulièrement de piétinant autour et ne pas de haut en bas la transmission laquelle prirent à côté à côté de nous.
+2-TESSALONICIENS:3:6 Nous annonçons auprès cependant à vous, frères, en à nom du Maître de nous de Iésous de Christ équiper vous au loin de tout de frère désordonnément de piétinant autour et ne pas de haut en bas la transmission laquelle prirent à côté à côté de nous.
 2-TESSALONICIENS:3:7 Vous-mêmes car vous savez comment attache de lien mimer nous, en ce que non nous désordonnâmes en à vous
 2-TESSALONICIENS:3:8 pas cependant gratuitement pain nous mangeâmes à côté de un quelconque, mais en à frappement et à peine de nuit et de journée travaillants vers ce ne pas alourdir sur un quelconque de vous·
 2-TESSALONICIENS:3:9 non en ce que non nous avons autorité, mais afin que nous-mêmes modèle frappé que nous donnions à vous envers ce mimer nous.
 2-TESSALONICIENS:3:10 et car lorsque nous étions vers vous, celui-ci nous annoncions auprès à vous, en ce que si un quelconque non veut travailler ni cependant mange.
-2-TESSALONICIENS:3:11 Nous écoutons car des quelconques piétinants autour en à vous irrégulièrement pas un travaillants mais travaillants autour·
+2-TESSALONICIENS:3:11 Nous écoutons car des quelconques piétinants autour en à vous désordonnément pas un travaillants mais travaillants autour·
 2-TESSALONICIENS:3:12 à les cependant à tels nous annonçons auprès et nous appelons à côté en à Maître à Iésous à Christ, afin que avec au-delà de tranquillité travaillants le de eux-mêmes pain que mangent.
 2-TESSALONICIENS:3:13 Vous cependant, frères, ne pas que vous abandonniez faisants le bien.
 2-TESSALONICIENS:3:14 Si cependant un quelconque non écoute en soumission à le discours de nous par de l'épître, celui-ci signalez ne pas mixer de bas en haut ensemble à lui, afin que soit tourné intérieurement·
@@ -6960,7 +6960,7 @@ HEBREUX:8:13 en à ce dire nouvelle vieillit la première· ce cependant étant 
 HEBREUX:9:1 Avait certes donc la première actes de justifications de adoration le et aussi saint du monde.
 HEBREUX:9:2 tente car fut préparé de haut en bas la première en à laquelle la et aussi chandelier et la table et la position en avant des pains, laquelle une quelconque est dit Sainte·
 HEBREUX:9:3 avec au-delà cependant le deuxième rideau étendu tente celle étante dite Sainte de Saints,
-HEBREUX:9:4 d'or ayante encensoir et l'arche de la testament étante couverte autour de tous les côtés à objet d'or, en à laquelle stamnos d'or ayante le manne et la bâton de Aaron celle ayante germée et les plaques de la testament,
+HEBREUX:9:4 d'or ayante encensoir et l'arche de la testament étante couverte autour de toute part à objet d'or, en à laquelle stamnos d'or ayante le manne et la bâton de Aaron celle ayante germée et les plaques de la testament,
 HEBREUX:9:5 au-dessus du haut cependant de elle Chérubins de gloire ombrageants de haut en bas le propitiatoire· autour de lesquels non est maintenant dire de haut en bas part.
 HEBREUX:9:6 de Ceux-ci cependant ainsi de étants préparés de haut en bas envers certes la première tente par de tout entrent les sacrificateurs les adorations terminants,
 HEBREUX:9:7 envers cependant la deuxième une fois de l'année seul le chef sacrificateur, non séparément de sang lequel apporte au-dessus de lui-même et de les du peuple de fautes d'ignorances,
@@ -7596,7 +7596,7 @@ APOCALYPSE:2:23 et les enfants de elle je tuerai catégoriquement en à mort. et
 APOCALYPSE:2:24 à vous cependant je dis aux restants à ceux en aux Thyatire, combien grands non ont l'enseignement celle-ci, lesquels des quelconques non connurent les profonds du Satan comme disent· non je jette sur vous autre poids,
 APOCALYPSE:2:25 toutefois lequel vous avez saisissez avec force jusqu'à l'extrémité de lequel le cas échéant que je surgisse.
 APOCALYPSE:2:26 Et celui conquérant et celui gardant jusqu'à l'extrémité de fin les actions de moi, je donnerai à lui autorité sur des ethnies
-APOCALYPSE:2:27 et fera paître eux en à bâton à de fer comme les ustensiles les argileux est frotté ensemble,
+APOCALYPSE:2:27 et fera paître eux en à bâton à de fer comme les ustensiles les argileux est broyé ensemble,
 APOCALYPSE:2:28 comme et moi je prends à côté du père de moi, et je donnerai à lui l'astre le matinal.
 APOCALYPSE:2:29 Celui ayant oreille écoute quel le souffle dit aux églises.
 APOCALYPSE:3:1 Et à le messager de la en aux Sardes de église écris· Ceux-ci dit celui ayant les sept souffles du Dieu et les sept astres· je sais de toi les actions en ce que nom tu as en ce que tu vis, et mort tu es.

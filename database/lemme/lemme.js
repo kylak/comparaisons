@@ -4878,14 +4878,14 @@ lemme={
   "Vient de  ἄτακτος"
  ],
  "ἄτακτος": [
-  "indisciplinés",
+  "désordonnés",
   "dans le désordre, désordonné, hors des rangs (souvent pour des soldats).  irrégulier, démesuré, plaisirs immodérés.  déviant de l'ordre prescrit ou des règlements. Utilisé dans la société Grecque pour ceux qui ne pouvaient attester d'un travail",
   "Adjectif",
   "Vient de ἄλφα (négatif) et un dérivé de  τάσσω"
  ],
  "ἀτάκτως": [
-  "irrégulièrement",
-  "désordre, voir définition  813",
+  "désordonnément",
+  "en désordre, voir définition  813",
   "Adverbe",
   "Vient de  ἄτακτος"
  ],
@@ -7980,7 +7980,7 @@ lemme={
   "Vient de  διά  et  ἔρχομαι"
  ],
  "διερωτάω": [
-  "demander partout",
+  "solliciter à travers",
   "informer, demander pour.   demander beaucoup, une chose après l'autre.  trouver suite à une demande, s'informer, s'enquérir",
   "Verbe",
   "Vient de  διά  et  ἐρωτάω"
@@ -22393,7 +22393,7 @@ lemme={
   "Adverbe (de manière) Vient de  πᾶς"
  ],
  "πάντοθεν": [
-  "de tous les côtés",
+  "de toute part",
   "de tous les côtés, de toutes parts, entièrement, venant de tous côtés, de toutes parts",
   "Adverbe",
   "Adverbe (de provenance) Vient de  πᾶς"
@@ -23749,8 +23749,8 @@ lemme={
   "Vient de  περί  et  φρονέω"
  ],
  "περίχωρος": [
-  "autour de la région",
-  "autour du lieu, environnant, pays d'alentour, se trouvant tout autour, voisinage.   la région environnante.  la région du Jourdain",
+  "région alentour",
+  "autour de la région, région d'alentour, autour du lieu, environnant, pays d'alentour, se trouvant tout autour, voisinage.   la région environnante.  la région du Jourdain",
   "Adjectif",
   "Vient de  περί  et  χώρα"
  ],
