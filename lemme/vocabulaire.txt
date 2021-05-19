@@ -2,118 +2,6 @@ De Didier Fontaine
 
 
 
-
-240	oubli	λήθη
-240b	oubli	ἐπιλησμονή
-
-241	réception	λῆψις
-241b	accueil	δοχή
-
-242	encensoir	λιβανωτός
-242b	brûle-parfum	θυμιατήριον
-
-243	lapider	λιθοβολέω
-243b	lapider	καταλιθάζω
-
-244	estimer	λογίζομαι
-244b	compter	ἀριθμέω
-
-245	insulter	λοιδορέω
-245b	outrager	ἐνυβρίζω
-
-246	qui reste	λοιπός
-246b	restant	ἐπίλοιπος
-
-247	rançon	λύτρον
-247b	rançon	ἀντίλυτρον
-
-248	flambeau	λύχνος
-248b	lampe	λαμπάς
-
-249	une disciple	μαθήτρια
-249b	disciple	μαθητής
-
-250	témoigner	μαρτυρέω
-250b	confesser	ἀνθομολογέομαι
-
-251	vainement	μάτην
-251b	sans raison	εἰκῇ
-
-252	combattre	μάχομαι
-252b	lutter	ἀγωνίζομαι
-
-253	grandeur	μεγαλωσύνη
-253b	majesté	μεγαλειότης
-
-254	grandeur	μέγεθος
-254b	grandeur	μεγαλωσύνη
-
-255	diviser	μερίζω
-255b	séparer	διχάζω
-
-256	souci	μέριμνα
-256b	soin	ἐπιμέλεια
-
-257	remplir	μεστόω
-257b	remplir	γεμίζω
-
-258	diriger	μετάγω
-258b	conduire	ἡγέομαι
-
-259	déplacer	μετακινέω
-259b	transférer	μεθίστημι
-
-260	troquer	μεταλλάσσω
-260b	échanger	ἀντιβάλλω
-
-261	mesurer	μετρέω
-261b	mesurer	ἀντιμετρέω
-
-262	jusqu'à	μέχρι
-262b	jusqu'à ce que	ἕως
-
-263	assurément	μήν
-263b	vraiment	ἀληθῶς
-
-264	indiquer	μηνύω
-264b	révéler	γνωρίζω
-
-265	pas encore	μήπω
-265b	pas encore	μηδέπω
-
-266	souvenir	μνημόσυνον
-266b	mémorial	μνημεῖον
-
-267	comettre l'adultère	μοιχεύω
-267b	être adultère	μοιχάομαι
-
-268	adultère	μοιχός
-268b	péché d'adultère	μοιχεία
-
-269	avec difficulté	μόλις
-269b	difficilement	δυσκόλως
-
-270	habitation	μονή
-270b	demeure	ἔπαυλις
-
-271	insensé	μωρός
-271b	stupide	ἄφρων
-
-272	temple	ναός
-272b	temple	ἱερόν
-
-273	adolescent	νεανίσκος
-273b	jeune homme	νεανίας
-
-274	mort	νεκρός
-274b	mort	θάνατος
-
-275	nuage	νέφος
-275b	nuée	νεφέλη
-
-276	je l'atteste	νή
-276b	par	διά
-
 277	conquête	νῖκος
 277b	victoire	νίκη
 
@@ -424,8 +312,6 @@ De Didier Fontaine
 380	s'approcher	προσέρχομαι
 380b	approcher	ἐγγίζω
 
-381	réintégration	πρόσληψις
-381b	réception	λῆψις
 
 382	approcher	προσπορεύομαι
 382b	s'approcher	προσέρχομαι

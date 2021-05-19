@@ -7238,7 +7238,7 @@ grosjean=[
    "Car c’est pour cela que nous nous fatiguons et que nous combattons : parce que nous espérons au Dieu vivant, qui est le sauveur de tous les hommes et surtout des fidèles.",
    "Ordonne cela et enseigne-le.",
    "Que personne ne méprise ta jeunesse. Deviens au contraire l’exemple des fidèles, par la parole, le compor-tement, la charité, la foi, la pureté.",
-   "Jusqu’à ce que je vienne, adonne-toi à la leéhire, à l’exhortation, à l’enseignement.",
+   "Jusqu’à ce que je vienne, adonne-toi à la lecture, à l’exhortation, à l’enseignement.",
    "Ne néglige pas ce don, en toi, qui t’a été donné par prophétie avec imposition des mains du Conseil des anciens.",
    "Occupe-toi de cela, tiens-toi à cela, pour que ton progrès soit manifeste pour tous.",
    "Sois attentif à toi et à ton enseignement; persistes-y, car, ce faisant, tu te sauveras, toi et ceux qui t’écoutent."

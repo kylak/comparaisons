@@ -178,10 +178,14 @@ for (livre = 1 ; livre != sebastien_lemme.length ; livre++)
 					fr = lemme[vlem][0];
 
 
-					// --- MASCULIN FEMININ PLURIEL ---
+		
+		
+		// --- MASCULIN FEMININ PLURIEL ---
 
-					if (fr.includes(','))
-					{
+
+		// -->  ,
+		if (fr.includes(','))
+		{
 
 
 					fr = fr.split(',');
@@ -566,8 +570,6 @@ for (livre = 1 ; livre != sebastien_lemme.length ; livre++)
 
 
 
-
-
 				else if (!MORPH_INFO.includes('verbe'))
 				{
 					if (MORPH_INFO.includes('neutre') && MORPH_INFO.includes('singulier'))
@@ -600,20 +602,28 @@ for (livre = 1 ; livre != sebastien_lemme.length ; livre++)
 					}
 
 
-
-
 					else
 					{
 						console.log('FR virgule, ne trouve pas la MORPH -> '+fr+' '+MORPH_INFO+' '+vgrec+' '+vlem+' '+lcv);
 					}
 
-
 				}
+
 
 				else if (MORPH_INFO.includes('verbe'))
 				{
-
-					if (MORPH_INFO.includes('singulier'))
+					
+					if (MORPH_INFO.includes('féminin') && MORPH_INFO.includes('singulier'))
+					{
+						fr = fr[2].replace(/^ | $/,'');
+					}
+					
+					else if (MORPH_INFO.includes('féminin') && MORPH_INFO.includes('pluriel'))
+					{
+						fr = fr[3].replace(/^ | $/,'');
+					}
+					
+					else if (MORPH_INFO.includes('singulier'))
 					{
 						fr = fr[0].replace(/^ | $/,'');
 					}
@@ -626,11 +636,13 @@ for (livre = 1 ; livre != sebastien_lemme.length ; livre++)
 					else
 					{
 						fr = fr[0].replace(/^ | $/,'');
-					}
-
-
+					}	
 				}
-					}
+				
+				
+				
+				
+		}
 
 
 
@@ -656,8 +668,7 @@ if (MORPH_INFO.split(',')[0] == 'verbe' || MORPH_INFO.includes('interjection, im
 	frconj=fr.split(' ')[0];
 
 
-
-
+		
 
 		// ------------- //
 
