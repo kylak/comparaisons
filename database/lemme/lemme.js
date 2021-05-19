@@ -1908,13 +1908,13 @@ lemme={
   "Vient de  ἀνά  et de la base de  ἀγκάλη"
  ],
  "ἀναγνωρίζω": [
-  "révéler de bas en haut",
+  "faire reconnaître",
   "reconnaître,fut reconnu, reconnaître",
   "Verbe",
   "Vient de  ἀνά  et  γνωρίζω"
  ],
  "ἀνάγνωσις": [
-  "lecture de bas en haut",
+  "lecture",
   "connaissance haute, lecture, connaissance, savoir.   connaissance, reconnaissance.  lecture",
   "Nom féminin",
   "Vient de  ἀναγινώσκω"
@@ -1938,7 +1938,7 @@ lemme={
   "Vient de  ἀναδείκνυμι"
  ],
  "ἀναδέχομαι": [
-  "recevoir de bas en haut",
+  "accepter de bas en haut",
   "recevoir haut, prendre, prélever, entreprendre, assumer.  recevoir, s'occuper de quelqu'un par hospitalité",
   "Verbe",
   "Vient de  ἀνά  et  δέχομαι"
@@ -2262,7 +2262,7 @@ lemme={
   "Vient de  ἀνά  et  πίπτω"
  ],
  "ἀναπληρόω": [
-  "remplir de bas en haut",
+  "élever à plénitude",
   "accomplir haut, suppléer, mettre le comble, remplir, faire déborder, c'est à dire un fossé  suppléer",
   "Verbe",
   "Vient de  ἀνά  et  πληρόω"
@@ -2502,7 +2502,7 @@ lemme={
   "Vient de la base de  ἀήρ"
  ],
  "ἀνένδεκτος": [
-  "irrecevable",
+  "inacceptable",
   "inadmissible, impossible, ce qui ne peut être admis, inadmissible, incroyable, malséant",
   "Adjectif",
   "Vient de ἄλφα (négatif) et un dérivé du même mot que  ἐνδέχομαι"
@@ -2616,10 +2616,10 @@ lemme={
   "Vient de  ἀντί  et  ἵστημι"
  ],
  "ἀνθομολογέομαι": [
-  "témoigner",
+  "professer",
   "témoigner, répondre en professant ou confessant.  faire un accord, agrément mutuel.  reconnaître, remercier, louer",
   "Verbe",
-  "Vient de  ἀντί  et de  ὁμολογέω"
+  "Vient de  ἀντί  et de  ὁμολογέω anti(pro-, contre, en face) omo(de même) logeo(discourir) : Donc professer"
  ],
  "ἄνθος": [
   "fleur",
@@ -2790,7 +2790,7 @@ lemme={
   "Vient d'un composé de  ἀντί  et  ἀλλάσσω"
  ],
  "ἀνταναπληρόω": [
-  "compléter",
+  "élever à plénitude en échange",
   "compléter, achever, achever, accomplir.   en Colossiens 1.24, le sens est : \"je me réjouis de pouvoir ainsi, dans mes souffrances terrestres -qui sont aussi celles du Christ- accomplir ce qui reste à faire pour le douloureux enfantement de l'Eglise, son corps\"",
   "Verbe",
   "Vient de  ἀντί  et  ἀναπληρόω"
@@ -2838,7 +2838,7 @@ lemme={
   "Particule primaire"
  ],
  "ἀντιβάλλω": [
-  "échanger",
+  "jeter en échange",
   "échanger, entretenir, discuter",
   "Verbe",
   "Vient de  ἀντί  et  βάλλω"
@@ -2916,13 +2916,13 @@ lemme={
   "Vient de  ἀντί  et  λοιδορέω"
  ],
  "ἀντίλυτρον": [
-  "rançon",
+  "en échange de rançon",
   "rançon, ce qui est donné pour un autre comme prix de son rachat, sa rédemption, en rançon",
   "Nom neutre",
   "Vient de  ἀντί  et  λύτρον"
  ],
  "ἀντιμετρέω": [
-  "mesurer",
+  "mesurer en échange",
   "mesurer, mesurer en retour, rendre, rembourser",
   "Verbe",
   "Vient de  ἀντί  et  μετρέω"
@@ -3516,7 +3516,7 @@ lemme={
   "Vient de  ἀπό  et  δεκατόω"
  ],
  "ἀπόδεκτος": [
-  "au loin acceptable",
+  "de loin acceptable",
   "au loin acceptable, accepté au loin, acceptable, agréable",
   "Adjectif",
   "Vient de  ἀποδέχομαι"
@@ -3558,7 +3558,7 @@ lemme={
   "Vient de  ἀπό  et  δοκιμάζω"
  ],
  "ἀποδοχή": [
-  "large réception",
+  "large acceptation",
   "être reçue, réception, admission, acceptation, approbation",
   "Nom féminin",
   "Vient de  ἀποδέχομαι"
@@ -3948,7 +3948,7 @@ lemme={
   "Vient de  ἀπό  et  τάσσω"
  ],
  "ἀποτελέω": [
-  "accomplir entièrement",
+  "finir de loin",
   "accomplir entièrement, consommer loin, parfaire, amener au bout.  accomplir",
   "Verbe",
   "Vient de  ἀπό  et  τελέω"
@@ -4230,7 +4230,7 @@ lemme={
   "Peut-être le même que ἄρσην"
  ],
  "ἀριθμέω": [
-  "compter",
+  "nombrer",
   "compter, compter, dénombrer",
   "Verbe",
   "Vient de  ἀριθμός"
@@ -5262,7 +5262,7 @@ lemme={
   "Apparemment un mot primaire"
  ],
  "ἀφροσύνη": [
-  "stupidité",
+  "insouciance",
   "folie , insensé, sottise, folie, insensé  insouciance, témérité",
   "Nom féminin",
   "Vient de  ἄφρων"
@@ -6432,14 +6432,14 @@ lemme={
   "Vient de  γελάω"
  ],
  "γεμίζω": [
-  "remplir",
-  "remplir, être rempli, rassasier, remplir",
+  "remplir pleinement",
+  "saturer, remplir pleinement, être rempli, rassasier, remplir",
   "Verbe",
   "Vient de  γέμω"
  ],
  "γέμω": [
-  "être plein",
-  "plein, pleine, être rempli, plein",
+  "être plein, être pleins, être pleine, être pleines",
+  "être lest, être lesté, pleine, être rempli, plein",
   "Verbe",
   "Mot racine"
  ],
@@ -7254,7 +7254,7 @@ lemme={
   "Comparatif de  δύο"
  ],
  "δέχομαι": [
-  "recevoir",
+  "accepter",
   "recevoir, prendre, accueillir, contribuer, embrasser, prendre avec la main.   saisir, soulever.   recevoir.   celui qui reçoit.  recevoir ou accorder un accès à un visiteur, ne pas refuser de relations ou une amitié    recevoir l'hospitalité  recevoir dans sa famille pour élever ou éduquer.    ce qui est offert en discours, paroles, instruction.   recevoir favorablement, prêter l'oreille, embrasser, faire sien.   recevoir, prendre sur soi, soutenir, endurer.   obtenir.   apprendre.    Pour les Synonymes voir entrée  5877",
   "Verbe",
   "Verbe primaire"
@@ -7339,7 +7339,7 @@ lemme={
  ],
  "διά": [
   "par",
-  "par, à travers, avec, pour, donc, parce que, .., à travers.   un lieu.   avec.  dans.   le temps.   partout.  pendant.   des moyens.   par.  par le moyen de.     en.   la raison pour laquelle une chose est faite.   en raison de.  en compte de.  à cause de cette raison.  donc",
+  "par, à travers, avec, pour, donc, parce que, .., à travers.   un lieu.   avec.  dans.   le temps.   partout.  pendant.   des moyens.   par.  par le moyen de.     en.   la raison pour laquelle une chose est faite, par le fait, en raison de.  en compte de.  à cause de cette raison, pour les verbes : passer- traverser- pénétrer-",
   "Préposition",
   "Préposition dénotant le canal d'une action"
  ],
@@ -7423,9 +7423,9 @@ lemme={
  ],
  "διαδέχομαι": [
   "succéder",
-  "succéder, avoir reçu,ayant reçu, recevoir à travers un autre, recevoir en succession, recevoir en retour, succéder à",
+  "succéder, accepter à travers, avoir reçu,ayant reçu, recevoir à travers un autre, recevoir en succession, recevoir en retour, succéder à",
   "Verbe",
-  "Vient de  διά  et  δέχομαι"
+  "Vient de  διά  et  δέχομαι et διάδοχος "
  ],
  "διάδημα": [
   "diadèmes",
@@ -7441,7 +7441,7 @@ lemme={
  ],
  "διάδοχος": [
   "successeur",
-  "successeur, qui succéder à, un successeur",
+  "accepteur à travers, successeur, qui succéder à, un successeur",
   "Nom masculin",
   "Vient de  διαδέχομαι"
  ],
@@ -7578,13 +7578,13 @@ lemme={
   "Vient de  διά  et  λύω"
  ],
  "διαμαρτύρομαι": [
-  "protester",
-  "attester, conjurer, rendre témoignage, annoncer, avertir, témoigner.   sincèrement, religieusement.   attester, affirmer solennellement.   rendre un témoignage solennel.  confirmer une chose par témoignage, témoigner, faire que cette chose soit acceptée",
+  "passer témoignage",
+  "traverser témoignage, témoigner à travers, attester, conjurer, rendre témoignage, annoncer, avertir, témoigner.   sincèrement, religieusement.   attester, affirmer solennellement.   rendre un témoignage solennel.  confirmer une chose par témoignage, témoigner, faire que cette chose soit acceptée",
   "Verbe",
   "Vient de  διά  et  μαρτυρέω"
  ],
  "διαμάχομαι": [
-  "lutter en séparant",
+  "batailler en séparant",
   "disputer,un vif débat, combattre.  soutenir férocement",
   "Verbe",
   "Vient de  διά  et  μάχομαι"
@@ -8412,8 +8412,8 @@ lemme={
   "Vient de  δοῦλος"
  ],
  "δοχή": [
-  "réception",
-  "réception, festin, un festin, un banquet",
+  "acceptation",
+  "réception, accueil, festin, un festin, un banquet",
   "Nom féminin",
   "Vient de  δέχομαι"
  ],
@@ -8988,8 +8988,8 @@ lemme={
   "Vient de  εἰμί"
  ],
  "εἰκῇ": [
-  "vainement",
-  "vainement, d'une façon inconsidérée, sans but, sans une cause juste.  en vain.   sans succès ou effort",
+  "sans cause",
+  "vainement, d'une façon inconsidérée, sans but, sans une cause juste.  en vain.   sans succès ou effort, sans cause : sine causa(romain), Syriac ܐܝܩܐ‎ (ʾīqēʾ) : au hasard , sans cause , imprudemment , en vain",
   "Adverbe",
   "Vient probablement de  εἴκω  (à travers l'idée d'insuccès)"
  ],
@@ -9108,8 +9108,8 @@ lemme={
   "Vient de  εἰς  et  ἀκούω"
  ],
  "εἰσδέχομαι": [
-  "recevoir au dedans",
-  "accueillir,accueillerai, recevoir avec bonté, traiter avec faveur",
+  "accepter envers",
+  "accueillir, accueillerai, recevoir au dedans, recevoir envers, recevoir avec bonté, traiter avec faveur",
   "Verbe",
   "Vient de  εἰς  et  δέχομαι"
  ],
@@ -9271,7 +9271,7 @@ lemme={
  ],
  "ἐκδέχομαι": [
   "attendre",
-  "attendre , se prolonger, recevoir, accepter.  attendre pour, s'attendre à, ce qui se fait attendre",
+  "accepter hors, attendre , se prolonger, recevoir, accepter.  attendre pour, s'attendre à, ce qui se fait attendre",
   "Verbe",
   "Vient de  ἐκ  et  δέχομαι"
  ],
@@ -9331,7 +9331,7 @@ lemme={
  ],
  "ἐκδοχή": [
   "attente",
-  "attente, l'action ou la manière de recevoir.   réception.  succession.  interprétation.  espérance, attente",
+  "acceptation hors, attente, l'action ou la manière de recevoir.   réception.  succession.  interprétation.  espérance, attente",
   "Nom féminin",
   "Vient de  ἐκδέχομαι"
  ],
@@ -9582,13 +9582,13 @@ lemme={
   "Vient de  ἐκ  et  πλέω"
  ],
  "ἐκπληρόω": [
-  "remplir à l'excès",
+  "faire plénitude à l'excès",
   "accomplir,accomplie, remplir pleinement, remplir complètement.  métaphorique accomplir, faire bien",
   "Verbe",
   "Vient de  ἐκ  et  πληρόω"
  ],
  "ἐκπλήρωσις": [
-  "submersion",
+  "plénitude à l'excès",
   "submersion, inondation, évacuation, débordement, remplissage dehors, un achèvement, un accomplissement, une perfection",
   "Nom féminin",
   "Vient de  ἐκπληρόω,  πλήρης, plḗrēs (« plein, complet »)"
@@ -10374,7 +10374,7 @@ lemme={
   "Vient de  ἕνδεκα"
  ],
  "ἐνδέχομαι": [
-  "être recevable",
+  "être acceptable",
   "convenir,il convient, recevoir, admettre, approuver, permettre.  il peut être permis, il est possible, cela se peut",
   "Verbe",
   "Troisième personne du présent singulier d'un composé de  ἐν  et  δέχομαι"
@@ -10740,7 +10740,7 @@ lemme={
   "Vient de  ἐν  et d'un dérivé de  τύπος"
  ],
  "ἐνυβρίζω": [
-  "insulter",
+  "brutaliser dedans",
   "outrager,aura outragé, insulter",
   "Verbe",
   "Vient de  ἐν  et  ὑβρίζω"
@@ -11280,7 +11280,7 @@ lemme={
   "Vient d'un composé de  ἐπί  et  ἄρχω  (du sens de gouverneur de district, \"eparch\")"
  ],
  "ἔπαυλις": [
-  "demeure",
+  "camp",
   "demeure, une ferme.  une demeure",
   "Nom féminin",
   "Vient de  ἐπί  et d'un équivalent de  αὐλή"
@@ -11508,7 +11508,7 @@ lemme={
   "Vient de  ἐπιγράφω"
  ],
  "ἐπιγράφω": [
-  "faire épigraphe, faire épigraphes",
+  "faire épigraphe, faire épigraphes, faire épigraphe, faire épigraphes",
   "inscrire, écrire sur, porter les noms, inscription, écrire sur, inscrire.  métaphorique écrire dans l'esprit",
   "Verbe",
   "Vient de  ἐπί  et  γράφω"
@@ -11520,7 +11520,7 @@ lemme={
   "Vient de  ἐπί  et  δείκνυμι"
  ],
  "ἐπιδέχομαι": [
-  "recevoir sûrement",
+  "accepter sûrement",
   "recevoir,reçoit, recevoir l'hospitalité  laisser entrer, admettre, donc ne pas rejeter",
   "Verbe",
   "Vient de  ἐπί  et  δέχομαι"
@@ -11688,7 +11688,7 @@ lemme={
   "Vient d'un dérivé de  ἐπιλανθάνομαι"
  ],
  "ἐπίλοιπος": [
-  "restant",
+  "restant de surplus",
   "reste, ce qui reste en plus de, laissé par dessus",
   "Adjectif",
   "Vient de  ἐπί  et  λοιπός"
@@ -11718,7 +11718,7 @@ lemme={
   "Vient de  ἐπιμελέομαι"
  ],
  "ἐπιμελέομαι": [
-  "soucier sur",
+  "prendre soin",
   "prendre soin, avoir soin de, prendre soin d'une personne ou d'une chose, soigner",
   "Verbe",
   "Vient de  ἐπί  et de  μέλει"
@@ -11742,7 +11742,7 @@ lemme={
   "Vient de  ἐπί  et  νεύω"
  ],
  "ἐπίνοια": [
-  "pensée",
+  "sur-intelligence",
   "pensée, pensée, but",
   "Nom féminin",
   "Vient de  ἐπί  et  νοῦς"
@@ -12828,7 +12828,7 @@ lemme={
   "Vient d'un composé de  εὖ  et  πρέπω"
  ],
  "εὐπρόσδεκτος": [
-  "bien recevable auprès, bien recevables auprès, bien recevable auprès, bien recevables auprès",
+  "bien acceptable auprès, bien acceptables auprès, bien acceptable auprès, bien acceptables auprès",
   "agréable, agréé, favorable, bien reçu, accepté, acceptable",
   "Adjectif",
   "Vient de  εὖ  et d'un dérivé de  προσδέχομαι"
@@ -13080,7 +13080,7 @@ lemme={
   "Vient de  ἐπί  et de ικνέομαι , proche de ἥκω et ἱκανός"
  ],
  "ἐφίστημι": [
-  "placer debout sur",
+  "présenter",
   "placer debout sur, se pencher, venir, se jeter, se présenter  se porter, être présent, surprendre, insister, approcher, mettre sur, placer par dessus.   se tenir, être présent.  se tenir au-dessus, survenir.   utilisé pour des personnes survenant soudainement.   un ange.  des rêves.   le mal survenant sur quelqu'un.   avoir en main.   être prêt,   du temps.   venir sur.   la pluie",
   "Verbe",
   "Vient de  ἐπί  et  ἵστημι"
@@ -13122,7 +13122,7 @@ lemme={
   "Incluant une variante de 'scheo' (skheh'-o), utilisé seulement à certains temps), verbe primaire"
  ],
  "ἕως": [
-  "jusqu'à",
+  "jusqu'à ce que",
   "jusqu'à, tant, pendant que, jusques à quand, fut-ce, pour,  tandis, chez, encore, jusqu'à, jusqu'à ce que",
   "Conjonction",
   "Affinité incertaine"
@@ -13344,13 +13344,13 @@ lemme={
   "Un adverbe de confirmation, peut-être intensif de  ἤ"
  ],
  "ἡγεμονεύω": [
-  "gouverner",
+  "être gouverneur",
   "gouverner, être le chef, conduire la marche.  diriger, commander.   être gouverneur d'une province.  se dit d'un proconsul (vice-consul)",
   "Verbe",
   "Vient de  ἡγεμών"
  ],
  "ἡγεμονία": [
-  "hégémonie",
+  "gouvernement",
   "hégémonie, commandement suprême, autorité, souveraineté   le règne d'un empereur Romain",
   "Nom féminin",
   "Vient de  ἡγεμών"
@@ -13362,7 +13362,7 @@ lemme={
   "Vient de  ἡγέομαι"
  ],
  "ἡγέομαι": [
-  "diriger",
+  "gouverner",
   "diriger, mener, chef, celui qui gouverne, gouverneur, juger, mener, conduire.   aller devant.  être un chef.   diriger, commander.  avoir de l'autorité sur.  prince, pouvoir royal, gouverneur, vice-roi, chef, anciens ou responsables d'églises.  toute sorte de chefs, responsables, meneurs.  celui qui porte la parole.    considérer, juger, penser, estimer   Pour les Synonymes voir entrée  5837",
   "Verbe",
   "Vient en principe d'une forme renforcée de  ἄγω"
@@ -13686,19 +13686,19 @@ lemme={
   "Vient de  θάνατος"
  ],
  "θανατηφόρος": [
-  "porteur de mort",
+  "porteur de trépas",
   "porteur de mort, mortifère, apportant la mort, cause la mort",
   "Adjectif",
   "Vient de  θάνατος  (forme féminine) et  φέρω"
  ],
  "θάνατος": [
-  "mort, morts",
+  "trépas, trépas",
   "mort, mourront, mourrait, mortelle, la mort du corps.   cette séparation (naturelle ou violente) de l'âme et du corps par laquelle se termine la vie sur la terre.  avec l'idée implicite de misère future en enfer.   le pouvoir de la mort.    le monde souterrain, la demeure de la mort, était représenté comme très noir, l'équivalent de la région des épaisses ténèbres, région enveloppée de l'obscurité de l'ignorance et du péché   métaphorique, la perte de la vie terrestre.   misère de l'âme coupable de péché, qui commence sur la terre mais continue et s'accroît après la mort du corps, en enfer.   l'état misérable du méchant en enfer.  dans un sens plus large, la mort qui inclue toutes les misères provenant du péché, tant la mort physique que la négation d'une vie consacrée à Dieu, bénie par lui sur terre, et qui sera suivie de misère en enfer",
   "Nom masculin",
   "Vient de  θνῄσκω"
  ],
  "θανατόω": [
-  "mettre à mort",
+  "mettre à trépas",
   "tuer, faire mourir, mettre à mort, mettre à mort.  métaphorique.   faire mourir, c'est à dire détruire, éteindre.  être libéré, comme par la mort, de l'esclavage de toute chose, littéralement être mort à quelque chose",
   "Verbe",
   "Vient de  θάνατος"
@@ -14172,19 +14172,19 @@ lemme={
   "Vient d'un dérivé de  θύω  (sens de souffler, pour un certain arbre parfumé)"
  ],
  "θυμίαμα": [
-  "encens",
+  "sacrifice de l'encens, sacrifices de l'encens",
   "encens, parfum , aromates, substance aromatique en brûlant, encens",
   "Nom neutre",
   "Vient de  θυμιάω"
  ],
  "θυμιατήριον": [
-  "encensoir",
+  "instrument à sacrifice de l'encens",
   "encensoir, ustensile pour faire fumer ou brûler des encens.  un autel des parfums",
   "Nom neutre",
   "Vient d'un dérivé de  θυμιάω + τήριον(instrument, machine)"
  ],
  "θυμιάω": [
-  "brûler l’encens",
+  "sacrifier l’encens",
   "offrir le parfum, brûler de l'encens, du parfum",
   "Verbe",
   "Vient d'un dérivé de  θύω  (sens de fumer)"
@@ -15816,7 +15816,7 @@ lemme={
   "Vient de  κατά  et  λείπω"
  ],
  "καταλιθάζω": [
-  "lapider",
+  "pierrer de haut en bas",
   "lapider,lapidera, accabler, tuer à coups de pierres, lapider",
   "Verbe",
   "Vient de  κατά  et  λιθάζω"
@@ -16008,7 +16008,7 @@ lemme={
   "Vient de  κατά  et  ἀργέω"
  ],
  "καταριθμέω": [
-  "compter de haut en bas",
+  "nombrer de haut en bas",
   "compter de haut en bas, compter avec",
   "Verbe",
   "Vient de  κατά  et  ἀριθμέω"
@@ -16284,7 +16284,7 @@ lemme={
   "Vient de  κατά  et  εὐθύνω"
  ],
  "κατεφίστημι": [
-  "soulever de haut en bas",
+  "présenter contre",
   "soulever de haut en bas, se soulever contre, entrer en insurrection",
   "Verbe",
   "Vient de  κατά  et  ἐφίστημι"
@@ -18129,7 +18129,7 @@ lemme={
   "réception",
   "réception, prise, celui qui reçoit",
   "Nom féminin",
-  "Vient de  λαμβάνω"
+  "Vient de λαμβάνω et PHILIPPIENS 4:15 Paul parle de dépense et de recette, donation et prise, donation et réception"
  ],
  "λίαν": [
   "extrêmement",
@@ -18144,7 +18144,7 @@ lemme={
   "D'origine étrangère [cf  03828 ]"
  ],
  "λιβανωτός": [
-  "encensoir",
+  "encensoir à oliban",
   "encensoir, la résine extraite de l'arbre à encens.  un encensoir",
   "Nom masculin",
   "Vient de  λίβανος"
@@ -18177,7 +18177,7 @@ lemme={
   "lapider",
   "lapider, jeter de pierre, tuer par lapidation, lapider.  frapper quelqu'un à coups de pierres",
   "Verbe",
-  "Vient d'un composé de  λίθος  et  βάλλω, jeter+pierre donc lapider"
+  "Vient d'un composé de  λίθος  et  βάλλω , jeter+pierre donc lapider"
  ],
  "λίθος": [
   "pierre, pierres",
@@ -18486,10 +18486,10 @@ lemme={
   "Vient de  λύχνος"
  ],
  "λύχνος": [
-  "lampe, lampes",
+  "chandelle, chandelles",
   "lampe , flambeau, une lampe, une bougie, une chandelle, ce qui est sur un support de lampe ou chandelier.   \"Ton œil est comme la lampe...\" (Luc 11.34) : cette phrase nous montre le corps qui va et qui vient et qui est éclairé par les prophéties de l'Ancien Testament, d'autant plus que ces prophéties sont le moyen d'avoir de la connaissance au sujet du retour glorieux de Jésus depuis les cieux",
   "Nom masculin",
-  "Vient de  λευκός"
+  "Vient de  λευκός ; voir λυχνία , chandelle sur chandelier "
  ],
  "λύω": [
   "délier",
@@ -18943,13 +18943,13 @@ lemme={
   "Vient d'un dérivé présumé de  μάχη"
  ],
  "μάχη": [
-  "combats",
-  "luttes, querelles, disputes, une lutte ou un combat.   de ceux en armes : une bataille.  de personnes en différend : lutte, dispute.  une querelle",
+  "batailles",
+  "bataille, luttes, querelles, disputes, une lutte ou un combat.   de ceux en armes : une bataille.  de personnes en différend : lutte, dispute.  une querelle",
   "Nom féminin",
   "Vient de  μάχομαι"
  ],
  "μάχομαι": [
-  "combattre",
+  "batailler",
   "disputer, se battre, avoir des querelles, combat, lutte.    de combattants armés, ou ceux qui engagent un combat corps à corps.  de ceux qui s'engagent dans une guerre des mots, querelle, dispute",
   "Verbe",
   "Vient apparemment d'un mot racine"
@@ -18973,7 +18973,7 @@ lemme={
   "Vient de  μέγας"
  ],
  "μεγαλειότης": [
-  "grandeur",
+  "magnificence",
   "grandeur, magnificence, grandeur, magnificence.   de la majesté de Dieu.  de la splendeur visible de la majesté divine telle qu'elle apparaît dans la transfiguration de Christ",
   "Nom féminin",
   "Vient de  μεγαλεῖος"
@@ -18997,7 +18997,7 @@ lemme={
   "Vient de  μέγας"
  ],
  "μεγαλωσύνη": [
-  "grandeur",
+  "majesté",
   "grandeur, majesté, majesté   de la majesté de Dieu",
   "Nom féminin",
   "Vient de  μέγας"
@@ -19213,10 +19213,10 @@ lemme={
   "Vient de  μέρος"
  ],
  "μέριμνα": [
-  "soin, soins, soin, soins",
+  "inquiétude, inquiétudes, inquiétude, inquiétudes",
   "soin, soins, soin, soins, soin, souci, anxiété",
   "Nom féminin",
-  "Vient de  μερίζω  (à travers l'idée de distraction)"
+  "Vient de  μερίζω  (à travers l'idée de distraction) voir μεριμνάω"
  ],
  "μεριμνάω": [
   "inquiéter",
@@ -19369,8 +19369,8 @@ lemme={
   "Vient de  μετά  et  καλέω"
  ],
  "μετακινέω": [
-  "déplacer",
-  "déplacer, quitter un lieu, se déplacer, se détourner",
+  "transférer",
+  "bouger au-delà, déplacer, déporter, quitter un lieu, se déplacer, se détourner",
   "Verbe",
   "Vient de  μετά  et  κινέω"
  ],
@@ -19387,8 +19387,8 @@ lemme={
   "Vient de  μεταλαμβάνω"
  ],
  "μεταλλάσσω": [
-  "échanger",
-  "échanger, échanger, changer avec, changement",
+  "changer au-delà",
+  "troquer, altérer, changer au-delà",
   "Verbe",
   "Vient de  μετά  et  ἀλλάσσω"
  ],
@@ -19567,8 +19567,8 @@ lemme={
   "Vient de  μηδέ  et  ποτέ"
  ],
  "μηδέπω": [
-  "pas encore",
-  "pas encore, pas encore",
+  "pas cependant encore",
+  "ni cependant néanmoins, pas cependant encore",
   "Adverbe",
   "Vient de  μηδέ  et  -πω"
  ],
@@ -19603,7 +19603,7 @@ lemme={
   "Vient de 'melon' (une brebis)"
  ],
  "μήν": [
-  "vraiment",
+  "certainement",
   "vraiment, certainement, vraiment, véritablement, certainement",
   "Particule",
   "Une forme renforcée de  μέν"
@@ -19615,7 +19615,7 @@ lemme={
   "Un mot primaire"
  ],
  "μηνύω": [
-  "révéler",
+  "indiquer",
   "révéler, révéler ou faire connaître une chose secrète.   dans un sens judiciaire : informer, rapporter.   déclarer, dire, rendre connu.  indiquer, intimer.   d'un enseignant",
   "Verbe",
   "Vient probablement de  μασσάομαι  et  μνάομαι  (c'est à dire 'mao', s'efforcer)"
@@ -19885,7 +19885,7 @@ lemme={
   "Vient d'un dérivé de  μνήμη"
  ],
  "μνημόσυνον": [
-  "mémorial",
+  "souvenance",
   "mémorial, mémorial (par lequel la mémoire est préservée), un souvenir",
   "Nom neutre",
   "Vient de  μνημονεύω"
@@ -19906,7 +19906,7 @@ lemme={
   "laborieusement",
   "laborieusement, durement, avec difficulté",
   "Adverbe",
-  "Vient du mot primaire 'mogos' (peiner)"
+  "Vient du mot primaire 'mogos' (peiner) variante de  μόλις"
  ],
  "μόδιος": [
   "muid",
@@ -19927,13 +19927,13 @@ lemme={
   "Forme prolongée du féminin de  μοιχός"
  ],
  "μοιχάομαι": [
-  "adultérer",
+  "faire adultère",
   "adultérer, commettre adultère , devenir adultère, avoir une relation illicite avec une autre femme, commettre un adultère avec",
   "Verbe",
   "Vient de  μοιχός"
  ],
  "μοιχεία": [
-  "adultères",
+  "adultérations",
   "adultère, adultère",
   "Nom féminin",
   "Vient de  μοιχεύω"
@@ -19951,7 +19951,7 @@ lemme={
   "Peut-être un mot primaire"
  ],
  "μόλις": [
-  "difficilement",
+  "laborieusement",
   "difficilement, avec difficulté, à peine.  non facilement, c'est à dire rarement",
   "Adverbe",
   "Probablement par variante de  μόγις"
@@ -20179,25 +20179,25 @@ lemme={
   "Vient peut-être de  μέμφομαι"
  ],
  "μωραίνω": [
-  "bêtiser",
+  "rendre fou, rendre fous",
   "être fou,perdre sa saveur,convaincu de folie, être fou, agir follement.   faire des folies.   prouver qu'une personne ou une chose est folle.   d'un goût plat et sans saveur.   d'un sel qui a perdu sa force et sa saveur",
   "Verbe",
   "Vient de  μωρός"
  ],
  "μωρία": [
-  "bêtise",
-  "bêtise, folie, stupidité, folie",
+  "folie",
+  "bêtise, folie, stupidité",
   "Nom féminin",
   "Vient de  μωρός"
  ],
  "μωρολογία": [
-  "discours bête",
+  "folle discussion",
   "propos insensés, propos insensés",
   "Nom féminin",
   "Vient d'un composé de  μωρός  et  λέγω"
  ],
  "μωρός": [
-  "insensé, insensés, insensée, insensées",
+  "fou, fous, folle, folles",
   "insensé, folles, folie, choses folles, fou, folie.  impie, sans Dieu",
   "Adjectif",
   "Vient probablement de  μυστήριον"
@@ -20431,7 +20431,7 @@ lemme={
   "Vient du comparatif de  νέος"
  ],
  "νή": [
-  "par",
+  "oui certes",
   "par, par.   utilisé pour l'affirmations de serments",
   "Particule",
   "Probablement une forme intensive de  ναί"
@@ -20833,10 +20833,10 @@ lemme={
   "Vient de  ξένος"
  ],
  "ξενοδοχέω": [
-  "recevoir l'étranger",
+  "accepter l'étranger",
   "recevoir l'étranger, recevoir l'étranger",
   "Verbe",
-  "Vient d'un composé de  ξένος  et  δέχομαι"
+  "Vient d'un composé de  ξένος  et  δέχομαι peut-être δοκέω"
  ],
  "ξένος": [
   "étranger, étrangers, étrangère, étrangères",
@@ -22501,7 +22501,7 @@ lemme={
   "D'origine orientale voir  06508"
  ],
  "παραδέχομαι": [
-  "recevoir de côté",
+  "accepter à côté",
   "recevoir de côté, recevoir, s'accaparer, prendre sur soi-même.  admettre : ne pas rejeter, accepter, recevoir.   d'un son : reconnaître son appartenance",
   "Verbe",
   "Vient de  παρά  et  δέχομαι"
@@ -24157,26 +24157,26 @@ lemme={
   "Vient de  πλείων"
  ],
  "πλήρης": [
-  "plein, pleins, pleine, pleines",
-  "plein, formé, rempli, couvert, beaucoup, plein, c'est à dire rempli (contraire de vide).   de vases creux.  d'une surface, couverte de toutes parts.  de l'âme, complètement perméable.   plein, c'est à dire complet.   où il ne manque rien, parfait",
+  "de plénitude, de plénitudes, de plénitude, de plénitudes",
+  "plein, pleins, pleine, pleines, formé, rempli, couvert, beaucoup, plein, c'est à dire rempli (contraire de vide).   de vases creux.  d'une surface, couverte de toutes parts.  de l'âme, complètement perméable.   plein, c'est à dire complet.   où il ne manque rien, parfait",
   "Adjectif",
   "Vient de  πλήθω"
  ],
  "πληροφορέω": [
-  "porter plein",
+  "porter à plénitude",
   "porter plein, porter ou apporter pleinement, remplir.   faire qu'une chose soit montrée dans sa plénitude.   accomplir le ministère en toute chose.   amener au bout, accomplir.   les choses qui ont été accomplies.   remplir quelqu'un d'une pensée, conviction, ou inclinaison.   persuader, convaincre.  être persuadé, pleinement convaincu ou assuré",
   "Verbe",
   "Vient de  πλήρης  et  φορέω"
  ],
  "πληροφορία": [
-  "pleine portée",
+  "portée de plénitude",
   "pleine portée, pleine portance, portée au plérôme, pleine portée, pleine portance, portée au plérôme",
   "Nom féminin",
   "Vient de  πληροφορέω"
  ],
  "πληρόω": [
-  "remplir",
-  "remplir,accomplir,combler,achever,parfaite,s'acquitter, remplir c'est à dire remplir jusqu'au bord.   faire abonder, fournir d'une façon libérale.  rendre plein c'est à dire compléter.   remplir au sommet : plus rien n'étant nécessaire, à ras bord, une pleine mesure.  consommer : un nombre.   compléter dans chaque cas, rendre parfait.  amener au bout, à ses fins, accomplir.   amener à la réalisation, réaliser.   accomplir, exécuter.  de dires, promesses, prophéties : ratifier, accomplir.  accomplir, c'est à dire faire que la volonté de Dieu, connue par loi soit obéie autant qu'elle peut l'être, que les promesses données par les prophètes reçoivent leur accomplissement",
+  "faire plénitude",
+  "rendre plérôme, accomplir,combler,achever,parfaite,s'acquitter, remplir c'est à dire remplir jusqu'au bord.   faire abonder, fournir d'une façon libérale.  rendre plein c'est à dire compléter.   remplir au sommet : plus rien n'étant nécessaire, à ras bord, une pleine mesure.  consommer : un nombre.   compléter dans chaque cas, rendre parfait.  amener au bout, à ses fins, accomplir.   amener à la réalisation, réaliser.   accomplir, exécuter.  de dires, promesses, prophéties : ratifier, accomplir.  accomplir, c'est à dire faire que la volonté de Dieu, connue par loi soit obéie autant qu'elle peut l'être, que les promesses données par les prophètes reçoivent leur accomplissement",
   "Verbe",
   "Vient de  πλήρης"
  ],
@@ -24187,7 +24187,7 @@ lemme={
   "Vient de  πληρόω"
  ],
  "πλησίον": [
-  "proche",
+  "prochain",
   "proche , près , concitoyen, un prochain.   un ami.  toute autre personne, et si deux sont concernées : l'autre (le compagnon, le voisin), et selon les Juifs, tout membre de la race Hébraïque.  selon Christ, tout homme sans considération de race ou de religion avec qui nous vivons ou que nous risquons de rencontrer",
   "Adjectif/Adverbe",
   "Neutre d'un dérivé de pelas (proche)"
@@ -24391,7 +24391,7 @@ lemme={
   "Vient probablement du même mot que  πόλεμος , ou peut-être de  πολύς"
  ],
  "πολιτάρχης": [
-  "magistrats des villes",
+  "chefs de ville",
   "magistrat de ville, un administrateur d'une ville ou de citoyens",
   "Nom masculin",
   "Vient de  πόλις  et  ἄρχω"
@@ -24403,7 +24403,7 @@ lemme={
   "Vient de  πολίτης  (\"constitution politique\")"
  ],
  "πολίτευμα": [
-  "gouvernement",
+  "acte de citoyenneté",
   "gouvernement, l'administration des affaires civiles ou d'une communauté  la constitution d'une communauté, forme de gouvernement et de lois par laquelle elle est administrée.  un état, une communauté d'états.   la communauté des citoyens",
   "Nom neutre",
   "Vient de  πολιτεύομαι"
@@ -25285,7 +25285,7 @@ lemme={
   "Vient de  πρός  et  ἀναλίσκω"
  ],
  "προσαναπληρόω": [
-  "accomplir haut auprès",
+  "élever à plénitude vers",
   "accomplir haut auprès, pourvoir, remplir par ajout à",
   "Verbe",
   "Vient de  πρός  et  ἀναπληρόω"
@@ -25315,7 +25315,7 @@ lemme={
   "Vient de  πρός  et  δέομαι"
  ],
  "προσδέχομαι": [
-  "recevoir auprès",
+  "accepter auprès",
   "recevoir auprès, recevoir pour soi-même, laisser entrer, donner accès à soi-même.   admettre, recevoir pour relation et camaraderie.  recevoir quelqu'un (venant de quelque lieu).  accepter (ne pas rejeter) une chose offerte.   s'attendre à : l'accomplissement des promesses",
   "Verbe",
   "Vient de  πρός  et  δέχομαι"
@@ -25489,7 +25489,7 @@ lemme={
   "Vient de  πρός  et  λαμβάνω"
  ],
  "πρόσληψις": [
-  "réception",
+  "réception auprès",
   "réception, prise auprès, une réception : dans le royaume de Dieu",
   "Nom féminin",
   "Vient de  προσλαμβάνω"
@@ -28237,8 +28237,8 @@ lemme={
   "Vient de  σύν  et  λαλέω"
  ],
  "συλλαμβάνω": [
-  "prendre avec",
-  "prendre avec, saisir avec, arrêter, prendre : quelqu'un comme prisonnier.  concevoir, d'une femme.   métaphorique de luxure que l'homme favorise sous impulsion.   se saisir.   dans un sens hostile, faire quelqu'un prisonnier.   se tenir lié avec quelqu'un, donner assistance, aider, secourir",
+  "prendre ensemble",
+  "prendre ensemble, saisir avec, arrêter, prendre : quelqu'un comme prisonnier.  concevoir, d'une femme.   métaphorique de luxure que l'homme favorise sous impulsion.   se saisir.   dans un sens hostile, faire quelqu'un prisonnier.   se tenir lié avec quelqu'un, donner assistance, aider, secourir",
   "Verbe",
   "Vient de  σύν  et  λαμβάνω"
  ],
@@ -28417,7 +28417,7 @@ lemme={
   "Vient de  σύν  et  πίνω"
  ],
  "συμπληρόω": [
-  "remplir avec",
+  "faire plénitude ensemble",
   "remplir avec, remplir complètement.   d'une cale de navire.   compléter entièrement, être accompli : du temps",
   "Verbe",
   "Vient de  σύν  et  πληρόω"
@@ -28813,7 +28813,7 @@ lemme={
   "Vient de  σύν  et d'un dérivé d'un composé présumé de  εὖ  et d'un dérivé de  ἔχω  (du sens d'être en bonne condition, c'est à dire [par implication] bonne chère, ou festin)"
  ],
  "συνεπίστημι": [
-  "placer debout sur ensemble",
+  "présenter ensemble",
   "placer debout sur ensemble, placer par dessus ou désigner ensemble.  s'élever ensemble.   contre quelqu'un",
   "Verbe",
   "Vient de  σύν  et  ἐφίστημι"
@@ -30931,7 +30931,7 @@ lemme={
   "Vient de  ὑπό  et  δείκνυμι"
  ],
  "ὑποδέχομαι": [
-  "recevoir en dessous",
+  "accepter en dessous",
   "recevoir en dessous, recevoir comme invité",
   "Verbe",
   "Vient de  ὑπό  et  δέχομαι"
@@ -31861,7 +31861,7 @@ lemme={
   "Vient de  φράσσω"
  ],
  "φράζω": [
-  "indiquer",
+  "rendre explicite",
   "indiquer, expliquer, indiquer clairement, rendre connu, déclarer, que ce soit par geste ou par écrit ou parole ou de n'importe quelle manière.  expliquer",
   "Verbe",
   "Probablement parent de  φράσσω  à travers l'idée de définir"

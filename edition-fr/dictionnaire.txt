@@ -45,6 +45,8 @@ dichotomiser=couper en deux
 
 fureur=thumos, âme en fumée, souffle colérique
 
+gouvernement=hégémonie
+
 Hellénique=en langage grec
 Helléniste=personne qui utilise la langue Grec
 hérésie=airesis, action de prendre, choix, opinion, parti
@@ -85,6 +87,7 @@ Ouai=Oy Vaï, hélas, malheur, interjection hébraïque
 
 Pantocrator=Tout Puissant, Maître de tout, qui règne tout
 phantasme=apparition, vision, fantôme
+plénitude=plérôme, complétude, plein
 pornation=du porno
 porner=faire du porno
 
