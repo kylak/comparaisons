@@ -1,14 +1,14 @@
 # Nouveau Testament
 https://nouveautestament.github.io
 
-## Le Texte Grec
-Le Texte Grec généré est basé sur les plus anciens manuscrits, il est comparé avec NA28.
+## Le Nouveau Testament Grec
+Le Nouveau Testament Grec généré est basé sur les plus anciens manuscrits, il est comparé avec NA28.
 
-Le Texte Grec a été comparé avec plusieurs autres textes automatiquement et manuellement.
+Le Nouveau Testament Grec a été comparé avec plusieurs autres textes automatiquement et manuellement.
 
-## Le Texte Français
-La traduction française est faite à partir de 0, mot à mot,
+## Le Nouveau Testament Français
+Le Nouveau Testament Français est réalisé automatiquement, par morphologie, lemmatique.
 
-grâce à la création d'une lemmatique qui a demandé des mois de travail.
+Le Nouveau Testament Français est littéral, propre, net, précis, profond.
 
-
+Le Nouveau Testament de Matthieu est réalisé par suite manuellement.
