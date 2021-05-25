@@ -9,6 +9,4 @@ Le Nouveau Testament Grec a été comparé avec plusieurs autres textes automati
 ## Le Nouveau Testament Français
 Le Nouveau Testament Français est réalisé automatiquement, par morphologie, lemmatique.
 
-Le Nouveau Testament Français est littéral, propre, net, précis, profond.
-
-Le Nouveau Testament de Matthieu est réalisé par suite manuellement.
+Le Nouveau Testament Français est réalisé par analyse de chaque lemme grâce à plusieurs dictionnaires.
