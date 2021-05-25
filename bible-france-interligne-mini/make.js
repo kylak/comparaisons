@@ -204,10 +204,11 @@ body+=`\
 <td class="td2">1992</td><td class="td3">`+jacqueline[livre][chapitre][verset]+`</td></tr>
 <tr><td class="td1">Osty et Trinquet</td>
 <td class="td2">1973</td><td class="td3">`+osty[livre][chapitre][verset]+`</td></tr>
-<tr><td class="td1">Jean Grosjean</td>
-<td class="td2">1971</td><td class="td3">`+grosjean[livre][chapitre][verset]+`</td></tr>
 <tr><td class="td1">Segond NBS</a></td>
 <td class="td2">2002</td><td class="td3">`+nbs[livre][chapitre][verset]+`</td></tr>
+<tr><td class="td1">Jean Grosjean</td>
+<td class="td2">1971</td><td class="td3">`+grosjean[livre][chapitre][verset]+`</td></tr>
+
 
 
 </tbody></table><br>`;

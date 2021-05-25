@@ -504,7 +504,7 @@ lemme={
   "Vient de  ἄδηλος"
  ],
  "ἀδημονέω": [
-  "angoisser",
+  "être troublé",
   "angoisser, tourmenter, angoisses , en peine, être troublé, grande détresse ou angoisse, dépression.  des trois mots Grecs (85, 916, 3076) du Nouveau Testament, celui-ci est le plus fort pour \"dépression\"",
   "Verbe",
   "Vient d'un dérivé d'adeo (être saisi de dégoût)"
@@ -1770,7 +1770,7 @@ lemme={
   "Vient de la base de  ἀμφότεροι  et  πόλις"
  ],
  "ἄμφοδον": [
-  "contour de rue",
+  "contour du chemin",
   "contour de rue, environ de rue, autour du chemin, carrefour de routes, coin de rues",
   "Nom neutre",
   "Vient de la base de  ἀμφότεροι  et  ὁδός"
@@ -3330,7 +3330,7 @@ lemme={
   "Vient de  ἀπεκδύομαι"
  ],
  "ἀπελαύνω": [
-  "pousser loin",
+  "propulser loin",
   "renvoyer, conduire au loin, évacuer, renvoyer",
   "Verbe",
   "Vient de  ἀπό  et  ἐλαύνω"
@@ -3582,7 +3582,7 @@ lemme={
   "Vient de  ἀπό  et  θησαυρίζω"
  ],
  "ἀποθλίβω": [
-  "presser loin",
+  "oppresser loin",
   "presser fort, presser de tous côtés, serrer, comprimer.   presser des raisins ou des olives",
   "Verbe",
   "Vient de  ἀπό  et  θλίβω"
@@ -3858,8 +3858,8 @@ lemme={
   "Vient de  ἀπό  et un dérivé de  σκεῦος"
  ],
  "ἀποσκίασμα": [
-  "obscurcissement",
-  "ombre, une ombre portée par un objet sur un autre",
+  "ombre projetée",
+  "ombre projetée, une ombre portée par un objet sur un autre",
   "Nom neutre",
   "Vient d'un composé de  ἀπό  et un dérivé de  σκιά"
  ],
@@ -4422,7 +4422,7 @@ lemme={
   "Vient d'un dérivé de  ἄρτι"
  ],
  "ἄρτι": [
-  "maintenant",
+  "à l'instant",
   "maintenant, il y a un instant, à présent, désormais, encore, à cette heure, aujourd'hui, cette fois, récemment, juste maintenant, à ce moment.  à cet instant, récemment   Pour les Synonymes voir entrée  5815",
   "Adverbe",
   "Vient d'un dérivé de  αἴρω  (cf ἄρτος) à travers l'idée de suspension"
@@ -4434,7 +4434,7 @@ lemme={
   "Vient de  ἄρτι  et  γεννητός"
  ],
  "ἄρτιος": [
-  "parfait",
+  "ajusté",
   "accompli, convenable.  complet, parfait.    ayant apparemment \"une aptitude spéciale pour un service\"",
   "Adjectif",
   "Vient de  ἄρτι"
@@ -5100,7 +5100,7 @@ lemme={
   "Vient de  αὐτός  et  χείρ"
  ],
  "αὐχμηρός": [
-  "sec",
+  "desséché",
   "obscur, misérable, sale.   les choses sales étant dépourvues de brillance : sombre, obscur",
   "Adjectif",
   "Vient de auchmos [probablement apparenté à ἀήρ] (poussière, séché par le vent)"
@@ -7338,7 +7338,7 @@ lemme={
   "Vient de  δή  et  πού"
  ],
  "διά": [
-  "par",
+  "par, par le fait de",
   "par, à travers, avec, pour, donc, parce que, .., à travers.   un lieu.   avec.  dans.   le temps.   partout.  pendant.   des moyens.   par.  par le moyen de.     en.   la raison pour laquelle une chose est faite, par le fait, en raison de.  en compte de.  à cause de cette raison, pour les verbes : passer- traverser- pénétrer-",
   "Préposition",
   "Préposition dénotant le canal d'une action"
@@ -8838,7 +8838,7 @@ lemme={
   "Pronom de la première personne Je (seulement exprimé avec emphase)"
  ],
  "ἐδαφίζω": [
-  "raser",
+  "mettre au sol",
   "raser, jeter à terre, poser à même le sol.   pour les villes et maisons : raser, mettre au niveau du sol.  métaphorique : des hommes",
   "Verbe",
   "Vient de  ἔδαφος"
@@ -9132,13 +9132,13 @@ lemme={
   "Troisième personne du pluriel du présent de l'indicatif de  εἰμί"
  ],
  "εἰσκαλέομαι": [
-  "appeler dans",
+  "appeler dedans",
   "faire entrer, inviter dans sa maison",
   "Verbe",
   "Vient de  εἰς  et  καλέω"
  ],
  "εἴσοδος": [
-  "entrée",
+  "entrée de chemin",
   "venue, accès, arrivée, entrée, une entrée.   l'endroit ou le moyen d'entrer dans un lieu (comme une barrière).  l'action d'entrer",
   "Nom féminin",
   "Vient de  εἰς  et  ὁδός"
@@ -9234,7 +9234,7 @@ lemme={
   "Vient de  ἐκ  et  βάλλω"
  ],
  "ἔκβασις": [
-  "sortie",
+  "issue",
   "sortir,moyen d'en sortir, la fin, une sortie, manière de sortir.   d'une manière figurée le moyen de s'échapper de la tentation.   l'issue se référant à la fin de sa vie.   Hébreux 13:7 se réfère à la fois à la fin de la vie physique et à la manière dont se termine une vie bien remplie",
   "Nom féminin",
   "Vient d'un composé de  ἐκ  et de  βάσις  (du sens de sortir)"
@@ -9444,8 +9444,8 @@ lemme={
   "Vient de  ἐκ  et  κολυμβάω"
  ],
  "ἐκκομίζω": [
-  "exporter",
-  "porter en terre,portait en terre, porter en terre.   un mort pour l'enterrer",
+  "porter soigneusement au dehors",
+  "porter en terre, portait en terre, porter en terre.   un mort pour l'enterrer",
   "Verbe",
   "Vient de  ἐκ  et  κομίζω"
  ],
@@ -9726,8 +9726,8 @@ lemme={
   "Vient de  ἐκ  et 'titrosko' (blesser)"
  ],
  "ἐκφέρω": [
-  "porter dehors",
-  "apporter, emporter, produire, emporter, porter.   un mort à l'enterrement.   apporter, amener, conduire.  rapporter, produire.   de la terre produisant des plants",
+  "exporter",
+  "porter au dehors, apporter, emporter, produire, emporter, porter.   un mort à l'enterrement.   apporter, amener, conduire.  rapporter, produire.   de la terre produisant des plants",
   "Verbe",
   "Vient de  ἐκ  et  φέρω"
  ],
@@ -9822,8 +9822,8 @@ lemme={
   "Vient de  ἐλάσσων"
  ],
  "ἐλαύνω": [
-  "pousser",
-  "conduire, entraîné, pousser, chasser, pousser.   du vent poussant les navires ou les nuages.  des marins faisant avancer avec des rames, ramer.  être transporté en bateau, naviguer.  des démons conduisant quelque part celui qu'ils possèdent",
+  "propulser",
+  "conduire, entraîné, pousser, pousser en avant, chasser, ramer.   du vent poussant les navires ou les nuages.  des marins faisant avancer avec des rames, ramer.  être transporté en bateau, naviguer.  des démons conduisant quelque part celui qu'ils possèdent",
   "Verbe",
   "Affinité incertaine"
  ],
@@ -10896,7 +10896,7 @@ lemme={
   "Vient de  ἐκ  et  ἀποστέλλω"
  ],
  "ἐξαρτίζω": [
-  "compléter hors",
+  "ajuster à l'excès",
   "compléter,parfaire,au terme , propre, compléter, finir.   fournir parfaitement.  accomplir, (rendre les jours complets)",
   "Verbe",
   "Vient de  ἐκ  et d'un dérivé de  ἄρτιος"
@@ -11010,7 +11010,7 @@ lemme={
   "Vient de  ἐκ  et  ἰσχύω"
  ],
  "ἔξοδος": [
-  "sortie exode",
+  "exode",
   "départ , sortie, sortie c'est à dire départ.  la fin de sa carrière, son destin final.  le départ de la vie, le décès",
   "Nom féminin",
   "Vient de  ἐκ  et  ὁδός"
@@ -11814,8 +11814,8 @@ lemme={
   "Vient de  ἐπιποθέω"
  ],
  "ἐπιπορεύομαι": [
-  "voyager",
-  "venir,étant venus, aller ou voyager vers.  aller vers, traverser.   des régions, des villes.   faire une incursion hostile, envahir, marcher sur",
+  "aller en plus",
+  "venir, étant venus, aller ou voyager vers.  aller vers, traverser.   des régions, des villes.   faire une incursion hostile, envahir, marcher sur",
   "Verbe",
   "Vient de  ἐπί  et  πορεύομαι"
  ],
@@ -12786,7 +12786,7 @@ lemme={
   "Vient du même mot que  εὐοδόω"
  ],
  "εὐοδόω": [
-  "voyager bien",
+  "cheminer bien",
   "prospérer,bonheur, prospérité, prospérer, concevoir un voyage prospère et diligent, mener par une voie directe et facile.  accorder un succès, faire prospérer.  prospérer, être heureux",
   "Verbe",
   "Vient d'un composé de  εὖ  et  ὁδός"
@@ -14040,13 +14040,13 @@ lemme={
   "Forme prolongée du mot désuet 'thigo' (manier)"
  ],
  "θλίβω": [
-  "serrer",
+  "oppresser",
   "resserrer, presser, être affligé, exposé à des tribulations,  malheureux, persécuté, presser (comme des grappes), oppresser.  un chemin rétréci.   étroit, contracté   métaphorique affliger, troubler, persécuter",
   "Verbe",
   "Parent de  τρίβος"
  ],
  "θλῖψις": [
-  "tribulation, tribulations, tribulation, tribulations",
+  "oppression, oppressions, oppression, oppressions",
   "tribulation, affliction, tourment, détresse, souffrance,  persécution, calamité, une pression, une oppression.  métaphorique oppression, affliction, tribulation, détresse",
   "Nom féminin",
   "Vient de  θλίβω"
@@ -15540,7 +15540,7 @@ lemme={
   "Vient de karpho (flétrir)"
  ],
  "κατά": [
-  "de haut en bas",
+  "de haut en bas, contre, selon",
   "de haut en bas, de haut en bas, vers le bas, envers, le long de, contre ..",
   "Préposition",
   "Particule primaire"
@@ -16014,19 +16014,19 @@ lemme={
   "Vient de  κατά  et  ἀριθμέω"
  ],
  "καταρτίζω": [
-  "perfectionner de haut en bas",
+  "ajuster complètement",
   "perfectionner de haut en bas, tirer, redresser, compléter, rendre capable,  réparer, être accompli, unis, redresser, ajuster, compléter.   raccommoder (ce qui a été abîmé), réparer.   compléter.   équiper, mettre en ordre, arranger, ajuster.  moralement : renforcer, perfectionner, compléter, faire de quelqu'un ce qu'il doit être",
   "Verbe",
   "Vient de  κατά  et d'un dérivé de  ἄρτιος"
  ],
  "κατάρτισις": [
-  "perfection",
+  "ajustement complet",
   "perfection, un renforcement, un perfectionnement de l'âme.   un entraînement, une discipline, une instruction",
   "Nom féminin",
   "Vient de  καταρτίζω"
  ],
  "καταρτισμός": [
-  "perfectionnement",
+  "ajustement de haut en bas",
   "perfectionnement, complément de fourniture, équipement",
   "Nom masculin",
   "Vient de  καταρτίζω"
@@ -20530,7 +20530,7 @@ lemme={
   "conquête",
   "conquête, victoire, victoire",
   "Nom féminin",
-  "Apparemment un mot primaire"
+  "Apparemment un mot primaire νῖκος"
  ],
  "Νικόδημος": [
   "Nikodème",
@@ -20827,7 +20827,7 @@ lemme={
   "Vient de  ξένος"
  ],
  "ξενίζω": [
-  "étranger",
+  "traiter en étranger, traiter en étrangers",
   "étranger, étranger",
   "Verbe",
   "Vient de  ξένος"
@@ -20911,37 +20911,37 @@ lemme={
   "Vient de  ὁ  et  δέ"
  ],
  "ὁδεύω": [
-  "faire route",
+  "cheminer",
   "voyager,voyageait, voyager, se déplacer",
   "Verbe",
   "Vient de  ὁδός"
  ],
  "ὁδηγέω": [
-  "conduire",
+  "guider en chemin",
   "conduire , guider, être un guide, conduire sur le chemin, guider.  être un guide ou un enseignant.   donner des instructions",
   "Verbe",
   "Vient de  ὁδηγός"
  ],
  "ὁδηγός": [
-  "conducteur, conducteurs",
+  "guide de chemin, guides de chemin",
   "conducteur, guide, guide, conducteur",
   "Nom masculin",
   "Vient de  ὁδός  et  ἡγέομαι"
  ],
  "ὁδοιπορέω": [
-  "marcher",
+  "aller en chemin",
   "marcher, cheminer, cheminer, voyager",
   "Verbe",
   "Vient d'un composé de  ὁδός  et  πορεύομαι"
  ],
  "ὁδοιπορία": [
-  "marche, marches, marche, marches",
+  "cheminement, cheminements, cheminement, cheminements",
   "voyage , en voyage, un voyage",
   "Nom féminin",
   "Vient du même mot que  ὁδοιπορέω"
  ],
  "ὁδός": [
-  "route, routes, route, routes",
+  "chemin, chemins, chemin, chemins",
   "route, voie, au sens propre.   une voie.   une route, un chemin, un sentier.   un voyage.   métaphorique.   une manière de se conduire, de penser, de décider.  une doctrine",
   "Nom féminin",
   "Apparemment un mot racine"
@@ -20953,13 +20953,13 @@ lemme={
   "Vient peut-être de  ἐσθίω"
  ],
  "ὀδυνάω": [
-  "angoisser",
+  "affliger de douleur",
   "angoisser,avec angoisse, souffrir cruellement, souffrir, être affligé, causer une peine intense.  être dans l'angoisse, être tourmenté  se tourmenter ou s'affliger soi-même",
   "Verbe",
   "Vient de  ὀδύνη"
  ],
  "ὀδύνη": [
-  "angoisse, angoisses, angoisse, angoisses",
+  "douleur, douleurs, douleur, douleurs",
   "angoisse, angoisse, douleur, peine",
   "Nom féminin",
   "Vient de  δύνω"
@@ -21037,13 +21037,13 @@ lemme={
   "Vient d'un dérivé présumé de  οἰκέω  (équivalent de  οἴκημα ) + τήριον(instrument, machine)"
  ],
  "οἰκία": [
-  "maison, maisons, maison, maisons",
+  "maisonnée, maisonnées, maisonnée, maisonnées",
   "maison , maisons , famille , demeure , habitons, une maison.   un édifice habité, une demeure.  les hôtes d'une maison, la famille.  la propriété, la richesse, les biens    Pour les Synonymes voir entrée  5867",
   "Nom féminin",
   "Vient de  οἶκος"
  ],
  "οἰκειακός": [
-  "domestiques",
+  "gens de maisons",
   "domestiques, celui appartenant à la maison.  celui qui est sous le contrôle d'un maître de maison, que ce soit un fils ou un serviteur",
   "Nom masculin",
   "Vient de  οἰκία"
@@ -21601,7 +21601,7 @@ lemme={
   "Vient de  ὁράω"
  ],
  "ὁράω": [
-  "voir",
+  "voir, voici",
   "voir, avoir vu, se garder de, prendre garde, regarder, avertir, être apparu, entendre, voir avec les yeux.  voir avec l'esprit, percevoir, savoir, connaître.  voir, c'est à dire devenir familier par l'expérience, éprouver.  voir, regarder.   faire attention à, prendre garde.  prendre soin de, redoubler d'attention.   il m'est apparu que ...   Pour les Synonymes voir entrée  5822",
   "Verbe",
   "Textuellement : regarder fixement [voir ὀπτάνομαι]"
@@ -22981,7 +22981,7 @@ lemme={
   "Probablement contraction de Parmenides (dérivé d'un composé de  παρά  et  μένω )"
  ],
  "πάροδος": [
-  "entrée à côté",
+  "côté du chemin",
   "entrée à côté, en passant par, un passage.  pendant le passage",
   "Nom féminin",
   "Vient de  παρά  et  ὁδός"
@@ -25117,7 +25117,7 @@ lemme={
   "Vient de  πρό  et  καταγγέλλω"
  ],
  "προκαταρτίζω": [
-  "perfectionner de haut en bas à l'avance",
+  "ajuster complètement à l'avance",
   "perfectionner de haut en bas à l'avance, perfectionner de haut en bas à l'avance",
   "Verbe",
   "Vient de  πρό  et  καταρτίζω"
@@ -27283,7 +27283,7 @@ lemme={
   "Vient de  σκιά"
  ],
  "σκοτόω": [
-  "obscurcir",
+  "enténébrer",
   "obscurcir, obscurcir, couvrir de ténèbres.  métaphorique obscurcir ou aveugler l'esprit",
   "Verbe",
   "Vient de  σκότος"
@@ -28747,7 +28747,7 @@ lemme={
   "Vient d'un composé de  σύν  et  ἐκλέγομαι"
  ],
  "συνελαύνω": [
-  "pousser ensemble",
+  "propulser ensemble",
   "conduire ensemble, conduire ensemble, forcer.  contraindre par extorsion, presser",
   "Verbe",
   "Vient de  σύν  et  ἐλαύνω"
@@ -28855,7 +28855,7 @@ lemme={
   "Vient de  σύν  et thlao (écraser)"
  ],
  "συνθλίβω": [
-  "serrer ensemble",
+  "oppresser ensemble",
   "serrer ensemble, presser ensemble, presser ensemble, presser de tous côtés",
   "Verbe",
   "Vient de  σύν  et  θλίβω"
@@ -28879,14 +28879,14 @@ lemme={
   "Vient de  σύν  et  ἵστημι  (et diverses formes)"
  ],
  "συνοδεύω": [
-  "faire route avec",
+  "cheminer avec",
   "voyager avec, accompagner, voyager avec, voyager en compagnie avec, accompagner",
   "Verbe",
   "Vient de  σύν  et  ὁδεύω"
  ],
  "συνοδία": [
-  "compagnie de route",
-  "compagnie de route, synode, comité, un voyage en compagnie.   d'une compagnie de voyageurs, associés dans un voyage, une caravane",
+  "compagnie du chemin",
+  "compagnie de route, cheminement ensemble, synode, comité, un voyage en compagnie.   d'une compagnie de voyageurs, associés dans un voyage, une caravane",
   "Nom féminin",
   "Vient d'un composé de  σύν  et  ὁδός  (\"synode\")"
  ],
@@ -29593,13 +29593,13 @@ lemme={
   "Diminutif de  τέκνον"
  ],
  "τεκνογονέω": [
-  "enfanter",
+  "engendrer enfant",
   "enfanter, engendrer ou porter un enfant",
   "Verbe",
   "Vient d'un composé de  τέκνον  et de  γίνομαι"
  ],
  "τεκνογονία": [
-  "procréation d'enfant",
+  "engendrement d'enfant",
   "procréation d'enfant, porter un enfant",
   "Nom féminin",
   "Vient du même mot que  τεκνογονέω"
@@ -29875,7 +29875,7 @@ lemme={
   "Vient du mot theo (theh'-o, utilisé en variante à certains temps)"
  ],
  "τίκτω": [
-  "produire",
+  "enfanter",
   "produire, apporter, porter, enfanter, produire (un fruit venant d'une graine).   d'une femme qui accouche.  de la terre produisant ses fruits.  métaphorique enfanter, avoir une postérité",
   "Verbe",
   "Un renforcement du mot teko (tek'-o, utilisé en variante à certains temps)"
@@ -30229,8 +30229,8 @@ lemme={
   "Vient de  τρεῖς  et  βέλος"
  ],
  "τρίβος": [
-  "chemins usés",
-  "chemin usé, sentiers, un chemin usé, un sentier",
+  "sentiers",
+  "chemins usés, sentiers, un chemin usé, un sentier",
   "Nom féminin",
   "Vient de tribo (\"frotter\", parent de teiro, truo, et de  τράγος , τραῦμα)"
  ],
@@ -32017,8 +32017,8 @@ lemme={
   "Vient du même as φυλή"
  ],
  "φύραμα": [
-  "masse",
-  "masse, pâte, toute substance mélangée à de l'eau et malaxée.  une masse, un morceau.   de pâte.  d'argile, de glaise",
+  "pâte",
+  " pâte, masse, toute substance mélangée à de l'eau et malaxée.  une masse, un morceau.   de pâte.  d'argile, de glaise",
   "Nom neutre",
   "Vient d'une forme de phuro (mêler un liquide avec un solide, peut-être parent de  φύω  à travers l'idée de gonflement dans une masse), sens de pétrir, malaxer"
  ],

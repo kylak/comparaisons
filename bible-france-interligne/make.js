@@ -209,11 +209,11 @@ body+=`\
 <td class="td2">1992</td><td class="td3">`+jacqueline[livre][chapitre][verset]+`</td></tr>
 <tr><td class="td1">Osty et Trinquet</td>
 <td class="td2">1973</td><td class="td3">`+osty[livre][chapitre][verset]+`</td></tr>
-<tr><td class="td1">Jean Grosjean</td>
-<td class="td2">1971</td><td class="td3">`+grosjean[livre][chapitre][verset]+`</td></tr>
 <tr><td class="td1">Segond NBS</a></td>
 <td class="td2">2002</td><td class="td3">`+nbs[livre][chapitre][verset]+`</td></tr>
 
+<tr><td class="td1">Jean Grosjean</td>
+<td class="td2">1971</td><td class="td3">`+grosjean[livre][chapitre][verset]+`</td></tr>
 
 <tr><td class="td1">Œcuménique</td>
 <td class="td2">1976</td><td class="td3">`+oecumenique[livre][chapitre][verset]+`</td></tr>
@@ -222,10 +222,8 @@ body+=`\
 <tr><td class="td1">Jérusalem</td>
 <td class="td2">1973</td><td class="td3">`+jerusalem[livre][chapitre][verset]+`</td></tr>
 
-
 <tr><td class="td1">Albert Rilliet</td>
 <td class="td2">1858</td><td class="td3">`+rilliet[livre][chapitre][verset]+`</td></tr>
-
 
 <tr><td class="td1">Darby</td>
 <td class="td2">1885</td><td class="td3">`+darby[livre][chapitre][verset]+`</td></tr>
@@ -254,12 +252,10 @@ body+=`\
 <tr><td class="td1">Abbé Fillion</td>
 <td class="td2">1895</td><td class="td3">`+fillion[livre][chapitre][verset]+`</td></tr>
 
-
 <tr><td class="td1">Genève</td>
 <td class="td2">1669</td><td class="td3">`+geneve1669[livre][chapitre][verset]+`</td></tr>
 <tr><td class="td1">Lausanne</td>
 <td class="td2">1872</td><td class="td3">`+lausanne[livre][chapitre][verset]+`</td></tr>
-
 
 <tr><td class="td1">Sacy</td>
 <td class="td2">1759</td><td class="td3">`+sacy[livre][chapitre][verset]+`</td></tr>
