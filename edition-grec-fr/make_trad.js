@@ -566,8 +566,62 @@ for (livre = 1 ; livre != sebastien_lemme.length ; livre++)
 
 
 				}
+				
+				
+				
+				else if ( vlem == 'διά')
+				{
+					if (MORPH_INFO.includes('génitif'))
+					{
+						fr = fr[0].replace(/^ | $/,'');
+					}
+					else if (MORPH_INFO.includes('accusatif'))
+					{
+						fr = fr[1].replace(/^ | $/,'');
+					}
+					else
+						console.log('NO MORPH');
+				}
 
-
+				
+				//de haut en bas, contre, selon
+				else if ( vlem == 'κατά')
+				{
+					
+					if (MORPH_INFO.includes('accusatif'))
+					{
+						fr = fr[2].replace(/^ | $/,'');
+					}
+					else if (MORPH_INFO.includes('génitif'))
+					{
+						fr = fr[1].replace(/^ | $/,'');
+					}
+					else if (MORPH_INFO.includes('préposition'))
+					{
+						fr = fr[0].replace(/^ | $/,'');
+					}
+					else
+						console.log('NO MORPH');
+				}
+				
+			
+				//voir, voici
+				else if ( vlem == 'ὁράω')
+				{
+					if (MORPH_INFO.includes('interjection'))
+					{
+						fr = fr[1].replace(/^ | $/,'');
+						MORPH_INFO="INDECLINABLE";
+					}
+					else if (MORPH_INFO.includes('verbe'))
+					{
+						fr = fr[0].replace(/^ | $/,'');
+					}
+					else
+						console.log('NO MORPH');
+				}
+				
+				
 
 
 				else if (!MORPH_INFO.includes('verbe'))
@@ -666,9 +720,10 @@ if (MORPH_INFO.split(',')[0] == 'verbe' || MORPH_INFO.includes('interjection, im
 	//INIT
 	conjugaison	= '--';
 	frconj=fr.split(' ')[0];
+	
+	//console.log(MORPH_INFO+' : '+vlem+' '+index_nb_name[livre]+' '+chapitre+' '+verset+' : '+fr+' '+vgrec+' '+conjugaison);
+	
 
-
-		
 
 		// ------------- //
 
@@ -700,25 +755,17 @@ if (MORPH_INFO.split(',')[0] == 'verbe' || MORPH_INFO.includes('interjection, im
 		//INFINITIF PARFAIT
 		else if (MORPH_INFO.includes('infinitif, parfait, actif'))
 		{
-
-			conjugaison=verbes[frconj]['infinitif']['présent'][0];
-
+			conjugaison='avoir '+verbes[frconj]['infinitif']['passé'][0];
 		}
 
 		else if (MORPH_INFO.includes('infinitif, parfait, moyen'))
 		{
-
-					conjugaison=verbes[frconj]['infinitif']['présent'][0];
-
-
+			conjugaison='avoir '+verbes[frconj]['infinitif']['passé'][0];
 		}
 
 		else if (MORPH_INFO.includes('infinitif, parfait, passif'))
 		{
-
-					conjugaison=verbes['être']['infinitif']['présent'][0]+' '+verbes[frconj]['participe']['passé'][1];
-
-
+			conjugaison='avoir été '+verbes[frconj]['participe']['passé'][1];
 		}
 
 
@@ -856,53 +903,62 @@ if (MORPH_INFO.split(',')[0] == 'verbe' || MORPH_INFO.includes('interjection, im
 		//PARTICIPE PARFAIT
 		else if (MORPH_INFO.includes('participe, parfait, actif'))
 		{
+					
+				if (MORPH_INFO.includes('féminin') && MORPH_INFO.includes('pluriel'))
+					conjugaison='ayantes '+verbes[frconj]['participe']['passé'][0]+ 's';
+					
+				else if (MORPH_INFO.includes('féminin'))
+					conjugaison='ayante '+verbes[frconj]['participe']['passé'][0];
 
-					conjugaison=verbes[frconj]['participe']['présent'][0];
+				else if (MORPH_INFO.includes('masculin') && MORPH_INFO.includes('pluriel'))
+					conjugaison='ayants '+verbes[frconj]['participe']['passé'][1]+ 's';
+					
+				else if (MORPH_INFO.includes('neutre') && MORPH_INFO.includes('pluriel'))
+					conjugaison='ayants '+verbes[frconj]['participe']['passé'][1]+ 's';
 
-					if (MORPH_INFO.includes('féminin'))
-					conjugaison = conjugaison + 'e';
+				else
+					conjugaison='ayant '+verbes[frconj]['participe']['passé'][1];
 
-					if (MORPH_INFO.includes('pluriel'))
-					conjugaison = conjugaison + 's';
-
-
+					
 		}
 
 		else if (MORPH_INFO.includes('participe, parfait, moyen'))
 		{
 
-					conjugaison=verbes[frconj]['participe']['présent'][0];
+				if (MORPH_INFO.includes('féminin') && MORPH_INFO.includes('pluriel'))
+					conjugaison='ayantes '+verbes[frconj]['participe']['passé'][0]+ 's';
+					
+				else if (MORPH_INFO.includes('féminin'))
+					conjugaison='ayante '+verbes[frconj]['participe']['passé'][0];
 
-					if (MORPH_INFO.includes('féminin'))
-					conjugaison = conjugaison + 'e';
+				else if (MORPH_INFO.includes('masculin') && MORPH_INFO.includes('pluriel'))
+					conjugaison='ayants '+verbes[frconj]['participe']['passé'][1]+ 's';
+					
+				else if (MORPH_INFO.includes('neutre') && MORPH_INFO.includes('pluriel'))
+					conjugaison='ayants '+verbes[frconj]['participe']['passé'][1]+ 's';
 
-					if (MORPH_INFO.includes('pluriel'))
-					conjugaison = conjugaison + 's';
+				else
+					conjugaison='ayant '+verbes[frconj]['participe']['passé'][1];
 
 
 		}
 
 		else if (MORPH_INFO.includes('participe, parfait, passif'))
 		{
+				if (MORPH_INFO.includes('féminin') && MORPH_INFO.includes('pluriel'))
+					conjugaison='ayantes étées '+verbes[frconj]['participe']['passé'][0]+ 's';
+					
+				else if (MORPH_INFO.includes('féminin'))
+					conjugaison='ayante étée '+verbes[frconj]['participe']['passé'][0];
 
-					v1 = verbes['être']['participe']['présent'][0];
-					v2 = verbes[frconj]['participe']['passé'][1];
+				else if (MORPH_INFO.includes('masculin') && MORPH_INFO.includes('pluriel'))
+					conjugaison='ayants étés '+verbes[frconj]['participe']['passé'][1]+ 's';
+					
+				else if (MORPH_INFO.includes('neutre') && MORPH_INFO.includes('pluriel'))
+					conjugaison='ayants étés '+verbes[frconj]['participe']['passé'][1]+ 's';
 
-					if (MORPH_INFO.includes('féminin'))
-					{
-					v1 = v1 + 'e';
-					v2 = v2 + 'e';
-					}
-
-					if (MORPH_INFO.includes('pluriel'))
-					{
-					v1 = v1 + 's';
-					v2 = v2 + 's';
-					}
-
-					conjugaison = v1 + ' ' + v2;
-
-
+				else
+					conjugaison='ayant été '+verbes[frconj]['participe']['passé'][1];
 		}
 
 
@@ -1148,15 +1204,15 @@ if (MORPH_INFO.split(',')[0] == 'verbe' || MORPH_INFO.includes('interjection, im
 
 					else if (MORPH_INFO.includes('1e, pluriel')) {
 					conjugaison='nous '+
-					verbes['être']['indicatif']['présent'][3]+' '+verbes[frconj]['participe']['passé'][1];}
+					verbes['être']['indicatif']['présent'][3]+' '+verbes[frconj]['participe']['passé'][1]+'s';}
 
 					else if (MORPH_INFO.includes('2e, pluriel')) {
 					conjugaison='vous '+
-					verbes['être']['indicatif']['présent'][4]+' '+verbes[frconj]['participe']['passé'][1];}
+					verbes['être']['indicatif']['présent'][4]+' '+verbes[frconj]['participe']['passé'][1]+'s';}
 
 					else if (MORPH_INFO.includes('3e, pluriel')) {
 					conjugaison=
-					verbes['être']['indicatif']['présent'][5]+' '+verbes[frconj]['participe']['passé'][1];}
+					verbes['être']['indicatif']['présent'][5]+' '+verbes[frconj]['participe']['passé'][1]+'s';}
 
 		}
 
@@ -1172,74 +1228,67 @@ if (MORPH_INFO.split(',')[0] == 'verbe' || MORPH_INFO.includes('interjection, im
 
 
 
-
 		//INDICATIF PARFAIT
 		else if (MORPH_INFO.includes('indicatif, parfait, actif'))
 		{
 
-					if		(MORPH_INFO.includes('1e, singulier')) {
-					conjugaison=verbes[frconj]['indicatif']['présent'][0];
-
-					if (conjugaison.match(/^[aeéêiîoôuy]/i))
-					{
-						conjugaison="j'"+conjugaison;
-					}
-					else
-					{
-						conjugaison="je "+conjugaison;
-					}
-
-
+					if (MORPH_INFO.includes('1e, singulier')) {
+						conjugaison="j'ai "+verbes[frconj]['indicatif']['passé composé'][0];
 					}
 
 					else if (MORPH_INFO.includes('2e, singulier')) {
-					conjugaison='tu '+verbes[frconj]['indicatif']['présent'][1]; }
+						conjugaison='tu as '+verbes[frconj]['indicatif']['passé composé'][1];
+					}
 
 					else if (MORPH_INFO.includes('3e, singulier')) {
-					conjugaison=verbes[frconj]['indicatif']['présent'][2]; }
+						conjugaison='a '+verbes[frconj]['indicatif']['passé composé'][2];
+					}
 
 					else if (MORPH_INFO.includes('1e, pluriel')) {
-					conjugaison='nous '+verbes[frconj]['indicatif']['présent'][3]; }
+						conjugaison='nous avons '+verbes[frconj]['indicatif']['passé composé'][3];
+					}
 
 					else if (MORPH_INFO.includes('2e, pluriel')) {
-					conjugaison='vous '+verbes[frconj]['indicatif']['présent'][4]; }
+						conjugaison='vous avez '+verbes[frconj]['indicatif']['passé composé'][4];
+					}
 
 					else if (MORPH_INFO.includes('3e, pluriel')) {
-					conjugaison=verbes[frconj]['indicatif']['présent'][5]; }
+						conjugaison='ont '+verbes[frconj]['indicatif']['passé composé'][5];
+					}
+					
+					
+					
 
 		}
+		
+		
 
 		else if (MORPH_INFO.includes('indicatif, parfait, moyen'))
 		{
 
-					if		(MORPH_INFO.includes('1e, singulier')) {
-					conjugaison=verbes[frconj]['indicatif']['présent'][0];
-
-					if (conjugaison.match(/^[aeéêiîoôuy]/i))
-					{
-						conjugaison="j'"+conjugaison;
-					}
-					else
-					{
-						conjugaison="je "+conjugaison;
-					}
-
+					if (MORPH_INFO.includes('1e, singulier')) {
+						conjugaison="j'ai "+verbes[frconj]['indicatif']['passé composé'][0];
 					}
 
 					else if (MORPH_INFO.includes('2e, singulier')) {
-					conjugaison='tu '+verbes[frconj]['indicatif']['présent'][1]; }
+						conjugaison='tu as '+verbes[frconj]['indicatif']['passé composé'][1];
+					}
 
 					else if (MORPH_INFO.includes('3e, singulier')) {
-					conjugaison=verbes[frconj]['indicatif']['présent'][2]; }
+						conjugaison='a '+verbes[frconj]['indicatif']['passé composé'][2];
+					}
 
 					else if (MORPH_INFO.includes('1e, pluriel')) {
-					conjugaison='nous '+verbes[frconj]['indicatif']['présent'][3]; }
+						conjugaison='nous avons '+verbes[frconj]['indicatif']['passé composé'][3];
+					}
 
 					else if (MORPH_INFO.includes('2e, pluriel')) {
-					conjugaison='vous '+verbes[frconj]['indicatif']['présent'][4]; }
+						conjugaison='vous avez '+verbes[frconj]['indicatif']['passé composé'][4];
+					}
 
 					else if (MORPH_INFO.includes('3e, pluriel')) {
-					conjugaison=verbes[frconj]['indicatif']['présent'][5]; }
+						conjugaison='ont '+verbes[frconj]['indicatif']['passé composé'][5];
+					}
 
 		}
 
@@ -1248,40 +1297,33 @@ if (MORPH_INFO.split(',')[0] == 'verbe' || MORPH_INFO.includes('interjection, im
 
 
 
-					if		(MORPH_INFO.includes('1e, singulier')) {
-					conjugaison=verbes['être']['indicatif']['présent'][0]+' '+verbes[frconj]['participe']['passé'][1];
-
-					if (conjugaison.match(/^[aeéêiîoôuy]/i))
-					{
-						conjugaison="j'"+conjugaison;
-					}
-					else
-					{
-						conjugaison="je "+conjugaison;
-					}
-
-
+					if (MORPH_INFO.includes('1e, singulier')) {
+						conjugaison="j'ai été "+verbes[frconj]['indicatif']['passé composé'][0];
 					}
 
 					else if (MORPH_INFO.includes('2e, singulier')) {
-					conjugaison='tu '+
-					verbes['être']['indicatif']['présent'][1]+' '+verbes[frconj]['participe']['passé'][1];}
+						conjugaison='tu as été '+verbes[frconj]['indicatif']['passé composé'][1];
+					}
 
 					else if (MORPH_INFO.includes('3e, singulier')) {
-					conjugaison=
-					verbes['être']['indicatif']['présent'][2]+' '+verbes[frconj]['participe']['passé'][1];}
+						conjugaison='a été '+verbes[frconj]['indicatif']['passé composé'][2];
+					}
 
 					else if (MORPH_INFO.includes('1e, pluriel')) {
-					conjugaison='nous '+
-					verbes['être']['indicatif']['présent'][3]+' '+verbes[frconj]['participe']['passé'][1];}
+						conjugaison='nous avons été '+verbes[frconj]['indicatif']['passé composé'][3]+'s';
+					}
 
 					else if (MORPH_INFO.includes('2e, pluriel')) {
-					conjugaison='vous '+
-					verbes['être']['indicatif']['présent'][4]+' '+verbes[frconj]['participe']['passé'][1];}
+						conjugaison='vous avez été '+verbes[frconj]['indicatif']['passé composé'][4]+'s';
+					}
 
 					else if (MORPH_INFO.includes('3e, pluriel')) {
-					conjugaison=
-					verbes['être']['indicatif']['présent'][5]+' '+verbes[frconj]['participe']['passé'][1];}
+						conjugaison='ont été '+verbes[frconj]['indicatif']['passé composé'][5]+'s';
+					}
+					
+					
+					
+					
 
 		}
 
@@ -1674,7 +1716,7 @@ if (MORPH_INFO.split(',')[0] == 'verbe' || MORPH_INFO.includes('interjection, im
 
 
 
-		//INDICATIF aoriste ACTIF : passé composé ou passé simple
+		//INDICATIF aoriste : passé composé ou passé simple
 		else if (MORPH_INFO.includes('indicatif, aoriste, actif'))
 		{
 
@@ -1870,8 +1912,18 @@ if (MORPH_INFO.split(',')[0] == 'verbe' || MORPH_INFO.includes('interjection, im
 		else if (MORPH_INFO.includes('impératif, parfait, actif'))
 		{
 
-					if 		(MORPH_INFO.includes('2e, singulier')) { conjugaison=verbes[frconj]['impératif']['présent'][0]; }
-					else if (MORPH_INFO.includes('2e, pluriel')) { conjugaison=verbes[frconj]['impératif']['présent'][2]; }
+					//if 		(MORPH_INFO.includes('2e, singulier')) { conjugaison=verbes[frconj]['impératif']['présent'][0]; }
+					//else if (MORPH_INFO.includes('2e, pluriel')) { conjugaison=verbes[frconj]['impératif']['présent'][2]; }
+					
+					
+					if (MORPH_INFO.includes('2e, singulier')) {
+					conjugaison=verbes['avoir']['impératif']['présent'][0]+' '+verbes[frconj]['participe']['passé'][1];}
+
+					else if (MORPH_INFO.includes('2e, pluriel')) {
+					conjugaison=verbes['avoir']['impératif']['présent'][2]+' '+verbes[frconj]['participe']['passé'][1]+'s';}
+					
+					
+					
 
 		}
 
@@ -1879,10 +1931,10 @@ if (MORPH_INFO.split(',')[0] == 'verbe' || MORPH_INFO.includes('interjection, im
 		{
 
 					if (MORPH_INFO.includes('2e, singulier')) {
-					conjugaison=verbes['être']['impératif']['présent'][0]+' '+verbes[frconj]['participe']['passé'][1];}
+					conjugaison=verbes['avoir']['impératif']['présent'][0]+' été '+verbes[frconj]['participe']['passé'][1];}
 
 					else if (MORPH_INFO.includes('2e, pluriel')) {
-					conjugaison=verbes['être']['impératif']['présent'][2]+' '+verbes[frconj]['participe']['passé'][1]+'s';}
+					conjugaison=verbes['avoir']['impératif']['présent'][2]+' été '+verbes[frconj]['participe']['passé'][1]+'s';}
 
 		}
 
@@ -2100,42 +2152,19 @@ if (MORPH_INFO.split(',')[0] == 'verbe' || MORPH_INFO.includes('interjection, im
 		{
 
 					if		(MORPH_INFO.includes('1e, singulier'))	{
-					conjugaison=verbes[frconj]['subjonctif']['présent'][0];
-
-					if (conjugaison.match(/^[aeéêiîoôuy]/i))
-					{
-						conjugaison="que j'"+conjugaison;
-					}
-					else
-					{
-						conjugaison="que je "+conjugaison;
-					}
-
-					}
+					conjugaison="que j'ai "+verbes[frconj]['participe']['passé'][1];}
 
 
 					else if (MORPH_INFO.includes('2e, singulier'))	{
-					conjugaison = 'que tu '+
-					verbes[frconj]['subjonctif']['présent'][1]; }
-
-					else if (MORPH_INFO.includes('3e, singulier'))	{
-					conjugaison = 'que '+
-					verbes[frconj]['subjonctif']['présent'][2]; }
-
+					conjugaison = 'que tu aies '+verbes[frconj]['participe']['passé'][1];}
 
 					else if (MORPH_INFO.includes('1e, pluriel'))	{
-					conjugaison = 'que nous '+
-					verbes[frconj]['subjonctif']['présent'][3]; }
+					conjugaison = 'que nous ayons '+verbes[frconj]['participe']['passé'][1];}
 
 
 					else if (MORPH_INFO.includes('2e, pluriel'))	{
-					conjugaison='que vous '+
-					verbes[frconj]['subjonctif']['présent'][4]; }
+					conjugaison='que vous ayez '+verbes[frconj]['participe']['passé'][1];}
 
-
-					else if (MORPH_INFO.includes('3e, pluriel'))	{
-					conjugaison='que '+
-					verbes[frconj]['subjonctif']['présent'][5]; }
 
 
 		}
@@ -2508,6 +2537,9 @@ if (MORPH_INFO.split(',')[0] == 'verbe' || MORPH_INFO.includes('interjection, im
 					verbes['être']['subjonctif']['présent'][5]+' '+verbes[frconj]['participe']['passé'][1];}
 
 		}
+		
+		else
+			console.log('! PAS DE CONJUGAISON !');
 
 
 

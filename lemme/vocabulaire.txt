@@ -2,35 +2,8 @@ De Didier Fontaine
 
 
 
-277	conquête	νῖκος
-277b	victoire	νίκη
 
-278	maintenant	νῦν
-278b	à l'instant	ἄρτι
 
-279	étranger	ξένος
-279b	héberger	ξενίζω
-
-280	sec	ξηρός
-280b	desséché	αὐχμηρός
-
-281	tondre	ξυράω
-281b	raser	ἐδαφίζω
-
-282	voyager	ὁδεύω
-282b	aller vers	ἐπιπορεύομαι
-
-283	conduire	ὁδηγέω
-283b	pousser	ἐλαύνω
-
-284	angoisser	ὀδυνάω
-284b	se tourmenter	ἀδημονέω
-
-285	domestique	οἰκειακός
-285b	domestique	οἰκεῖος
-
-286	maison	οἶκος
-286b	maisonnée	οἰκία
 
 287	miséricorde	οἰκτιρμός
 287b	compassion	ἔλεος
