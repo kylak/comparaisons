@@ -604,6 +604,21 @@ for (livre = 1 ; livre != sebastien_lemme.length ; livre++)
 						console.log('NO MORPH');
 				}
 				
+				
+				else if ( vlem == 'καί')
+				{
+					if (MORPH_INFO == 'conjonction-de-coordination')
+					{
+						fr = fr[0].replace(/^ | $/,'');
+					}
+					else if (MORPH_INFO == 'adverbe')
+					{
+						fr = fr[1].replace(/^ | $/,'');
+					}
+					else
+						console.log('NO MORPH');
+				}
+				
 			
 				//voir, voici
 				else if ( vlem == 'ὁράω')

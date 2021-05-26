@@ -1,0 +1,575 @@
+<!DOCTYPE html><html lang="fr"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>VERITE</title>
+<style type="text/css">
+html, body{
+	margin: 0;
+	padding: 0;
+	font-family: sans-serif; 
+}
+
+input[type="text"] {
+	width: 20%;
+	color: grey;
+	border: 1px solid grey;
+	border-width: 1px;
+	padding: 5px;
+	font-size: 17px;
+	outline: 0;
+}
+
+input[type="text"]:focus {
+	color: #000000;
+	border: 1px solid #80bdff;
+}
+
+input[type="button"] {
+	font-size: 16px;
+	border-width: 0px;
+	border: 1px solid #585858;
+	outline: 0;
+	margin: 0 0 7px 0;
+	padding: 6px;
+	color: #fff;
+    background-color: #337ab7;
+    cursor: pointer;
+}
+
+.jaune {
+	background-color: yellow;
+}
+
+.vision {
+	width: 50%;
+	float: left;
+	margin: 0;
+}
+
+#lsj, #bailly {
+	padding: 0 5px;
+}
+
+@keyframes flou
+{
+	from	{  opacity: 0.0; }
+	50% 	{  opacity: 1.0; }
+	to		{  opacity: 0.0; }
+}
+
+.load {
+	font-size:23px;
+	text-align:center;
+	animation: flou 3s linear infinite;
+}
+
+</style>
+<script type="text/javascript">
+window.onload = function(){
+	document.getElementById("bailly").innerHTML = "";
+	document.getElementById("lsj").innerHTML = "";
+}
+
+count		= 0;
+nb_ar_l_c	= 0;
+nb_ar_b_c	= 0;
+
+
+function normalize(text) {
+text	=	text
+	.replace(/ά|ἀ|ἁ|ἂ|ἃ|ἄ|ἅ|ἆ|ἇ|ὰ|ά|ᾀ|ᾁ|ᾂ|ᾃ|ᾄ|ᾅ|ᾆ|ᾇ|ᾰ|ᾱ|ᾲ|ᾳ|ᾴ|ᾶ|ᾷ/g,'α')
+	.replace(/Ά|Ἀ|Ἁ|Ἂ|Ἃ|Ἄ|Ἅ|Ἆ|Ἇ|ᾈ|ᾉ|ᾊ|ᾋ|ᾌ|ᾍ|ᾎ|ᾏ|Ᾰ|Ᾱ|Ὰ|Ά|ᾼ/g,'Α')
+	
+	.replace(/έ|ἐ|ἑ|ἒ|ἓ|ἔ|ἕ|ὲ|έ/g, 'ε')
+	.replace(/Έ|Ἐ|Ἑ|Ἒ|Ἓ|Ἔ|Ἕ|Ὲ|Έ/g, 'Ε')
+    
+	.replace(/ή|ἠ|ἡ|ἢ|ἣ|ἤ|ἥ|ἦ|ἧ|ὴ|ή|ᾐ|ᾑ|ᾒ|ᾓ|ᾔ|ᾕ|ᾖ|ᾗ|ῂ|ῃ|ῄ|ῆ|ῇ/g, 'η')
+	.replace(/Ή|Ἠ|Ἡ|Ἢ|Ἣ|Ἤ|Ἥ|Ἦ|Ἧ|ᾘ|ᾙ|ᾚ|ᾛ|ᾜ|ᾝ|ᾞ|ᾟ|Ὴ|Ή|ῌ/g, 'Η')
+	
+	.replace(/ί|ΐ|ἰ|ἱ|ἲ|ἳ|ἴ|ἵ|ἶ|ἷ|ὶ|ί|ῐ|ῑ|ῒ|ΐ|ῖ|ῗ/g, 'ι')
+	.replace(/Ί|Ϊ|Ἰ|Ἱ|Ἲ|Ἳ|Ἴ|Ἵ|Ἶ|Ἷ|Ῐ|Ῑ|Ὶ|Ί/g, 'Ι')
+	
+	.replace(/ό|ὀ|ὁ|ὂ|ὃ|ὄ|ὅ|ὸ|ό/g, 'ο')
+	.replace(/Ό|Ὀ|Ὁ|Ὂ|Ὃ|Ὄ|Ὅ|Ὸ|Ό/g, 'Ο')
+	
+	.replace(/ΰ|ϋ|ύ|ὐ|ὑ|ὒ|ὓ|ὔ|ὕ|ὖ|ὗ|ὺ|ύ|ῠ|ῡ|ῢ|ΰ|ῦ|ῧ/g, 'υ')
+	.replace(/Ύ|Ϋ|Ὑ|Ὓ|Ὕ|Ὗ|Ῠ|Ῡ|Ὺ|Ύ/g, 'Υ')
+	
+	.replace(/ώ|ὠ|ὡ|ὢ|ὣ|ὤ|ὥ|ὦ|ὧ|ὼ|ώ|ᾠ|ᾡ|ᾢ|ᾣ|ᾤ|ᾥ|ᾦ|ᾧ|ῲ|ῳ|ῴ|ῶ|ῷ/g, 'ω')
+	.replace(/Ώ|Ὠ|Ὡ|Ὢ|Ὣ|Ὤ|Ὥ|Ὦ|Ὧ|ᾨ|ᾩ|ᾪ|ᾫ|ᾬ|ᾭ|ᾮ|ᾯ|Ὼ|Ώ|ῼ/g, 'Ω')
+	
+	.replace(/ῤ|ῥ/g, 'ρ')
+	.replace(/Ῥ/g, 'Ρ')
+    return text;
+}
+
+
+
+function greek(opt)
+{
+
+
+	cancel_l	= 1;
+	cancel_b	= 1;
+	nb_ar_l_c	= 0;
+	nb_ar_b_c	= 0;
+	count++;
+	
+	document.getElementById("lsj").innerHTML = 'loading...';
+	document.getElementById("bailly").innerHTML = '';
+	
+	
+	
+
+	input		= document.getElementById("greek").value;
+	text_input	= normalize(input);
+	text_input	= text_input.toLowerCase();
+	text_input	= text_input.replace(/^ +| +$/g,'');
+	text_input	= text_input.replace(/ϐ/g,'β');
+
+	
+	
+	
+	//--- S
+	if (opt == 's')
+	{
+		array_lsj=[];
+		array_bailly=[];
+
+		for (grec in lsj)
+		{	def=lsj[grec];
+		
+			//normalisation entree
+			gr_lsj	= normalize(grec);
+			gr_lsj	= gr_lsj.toLowerCase();
+			gr_lsj	= gr_lsj.replace(/·|-|\*/g,'');
+			gr_lsj	= gr_lsj.replace(/[0-9]+/gi,'');
+			gr_lsj	= gr_lsj.replace(/^ +| +$/g,'');
+			gr_lsj	= gr_lsj.split(',')[0];
+			gr_lsj	= gr_lsj.split('-')[0];
+			gr_lsj	= gr_lsj.split(' ')[0];
+		
+		
+			if (gr_lsj == text_input)
+			{
+				array_lsj.push(def+'<br>');
+			}
+		}
+		
+		
+		for (grec in bailly)
+		{	def=bailly[grec];
+		
+			//normalisation entree
+			gr_bailly	= normalize(grec);
+			gr_bailly	= gr_bailly.toLowerCase();
+			gr_bailly	= gr_bailly.replace(/-|\*/g,'');
+			gr_bailly	= gr_bailly.replace(/[0-9]+/gi,'');
+			gr_bailly	= gr_bailly.replace(/^ +| +$/g,'');
+			gr_bailly	= gr_bailly.split(',')[0];
+			gr_bailly	= gr_bailly.split('-')[0];
+			gr_bailly	= gr_bailly.split(' ')[0];
+
+			if (gr_bailly == text_input)
+			{
+				array_bailly.push('<b>'+grec+'</b> '+def+'<br>');
+			}
+		}
+		
+		cancel_l	= 0;
+		cancel_b	= 0;
+		
+		nb_ar_l=array_lsj.length;
+		nb_ar_b=array_bailly.length;
+		
+		personal_count = count;
+		show_l();
+		show_b();
+	}
+	
+	
+	
+	//--- SD
+	else if (opt == 'sd')
+	{
+		array_lsj=[];
+		array_bailly=[];
+		
+		for (grec in lsj)
+		{	def=lsj[grec];
+		
+			//normalisation entree
+			gr_lsj	= normalize(grec);
+			gr_lsj	= gr_lsj.toLowerCase();
+			gr_lsj	= gr_lsj.replace(/·|·|-|\*/g,'');
+			gr_lsj	= gr_lsj.replace(/[0-9]+/gi,'');
+			gr_lsj	= gr_lsj.replace(/^ +| +$/g,'');
+			gr_lsj	= gr_lsj.split(',')[0];
+			gr_lsj	= gr_lsj.split('-')[0];
+			gr_lsj	= gr_lsj.split(' ')[0];
+		
+			//normalisation def
+			def_lsj	= normalize(def);
+			def_lsj	= def_lsj.toLowerCase();
+		
+			if (gr_lsj == text_input || def_lsj.indexOf(text_input) != -1)
+			{
+				array_lsj.push(def+'<br>');
+			}
+		}
+		
+		for (grec in bailly)
+		{	def=bailly[grec];
+		
+			//normalisation entree
+			gr_bailly	= normalize(grec);
+			gr_bailly	= gr_bailly.toLowerCase();
+			gr_bailly	= gr_bailly.replace(/-|\*/g,'');
+			gr_bailly	= gr_bailly.replace(/[0-9]+/gi,'');
+			gr_bailly	= gr_bailly.replace(/^ +| +$/g,'');
+			gr_bailly	= gr_bailly.split(',')[0];
+			gr_bailly	= gr_bailly.split('-')[0];
+			gr_bailly	= gr_bailly.split(' ')[0];
+
+			//normalisation def
+			def_bailly	= normalize(def);
+			def_bailly	= def_bailly.toLowerCase();
+		
+			if (gr_bailly == text_input || def_bailly.indexOf(text_input) != -1)
+			{
+				array_bailly.push('<b>'+grec+'</b> '+def+'<br>');
+			}
+		}
+		
+		cancel_l	= 0;
+		cancel_b	= 0;
+		
+		nb_ar_l=array_lsj.length;
+		nb_ar_b=array_bailly.length;
+		
+		personal_count = count;
+		show_l();
+		show_b();
+	}
+
+	
+	
+	//--- L
+	else if (opt == 'l')
+	{
+		array_lsj=[];
+		array_bailly=[];
+		
+		for (grec in lsj)
+		{	def=lsj[grec];
+		
+		
+			gr_lsj	= normalize(grec);
+			gr_lsj	= gr_lsj.toLowerCase();
+			gr_lsj	= gr_lsj.replace(/·|-|\*/g,'');
+			
+			if (gr_lsj.indexOf(text_input) != -1)
+			{
+				array_lsj.push(def+'<br>');
+			}
+		}
+		
+		for (grec in bailly)
+		{	def=bailly[grec];
+		
+			gr_bailly	= normalize(grec);
+			gr_bailly	= gr_bailly.toLowerCase();
+			gr_bailly	= gr_bailly.replace(/·|-|\*/g,'');
+			
+			if (gr_bailly.indexOf(text_input) != -1)
+			{
+				array_bailly.push('<b>'+grec+'</b> '+def+'<br>');
+			}
+		}
+		
+
+		cancel_l	= 0;
+		cancel_b	= 0;
+		
+		nb_ar_l=array_lsj.length;
+		nb_ar_b=array_bailly.length;
+		
+		personal_count = count;
+		show_l();
+		show_b();
+	}
+	
+	
+	
+	
+	//--- LD
+	else if (opt == 'ld')
+	{
+		
+		array_lsj=[];
+		array_bailly=[];
+		
+		for (grec in lsj)
+		{	def=lsj[grec];
+		
+			gr_lsj	= normalize(grec);
+			gr_lsj	= gr_lsj.toLowerCase();
+			gr_lsj	= gr_lsj.replace(/·|-|\*/g,'');
+			//gr_lsj	= gr_lsj.replace(/·|·/g,'');
+		
+			//normalisation def
+			def_lsj	= normalize(def);
+			def_lsj	= def_lsj.toLowerCase();
+			
+			if (gr_lsj.indexOf(text_input) != -1 || def_lsj.indexOf(text_input) != -1)
+			{
+				//send += '<b>'+grec+'</b> '+def+'<br>';
+				array_lsj.push(def+'<br>');
+			}
+		}
+		
+		for (grec in bailly)
+		{	def=bailly[grec];
+		
+
+			gr_bailly	= normalize(grec);
+			gr_bailly	= gr_bailly.toLowerCase();
+			gr_bailly	= gr_bailly.replace(/-|\*/g,'');
+			//gr_bailly	= gr_bailly.replace(/·|·/g,'');
+		
+			//normalisation def
+			def_bailly	= normalize(def);
+			def_bailly	= def_bailly.toLowerCase();
+			
+			if (gr_bailly.indexOf(text_input) != -1 || def_bailly.indexOf(text_input) != -1)
+			{
+				//send += '<b>'+grec+'</b> '+def+'<br>';
+				array_bailly.push('<b>'+grec+'</b> '+def+'<br>');
+			}
+		}
+		
+		cancel_l	= 0;
+		cancel_b	= 0;
+		
+		nb_ar_l=array_lsj.length;
+		nb_ar_b=array_bailly.length;
+		
+		personal_count = count;
+		show_l();
+		show_b();
+	}
+	
+}
+
+
+function show_b(){
+	
+	if (nb_ar_b == 0)
+	{
+		document.getElementById("bailly").innerHTML = "Aucun Résultat";
+		cancel_b=1;
+	}
+	
+	if (nb_ar_b_c >= nb_ar_b)
+		cancel_b=1;
+	
+	
+	if (cancel_b) 
+	{
+		return;
+	}
+
+	if (!cancel_b) 
+	{
+		document.getElementById("bailly").innerHTML += array_bailly[nb_ar_b_c];
+		
+		nb_ar_b_c++;
+		setTimeout(show_b,300)
+	}
+
+}
+
+
+function show_l(){
+
+	if (nb_ar_l == 0)
+	{
+		document.getElementById("lsj").innerHTML = "Aucun Résultat";
+		cancel_l=1;
+	}
+	
+	if (nb_ar_l_c >= nb_ar_l)
+		cancel_l=1;
+	
+	
+	if (cancel_l) 
+	{
+		return;
+	}
+
+	if (!cancel_l) 
+	{
+	
+		document.getElementById("lsj").innerHTML += array_lsj[nb_ar_l_c];
+		
+		nb_ar_l_c++;
+		setTimeout(show_l,300)
+	}
+
+}
+
+
+
+
+
+
+/*
+function sleep_lsj(ms,personal_count) {
+if (personal_count == count)
+	return new Promise(function (resolve) { setTimeout(resolve, ms)});
+//else console.log('stop asynch sleep');
+}
+
+async function show_lsj(personal_count) {
+
+  for (i = 0; i !=  array_lsj.length ; i++) 
+  {
+	
+	//ligne jaune
+	alls=''
+	match_rs = array_lsj[i].match(/\S+/g);
+	for (match_nb=0;match_nb!=match_rs.length;match_nb++)
+	{
+	
+		allp=''
+		match_rss = match_rs[match_nb].split(/([.;\/#!$%\^&\*;:{}=\-_`~()?+[\]\\|><])/g);
+		
+		
+		
+		for (match_nb2 = 0 ; match_nb2 != match_rss.length ; match_nb2++)
+		{
+			//
+			if (match_rss[match_nb2].normalize('NFD').replace(/[\u0300-\u036f]/g, "") == text_input)
+			{
+			
+				allp += '<span class="jaune">'+match_rss[match_nb2]+'</span>';
+			}
+			else
+			{
+				allp += match_rss[match_nb2];
+			}
+			
+		}
+		
+		alls+=allp+' ';
+		
+	
+	}
+  
+	document.getElementById("lsj").innerHTML += alls;
+    await sleep_lsj(50,personal_count);
+	
+	if (personal_count != count)
+	{
+		//console.log('stop asynch for');
+		break;
+		
+	}
+	
+  }
+  
+  if (array_lsj == 0)
+  document.getElementById("lsj").innerHTML = "Je n'ai rien trouvé !"
+
+  
+}
+
+
+function sleep_bailly(ms,personal_count) {
+if (personal_count == count)
+	return new Promise(res => setTimeout(res, ms));
+//else console.log('stop asynch sleep');
+}
+
+
+
+async function show_bailly(personal_count) {
+
+  for (ib = 0; ib !=  array_bailly.length ; ib++) 
+  {
+	
+	//ligne jaune
+	allsb='';
+	match_rsb = array_bailly[ib].match(/\S+/g);
+	for (match_nbb=0;match_nbb!=match_rsb.length;match_nbb++)
+	{
+	
+		allpb=''
+		match_rssb = match_rsb[match_nbb].split(/([.;\/#!$%\^&\*;:{}=\-_`~()?+[\]\\|><])/g);
+		
+		
+		
+		for (match_nb2b = 0 ; match_nb2b != match_rssb.length ; match_nb2b++)
+		{
+			//
+			if (match_rssb[match_nb2b].normalize('NFD').replace(/[\u0300-\u036f]/g, "") == text_input)
+			{
+			
+				allpb += '<span class="jaune">'+match_rssb[match_nb2b]+'</span>';
+			}
+			else
+			{
+				allpb += match_rssb[match_nb2b];
+			}
+			
+		}
+		
+		allsb+=allpb+' ';
+		
+	
+	}
+	
+	allsb=allsb.replace(/,/g,', ');
+	document.getElementById("bailly").innerHTML += allsb;
+    await sleep_bailly(50,personal_count);
+	
+	if (personal_count != count)
+	{
+		//console.log('stop asynch for');
+		break;
+		
+	}
+	
+  }
+  
+  if (array_bailly == 0)
+  document.getElementById("bailly").innerHTML = "Je n'ai rien trouvé !"
+
+  
+}
+*/
+
+</script>
+</head>
+<body>
+
+<div>
+<input type="text" placeholder="RECHERCHE GREC" name="greek" id='greek' class='greek' onkeypress="if (event.keyCode == 13) greek('s')"/>
+<input type="button" value="Cherche Simple" onclick="greek('s')"/>
+<input type="button" value="Cherche Lourde" onclick="greek('l')"/>
+<input type="button" value="Cherche S+Corpus" onclick="greek('sd')"/>
+<input type="button" value="Cherche L+Corpus" onclick="greek('ld')"/>
+</div>
+
+<div class="vision">
+   <div id="lsj"><div class="load">Chargement...</div></div>
+</div>
+<div class="vision">
+    <div id="bailly"><div class="load">Chargement...</div></div>
+</div>
+
+<script type="text/javascript" src="lsj.js"></script>
+<script type="text/javascript" src="bailly.js"></script>
+
+</body>
+</html>
