@@ -118,8 +118,7 @@ require('../database/bible/francais/dumont/dumont.js');
 require('../database/bible/romain/jerome/jerome.js');
 
 
-html_debut=`<?xml version='1.0' encoding='utf-8'?>
-<html xmlns="http://www.w3.org/1999/xhtml">
+html_debut=`<html xmlns="http://www.w3.org/1999/xhtml">
 <head>
 <title>LEMME</title>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
@@ -127,26 +126,17 @@ html_debut=`<?xml version='1.0' encoding='utf-8'?>
 <style>
 html, body, td {
 font-family: Roboto,RobotoDraft,Helvetica,Arial,sans-serif;
-font-size:15px;
+font-size:17px;
 }
 
 a {
 	color: #4774CE;
 }
-</style>
-<script>
-function voir() {
-	x = document.getElementById("bailly");
-	if (x.style.display == "none") 
-	{
-    	x.style.display = "block";
-	} 
-	else 
-	{
-		x.style.display = "none";
-	}
+
+tr:hover{
+	background-color:#e2e2e2;
 }
-</script>
+</style>
 </head>
 <body>`;
 
@@ -488,7 +478,9 @@ for (let [lem, info] of Object.entries(lemme))
 	
 	file.writeFileSync(lem+'.html', html_debut_l + fichier + html_fin, 'utf8');
 	
-	all.appendFileSync('lemmes.html','\n<tr><td><a href="'+lem+'.html">'+lem+'</a></td><td>'+info[2]+'</td><td>'+info[0]+'</td><td>'+info[3]+'</td></tr>', 'utf8');
+	num=l+1;
+	
+	all.appendFileSync('lemmes.html','\n<tr><td>'+num+']</td><td><a href="'+lem+'.html">'+lem+'</a></td><td>'+info[0]+'</td></tr>', 'utf8');
 
 
 	l++;

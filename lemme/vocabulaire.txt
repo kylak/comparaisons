@@ -2,45 +2,6 @@ De Didier Fontaine
 
 
 
-
-
-
-287	miséricorde	οἰκτιρμός
-287b	compassion	ἔλεος
-
-288	miséricordieux	οἰκτίρμων
-288b	compatissant	ἐλεήμων
-
-289	anéantir	ὀλοθρεύω
-289b	exterminer	ἐξολοθρεύω
-
-290	comparer	ὁμοιόω
-290b	être semblable	ἔοικα
-
-291	injurier	ὀνειδίζω
-291b	reprocher	μωμάομαι
-
-292	injure	ὀνειδισμός
-292b	reproche	μομφή
-
-293	antre	ὀπή
-293b	ouverture	ἄνοιξις
-
-294	en arrière	ὀπίσω
-294b	derrière	ὄπισθεν
-
-295	apparaître	ὀπτάνομαι
-295b	montrer	ἐμφανίζω
-
-296	vision	ὅραμα
-296b	apparition	ὀπτασία
-
-297	vision	ὅρασις
-297b	apparition	ὅραμα
-
-298	aspirer à	ὀρέγω
-298b	tendre	ἁπαλός
-
 299	droit	ὀρθός
 299b	direct	εὐθύς
 

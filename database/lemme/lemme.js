@@ -2910,8 +2910,8 @@ lemme={
   "Vient d'un dérivé de  ἀντιλέγω"
  ],
  "ἀντιλοιδορέω": [
-  "injurier en retour",
-  "injurier en retour, insulter en retour, riposter à des railleries",
+  "insulter en retour",
+  "insulter en retour, riposter à des railleries",
   "Verbe",
   "Vient de  ἀντί  et  λοιδορέω"
  ],
@@ -5994,7 +5994,7 @@ lemme={
   "Vient de  βοή  et theo (courir)"
  ],
  "βόθυνος": [
-  "trou",
+  "fosse",
   "fosse, une fosse, un fossé",
   "Nom masculin",
   "Parent de  βαθύνω"
@@ -9882,28 +9882,28 @@ lemme={
   "Vient de  ἔλεος"
  ],
  "ἐλεέω": [
-  "compatir",
+  "faire miséricorde",
   "compatir, obtenir miséricorde, avoir pitié, reprendre, avoir miséricorde sur.  aider quelqu'un affligé ou cherchant de l'aide.  aider l'affligé, apporter du secours au misérable.  éprouver de la miséricorde.   Pour les Synonymes voir entrée  5842",
   "Verbe",
-  "Vient de  ἔλεος"
+  "ἔλεος"
  ],
  "ἐλεημοσύνη": [
-  "aumône, aumônes, aumône, aumônes",
+  "acte de miséricorde, actes de miséricorde, acte de miséricorde, actes de miséricorde",
   "aumône, miséricorde, pitié   spécialement montrée en faisant des aumônes, la charité   la bienfaisance elle-même, un don aux pauvres, aumône",
   "Nom féminin",
-  "Vient de  ἔλεος"
+  "ἔλεος"
  ],
  "ἐλεήμων": [
-  "compatissant, compatissants",
+  "miséricordieux, miséricordieux",
   "miséricordieux, miséricordieux",
   "Adjectif",
-  "Vient de  ἐλεέω"
+  "ἐλεέω"
  ],
  "ἔλεος": [
-  "compassion",
-  "miséricorde, miséricorde : bonté ou bonne volonté envers le misérable et l'affligé joints à un désir de les aider.    des hommes envers les hommes : exercer la vertu de miséricorde, montrer sa propre miséricorde.  de Dieu envers les hommes : la providence ;  la miséricorde et la clémence de Dieu offrant aux hommes le salut par Christ.  la miséricorde de Christ, par laquelle au jugement à son retour il bénira les vrais Chrétiens en leur donnant la vie éternelle",
+  "miséricorde",
+  "miséricorde, bonté ou bonne volonté envers le misérable et l'affligé joints à un désir de les aider.    des hommes envers les hommes : exercer la vertu de miséricorde, montrer sa propre miséricorde.  de Dieu envers les hommes : la providence ;  la miséricorde et la clémence de Dieu offrant aux hommes le salut par Christ.  la miséricorde de Christ, par laquelle au jugement à son retour il bénira les vrais Chrétiens en leur donnant la vie éternelle",
   "Nom neutre",
-  "Affinité incertaine"
+  "ἐλεέω"
  ],
  "ἐλευθερία": [
   "liberté",
@@ -10272,7 +10272,7 @@ lemme={
   "Vient d'un composé de  ἐν  et  φαίνω"
  ],
  "ἐμφανίζω": [
-  "apparaître",
+  "rendre visible",
   "apparaître, faire connaître, s'adresser, avoir fait, porter plainte comparaître, montrer, manifester, exposer à la vue.  se montrer, venir à la vue, apparaître, être manifesté  indiquer, révéler, déclarer, faire connaître.   Pour les Synonymes voir entrée  5831",
   "Verbe",
   "Vient de  ἐμφανής"
@@ -11016,7 +11016,7 @@ lemme={
   "Vient de  ἐκ  et  ὁδός"
  ],
  "ἐξολοθρεύω": [
-  "exterminer",
+  "ruiner à l'excès",
   "exterminer,exterminé, arracher depuis un lieu, détruire entièrement, extirper, exterminer",
   "Verbe",
   "Vient de  ἐκ  et  ὀλοθρεύω"
@@ -11868,13 +11868,13 @@ lemme={
   "Vient de  ἐπί  et  σκοπέω"
  ],
  "ἐπισκοπή": [
-  "surveillance",
-  "visiter, être visité, charge, charge d'évêque, investigation, inspection, visite d'inspection.   cet acte par lequel Dieu visite les hommes, observe leurs voies, leurs caractères, pour leur accorder en partage joie ou tristesse.  surveillance.   contrôle, fonction, la fonction d'un ancien.  la charge d'une église chrétienne",
+  "supervision",
+  "surveillance, visiter, être visité, charge, charge d'évêque, investigation, inspection, visite d'inspection.   cet acte par lequel Dieu visite les hommes, observe leurs voies, leurs caractères, pour leur accorder en partage joie ou tristesse.  surveillance.   contrôle, fonction, la fonction d'un ancien.  la charge d'une église chrétienne",
   "Nom féminin",
   "Vient de  ἐπισκέπτομαι"
  ],
  "ἐπίσκοπος": [
-  "surveillant, surveillants",
+  "superviseur, superviseurs",
   "épiscope, surveillant, évêque,gardien, un préposé, surveillant, superviseur.   homme chargé de contrôler que ce qui doit être fait par les autres est fait correctement, conservateur, gardien intendant en chef.  responsable, évêque, surveillant de l'église chrétienne",
   "Nom masculin",
   "Vient de  ἐπί  et  σκοπός  (sens de  ἐπισκοπέω )"
@@ -15156,7 +15156,7 @@ lemme={
   "Vient de  κατά  et  ὡς"
  ],
  "καί": [
-  "et",
+  "et, aussi",
   "et, aussi, même, tous deux, alors, ainsi, .., et, aussi, même, en effet, mais",
   "Conjonction",
   "Apparemment, particule primaire, sens de liaison et quelquefois une force cumulative"
@@ -19174,7 +19174,7 @@ lemme={
   "blâmer",
   "blâmer , blâme, blâme, blâmer, trouver une faute",
   "Verbe",
-  "Vient apparemment d'un mot racine"
+  "μομφή"
  ],
  "μεμψίμοιρος": [
   "geignards",
@@ -19975,7 +19975,7 @@ lemme={
   "Vient de  μολύνω"
  ],
  "μομφή": [
-  "reproche",
+  "blâme",
   "reproche, blâme.  avoir une plainte à porter contre quelqu'un",
   "Nom féminin",
   "Vient de  μέμφομαι"
@@ -20170,13 +20170,13 @@ lemme={
   "reprocher",
   "blâmer,objet de blâme, blâmer, blâmer, trouver une faute, se moquer de",
   "Verbe",
-  "Vient de  μῶμος"
+  "μῶμος"
  ],
  "μῶμος": [
   "reproches",
   "blâme, blâme",
   "Nom masculin",
-  "Vient peut-être de  μέμφομαι"
+  "μωμάομαι"
  ],
  "μωραίνω": [
   "rendre fou, rendre fous",
@@ -20521,13 +20521,13 @@ lemme={
   "Vient probablement de  νικάω"
  ],
  "νικάω": [
-  "conquérir",
+  "vaincre",
   "conquérir, vaincre, triompher, surmonter, être vainqueur, conquérir.   remporter la victoire, sortir victorieux.   de Christ, victorieux de tous Ses ennemis.  des Chrétiens, qui font reposer leur foi, même jusqu'à la mort, contre le pouvoir de leurs ennemis, les tentations et les persécutions.  gagner sa cause lorsqu'on est poursuivi en justice",
   "Verbe",
   "Vient de  νίκη"
  ],
  "νίκη": [
-  "conquête",
+  "victoire",
   "conquête, victoire, victoire",
   "Nom féminin",
   "Apparemment un mot primaire νῖκος"
@@ -20557,7 +20557,7 @@ lemme={
   "Vient de  νῖκος  et  πόλις"
  ],
  "νῖκος": [
-  "conquête",
+  "victoire",
   "conquête , triompher, victoire.  vaincre totalement",
   "Nom neutre",
   "Vient de, forme ultérieur pour νίκη"
@@ -21187,10 +21187,10 @@ lemme={
   "Un nombre primaire"
  ],
  "ὄλεθρος": [
-  "ravage",
-  "ravage, ruine, destruction, ruine, détruire, mort.   pour la destruction de la chair, se dit des maux externes et des troubles par lesquels les convoitises de la chair sont vaincus et détruits",
+  "ruine",
+  "ruine, ravage, destruction, ruine, détruire, mort.   pour la destruction de la chair, se dit des maux externes et des troubles par lesquels les convoitises de la chair sont vaincus et détruits",
   "Nom masculin",
-  "Vient d'un mot primaire 'ollumi' (détruire)"
+  "'ollumi' (détruire) ὀλοθρεύω"
  ],
  "ὀλιγόπιστος": [
   "de petite croyance, de petites croyances",
@@ -21217,13 +21217,13 @@ lemme={
   "Vient d'un composé de  ὀλίγος  et 'ora' (\"soin\")"
  ],
  "ὀλοθρευτής": [
-  "exterminateur",
+  "ruineur",
   "exterminateur, un destructeur",
   "Nom masculin",
   "Vient de  ὀλοθρεύω"
  ],
  "ὀλοθρεύω": [
-  "exterminer",
+  "ruiner",
   "exterminer,exterminateur, détruire",
   "Verbe",
   "Vient de  ὄλεθρος"
@@ -21427,13 +21427,13 @@ lemme={
   "Vient d'un dérivé présumé de  ὄνος"
  ],
  "ὀνειδίζω": [
-  "reprocher",
+  "réprouver",
   "reprocher, reprocher, faire des reproches, insulter.   de reproches mérités.  de reproches immérités, insulter",
   "Verbe",
   "Vient de  ὄνειδος"
  ],
  "ὀνειδισμός": [
-  "reproche, reproches",
+  "réprobation, réprobations",
   "reproche, un reproche, un opprobre.   ce que Christ a souffert de ses ennemis, pour la cause de Dieu",
   "Nom masculin",
   "Vient de  ὀνειδίζω"
@@ -21505,13 +21505,13 @@ lemme={
   "Probablement parent de  ὄξος  [\"acide\"]"
  ],
  "ὀπή": [
-  "ouverture, ouvertures, ouverture, ouvertures",
+  "cavité, cavités, cavité, cavités",
   "antres, ouverture, à travers quoi l'on peut voir, une ouverture.   d'une fenêtre.  de fissures dans la terre.  de cavernes dans les rochers ou montagnes, trous",
   "Nom féminin",
   "Vient probablement de  ὀπτάνομαι"
  ],
  "ὄπισθεν": [
-  "derrière",
+  "de derrière",
   "derrière, par derrière, en dehors, qui vient par derrière, sur l'arrière, derrière, après",
   "Adverbe / Préposition",
   "Vient de 'opis' (regard, vient de  ὀπτάνομαι ) avec notion de source"
@@ -21553,13 +21553,13 @@ lemme={
   "Vient de  ὅς  et  πού"
  ],
  "ὀπτάνομαι": [
-  "apparaître",
+  "faire voir",
   "voir, apparaître, regarder, revoir, se montrer, paraître, être apparu, avoir (des visions), regarder, voir.  se laisser voir, apparaître",
   "Verbe",
   "Une forme prolongée du mot primaire optomai (op'-tom-ahee), qui est utilisé dans certains temps, et une variante de  ὁράω"
  ],
  "ὀπτασία": [
-  "vision, visions, vision, visions",
+  "apparition, apparitions, apparition, apparitions",
   "vision , sont apparus, l'action de se montrer à la vue.  une vue, une vision, une apparition qui se présente à quelqu'un endormi ou éveillé",
   "Nom féminin",
   "Vient d'un dérivé présumé de  ὀπτάνομαι"
@@ -21631,7 +21631,7 @@ lemme={
   "Du grec ancien ὄργυια, órguia ( longueur de deux bras ), une orgyie est une brasse"
  ],
  "ὀρέγω": [
-  "tendre",
+  "prétendre",
   "tendre, aspirer à, s'étendre dans le but de toucher ou atteindre quelque chose, aspirer à posséder, désirer quelque chose.  se donner soi-même pour l'amour de l'argent",
   "Verbe",
   "Vient apparemment d'un mot primaire [cf ὄρος]"
@@ -24331,7 +24331,7 @@ lemme={
   "Vient de  ποιέω"
  ],
  "ποιητής": [
-  "poète, poètes",
+  "faiseur, faiseurs",
   "poète, qui met en pratique, qui se met à l'oeuvre, observateur (de la loi), poète, celui qui fait, qui produit, un auteur.  un réalisateur, qui œuvre.   celui qui obéit, qui accomplit la loi.   un poète",
   "Nom masculin",
   "Vient de  ποιέω"
@@ -30817,7 +30817,7 @@ lemme={
   "Vient de  ὑπέρ  et  φαίνω"
  ],
  "ὑπερνικάω": [
-  "conquérir au-dessus",
+  "vaincre au-dessus",
   "conquérir au-dessus, être plus que vainqueur, conquérir au-dessus, être plus qu'un conquérant, gagner une immense victoire",
   "Verbe",
   "Vient de  ὑπέρ  et  νικάω"
