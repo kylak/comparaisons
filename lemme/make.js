@@ -126,7 +126,7 @@ html_debut=`<html xmlns="http://www.w3.org/1999/xhtml">
 <style>
 html, body, td {
 font-family: Roboto,RobotoDraft,Helvetica,Arial,sans-serif;
-font-size:17px;
+font-size:15px;
 }
 
 a {
@@ -137,6 +137,19 @@ tr:hover{
 	background-color:#e2e2e2;
 }
 </style>
+<script>
+function voir() {
+       x = document.getElementById("bailly");
+       if (x.style.display == "none")
+       {
+       x.style.display = "block";
+       }
+       else
+       {
+               x.style.display = "none";
+       }
+}
+</script>
 </head>
 <body>`;
 
