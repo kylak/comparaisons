@@ -3,12 +3,11 @@
 
 //FILE
 fs = require('fs');
-
 fsall = require('fs');
 
 
-//SEBASTIEN
-sebastien = require('../../bf/osty-trinquet.json');
+require('../database/bible/francais/sebastien/sebastien.js');
+require('../database/bible/francais/dumont/dumont.js');
 
 
 
