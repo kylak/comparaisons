@@ -22,8 +22,8 @@ book = {
 10:'EPHESIENS',
 11:'PHILIPPIENS',
 12:'COLOSSIENS',
-13:'1 TESSALONICIENS',
-14:'2 TESSALONICIENS',
+13:'1 THESSALONICIENS',
+14:'2 THESSALONICIENS',
 15:'1 TIMOTHEE',
 16:'2 TIMOTHEE',
 17:'TITE',
@@ -326,8 +326,8 @@ intro_book=`<?xml version='1.0' encoding='utf-8'?><html id="a" xmlns="http://www
 <a href="10-1.html">EPHESIENS</a>&ensp;
 <a href="11-1.html">PHILIPPIENS</a>&ensp;
 <a href="12-1.html">COLOSSIENS</a>&ensp;
-<a href="13-1.html">1 TESSALONICIENS</a>&ensp;
-<a href="14-1.html">2 TESSALONICIENS</a>&ensp;
+<a href="13-1.html">1 THESSALONICIENS</a>&ensp;
+<a href="14-1.html">2 THESSALONICIENS</a>&ensp;
 <a href="15-1.html">1 TIMOTHEE</a>&ensp;
 <a href="16-1.html">2 TIMOTHEE</a>&ensp;
 <a href="17-1.html">TITE</a>&ensp;
