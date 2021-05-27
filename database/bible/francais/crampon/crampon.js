@@ -6996,7 +6996,7 @@ crampon=[
   ]
  ],
  [
-  "13-1 TESSALONICIENS - 5 chapitres",
+  "13-1 THESSALONICIENS - 5 chapitres",
   [
    "13:1:10",
    "Paul, Sylvain et Timothée à l'Eglise des Thessaloniciens, réunie en Dieu le Père et en Jésus-Christ le Seigneur: à vous, grâce et paix.",
@@ -7103,7 +7103,7 @@ crampon=[
   ]
  ],
  [
-  "14-2 TESSALONICIENS - 3 chapitres",
+  "14-2 THESSALONICIENS - 3 chapitres",
   [
    "14:1:12",
    "Paul, Sylvain et Timothée, à l'Eglise des Thessaloniciens réunie en Dieu notre Père et en Jésus-Christ le Seigneur:",

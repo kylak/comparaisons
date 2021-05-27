@@ -3579,7 +3579,7 @@ ga02b=[
   ]
  ],
  [
-  "13-1 TESSALONICIENS - 2 chapitres",
+  "13-1 THESSALONICIENS - 2 chapitres",
   null,
   [
    "13:2:18",
@@ -3620,7 +3620,7 @@ ga02b=[
   ]
  ],
  [
-  "14-2 TESSALONICIENS - 2 chapitres",
+  "14-2 THESSALONICIENS - 2 chapitres",
   null,
   [
    "14:2:10",

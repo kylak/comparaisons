@@ -6996,7 +6996,7 @@ fillion=[
   ]
  ],
  [
-  "13-1 TESSALONICIENS - 5 chapitres",
+  "13-1 THESSALONICIENS - 5 chapitres",
   [
    "13:1:10",
    "Paul, Silvain et Timothée, à l'Eglise des thessaloniciens, qui est en Dieu le Père, et dans le Seigneur Jésus-Christ.",
@@ -7103,7 +7103,7 @@ fillion=[
   ]
  ],
  [
-  "14-2 TESSALONICIENS - 3 chapitres",
+  "14-2 THESSALONICIENS - 3 chapitres",
   [
    "14:1:12",
    "Paul, Silvain, et Timothée, à l'êglise de Thessalonique, qui est en Dieu notre Père, et en Jésus-Christ le Seigneur.",

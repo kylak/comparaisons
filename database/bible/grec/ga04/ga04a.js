@@ -5365,7 +5365,7 @@ ga04a=[
   ]
  ],
  [
-  "13-1 TESSALONICIENS - 2 chapitres",
+  "13-1 THESSALONICIENS - 2 chapitres",
   [
    "13:1:10",
    "↔",

@@ -6994,7 +6994,7 @@ jerome=[
   ]
  ],
  [
-  "13-1 TESSALONICIENS - 5 chapitres",
+  "13-1 THESSALONICIENS - 5 chapitres",
   [
    "13:1:10",
    "Paulus et Silvanus et Timotheus ecclesiae Thessalonicensium in Deo Patre et Domino Iesu Christo gratia vobis et pax",
@@ -7101,7 +7101,7 @@ jerome=[
   ]
  ],
  [
-  "14-2 TESSALONICIENS - 3 chapitres",
+  "14-2 THESSALONICIENS - 3 chapitres",
   [
    "14:1:12",
    "Paulus et Silvanus et Timotheus ecclesiae Thessalonicensium in Deo Patre nostro et Domino Iesu Christo",

@@ -6997,7 +6997,7 @@ geneve1669=[
   ]
  ],
  [
-  "13-1 TESSALONICIENS - 5 chapitres",
+  "13-1 THESSALONICIENS - 5 chapitres",
   [
    "13:1:10",
    "Paul & Silvain, & Timothée, à l'Egliſe des Theſſaloniciens, qui est en Dieu le Pere, & au Seigneur Jeſus Chriſt: Grace vous ſoit & paix, de par Dieu noſtre Pere, & de par le Seigneur Jeſus Chriſt.",
@@ -7104,7 +7104,7 @@ geneve1669=[
   ]
  ],
  [
-  "14-2 TESSALONICIENS - 3 chapitres",
+  "14-2 THESSALONICIENS - 3 chapitres",
   [
    "14:1:12",
    "Paul & Silvain, & Timothée, à l'Egliſe des Theſſaloniciens, qui eſt en Dieu noſtre Pere & au Seigneur Jeſus Chriſt:",

@@ -6996,7 +6996,7 @@ edmondstapfer=[
   ]
  ],
  [
-  "13-1 TESSALONICIENS - 5 chapitres",
+  "13-1 THESSALONICIENS - 5 chapitres",
   [
    "13:1:10",
    "Paul, Silvanus et Timothée à l'église des Thessaloniciens en Dieu le Père et en Jésus-Christ le Seigneur. Grâce et paix vous soient accordées.",
@@ -7103,7 +7103,7 @@ edmondstapfer=[
   ]
  ],
  [
-  "14-2 TESSALONICIENS - 3 chapitres",
+  "14-2 THESSALONICIENS - 3 chapitres",
   [
    "14:1:12",
    "Paul, Silvanus et Timothée à l'église des Thessaloniciens en Dieu notre Père et en Jésus-Christ le Seigneur.",

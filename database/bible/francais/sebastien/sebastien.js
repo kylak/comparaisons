@@ -6997,7 +6997,7 @@ sebastien=[
   ]
  ],
  [
-  "13-1 TESSALONICIENS - 5 chapitres",
+  "13-1 THESSALONICIENS - 5 chapitres",
   [
    "13:1:10",
    "Paulus#et#Silouane#et#Timotheos#à la#à église#de Thessaloniciens#en#à Dieu#à père#et#à Maître#à Iésous#à Christ,#grâce#à vous#et#paix.",
@@ -7104,7 +7104,7 @@ sebastien=[
   ]
  ],
  [
-  "14-2 TESSALONICIENS - 3 chapitres",
+  "14-2 THESSALONICIENS - 3 chapitres",
   [
    "14:1:12",
    "Paulus#et#Silouane#et#Timotheos#à la#à église#de Thessaloniciens#en#à Dieu#à père#de nous#et#à Maître#à Iésous#à Christ,",

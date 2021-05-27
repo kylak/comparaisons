@@ -6996,7 +6996,7 @@ sacy=[
   ]
  ],
  [
-  "13-1 TESSALONICIENS - 5 chapitres",
+  "13-1 THESSALONICIENS - 5 chapitres",
   [
    "13:1:10",
    "Paul, Silvain, & Timothée: à l’Eglise de Thessalonique, qui est en Dieu le Père, & en Jesus-Christ notre Seigneur. Que la grâce & la paix vous soient données.",
@@ -7103,7 +7103,7 @@ sacy=[
   ]
  ],
  [
-  "14-2 TESSALONICIENS - 3 chapitres",
+  "14-2 THESSALONICIENS - 3 chapitres",
   [
    "14:1:12",
    "Paul, Silvain, & Timothée: à l’Eglise de Thessalonique, qui est en Dieu notre Père, & en Jesus-Christ notre Seigneur.",

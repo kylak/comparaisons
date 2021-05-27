@@ -6996,7 +6996,7 @@ rilliet=[
   ]
  ],
  [
-  "13-1 TESSALONICIENS - 5 chapitres",
+  "13-1 THESSALONICIENS - 5 chapitres",
   [
    "13:1:10",
    "Paul, et Silvanus, et Timothée, à l'église des Thessaloniciens en Dieu le Père et dans le seigneur Jésus-Christ: Que la grâce et la paix vous soient données!",
@@ -7103,7 +7103,7 @@ rilliet=[
   ]
  ],
  [
-  "14-2 TESSALONICIENS - 3 chapitres",
+  "14-2 THESSALONICIENS - 3 chapitres",
   [
    "14:1:12",
    "Paul, et Sylvanus, et Timothée, à l'église des Thessaloniciens, en Dieu notre Père et dans le seigneur Jésus-Christ:",

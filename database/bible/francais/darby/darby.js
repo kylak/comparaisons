@@ -6996,7 +6996,7 @@ darby=[
   ]
  ],
  [
-  "13-1 TESSALONICIENS - 5 chapitres",
+  "13-1 THESSALONICIENS - 5 chapitres",
   [
    "13:1:10",
    "Paul, et Silvain, et Timothée, à l’assemblée des Thessaloniciens, en Dieu le Père et dans le seigneur Jésus Christ : Grâce et paix à vous !",
@@ -7103,7 +7103,7 @@ darby=[
   ]
  ],
  [
-  "14-2 TESSALONICIENS - 3 chapitres",
+  "14-2 THESSALONICIENS - 3 chapitres",
   [
    "14:1:12",
    "Paul, et Silvain, et Timothée, à l’assemblée des Thessaloniciens, en Dieu notre Père et dans le seigneur Jésus Christ :",

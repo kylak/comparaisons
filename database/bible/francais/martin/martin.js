@@ -6996,7 +6996,7 @@ martin=[
   ]
  ],
  [
-  "13-1 TESSALONICIENS - 5 chapitres",
+  "13-1 THESSALONICIENS - 5 chapitres",
   [
    "13:1:10",
    "Paul, et Silvain, et Timothée, à l'Eglise des Thessaloniciens [qui est] en Dieu le Père, et en [notre] Seigneur Jésus-Christ : que la grâce et la paix vous soient données par Dieu notre Père, et par le Seigneur Jésus-Christ.",
@@ -7103,7 +7103,7 @@ martin=[
   ]
  ],
  [
-  "14-2 TESSALONICIENS - 3 chapitres",
+  "14-2 THESSALONICIENS - 3 chapitres",
   [
    "14:1:12",
    "Paul, et Silvain, et Timothée : à l'Eglise des Thessaloniciens qui est en Dieu notre Père, et en [notre] Seigneur Jésus-Christ ;",
