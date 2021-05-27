@@ -6996,7 +6996,7 @@ semeur=[
   ]
  ],
  [
-  "13-1 TESSALONICIENS - 5 chapitres",
+  "13-1 THESSALONICIENS - 5 chapitres",
   [
    "13:1:10",
    "Paul, Silvain et Timothée saluent l’Eglise des Thessaloniciens dans la communion avec Dieu le Père et avec le Seigneur Jésus-Christ. Que la grâce et la paix vous soient accordées.",
@@ -7103,7 +7103,7 @@ semeur=[
   ]
  ],
  [
-  "14-2 TESSALONICIENS - 3 chapitres",
+  "14-2 THESSALONICIENS - 3 chapitres",
   [
    "14:1:12",
    "Paul, Silvain et Timothée saluent l’Eglise des Thessaloniciens dans la communion avec Dieu le Père et avec le Seigneur Jésus-Christ.",

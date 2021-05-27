@@ -6995,7 +6995,7 @@ parolevivante=[
   ]
  ],
  [
-  "13-1 TESSALONICIENS - 6 chapitres",
+  "13-1 THESSALONICIENS - 6 chapitres",
   [
    "13:1:10",
    "Paul, Sylvain et Timothée, saluent l’Église des Thessaloniciens dans la communion avec Dieu le Père et Jésus-Christ, le Seigneur.Nous vous souhaitons la grâce et la paix.",
@@ -7102,7 +7102,7 @@ parolevivante=[
   ]
  ],
  [
-  "14-2 TESSALONICIENS - 4 chapitres",
+  "14-2 THESSALONICIENS - 4 chapitres",
   [
    "14:1:12",
    "Paul, Sylvain et Timothée, saluent l’Église des Thessaloniciens qui vit dans la communion avec Dieu, notre Père, et avec Jésus-Christ, notre Seigneur.",

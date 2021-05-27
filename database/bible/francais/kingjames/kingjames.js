@@ -6996,7 +6996,7 @@ kingjames=[
   ]
  ],
  [
-  "13-1 TESSALONICIENS - 5 chapitres",
+  "13-1 THESSALONICIENS - 5 chapitres",
   [
    "13:1:10",
    "Paul, et Silvain, et Timothée, à l'Église des Thessaloniciens, qui est en Dieu le Père, et dans le SEIGNEUR Jésus-Christ. Que la grâce vous soit donnée et la paix de Dieu notre Père, et du SEIGNEUR Jésus-Christ.",
@@ -7103,7 +7103,7 @@ kingjames=[
   ]
  ],
  [
-  "14-2 TESSALONICIENS - 3 chapitres",
+  "14-2 THESSALONICIENS - 3 chapitres",
   [
    "14:1:12",
    "PAUL, Silvain et Timothée, à l'église des Thessaloniciens qui est en Dieu notre Père, et le SEIGNEUR Jésus-Christ.",

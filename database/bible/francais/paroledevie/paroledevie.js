@@ -6996,7 +6996,7 @@ paroledevie=[
   ]
  ],
  [
-  "13-1 TESSALONICIENS - 5 chapitres",
+  "13-1 THESSALONICIENS - 5 chapitres",
   [
    "13:1:10",
    "Moi, Paul, avec Silas et Timothée, j'écris à l'Église de Thessalonique qui appartient à Dieu le Père et au Seigneur Jésus-Christ. Que Dieu vous bénisse et vous donne la paix !",
@@ -7103,7 +7103,7 @@ paroledevie=[
   ]
  ],
  [
-  "14-2 TESSALONICIENS - 3 chapitres",
+  "14-2 THESSALONICIENS - 3 chapitres",
   [
    "14:1:12",
    "Moi, Paul, avec Silas et Timothée, j'écris à l'Église de Thessalonique qui appartient à Dieu notre Père et au Seigneur Jésus-Christ.",

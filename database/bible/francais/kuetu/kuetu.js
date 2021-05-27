@@ -6999,7 +6999,7 @@ kuetu=[
   ]
  ],
  [
-  "13-1 TESSALONICIENS - 5 chapitres",
+  "13-1 THESSALONICIENS - 5 chapitres",
   [
    "13:1:10",
    "Paulos, et Silvanos, et Timotheos, à l'assemblée des Thessaloniciens, en Elohîm le Père et Seigneur Yéhoshoua Mashiah : à vous, grâce et shalôm, de la part d'Elohîm notre Père et Seigneur Yéhoshoua Mashiah !",
@@ -7106,7 +7106,7 @@ kuetu=[
   ]
  ],
  [
-  "14-2 TESSALONICIENS - 3 chapitres",
+  "14-2 THESSALONICIENS - 3 chapitres",
   [
    "14:1:12",
    "Paulos, et Silvanos, et Timotheos à l'assemblée des Thessaloniciens qui est en Elohîm notre Père et Seigneur Yéhoshoua Mashiah :",

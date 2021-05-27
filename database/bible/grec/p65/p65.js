@@ -13,7 +13,7 @@ p65=[
  null,
  null,
  [
-  "13-1 TESSALONICIENS - 2 chapitres",
+  "13-1 THESSALONICIENS - 2 chapitres",
   [
    "13:1:10",
    null,

@@ -6630,7 +6630,7 @@ ga01b=[
   ]
  ],
  [
-  "13-1 TESSALONICIENS - 5 chapitres",
+  "13-1 THESSALONICIENS - 5 chapitres",
   [
    "13:1:8",
    null,
@@ -6730,7 +6730,7 @@ ga01b=[
   ]
  ],
  [
-  "14-2 TESSALONICIENS - 3 chapitres",
+  "14-2 THESSALONICIENS - 3 chapitres",
   [
    "14:1:8",
    "παυλος και σιλουανος και τιμοθεος τη εκκλησια θεσσαλονικεων εν θ̅ω̅ πατρι ημων και κ̅ω̅ ι̅υ̅ χ̅ω̅",

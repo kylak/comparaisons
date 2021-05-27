@@ -6997,7 +6997,7 @@ grosjean=[
   ]
  ],
  [
-  "13-1 TESSALONICIENS - 5 chapitres",
+  "13-1 THESSALONICIENS - 5 chapitres",
   [
    "13:1:10",
    "Paul, Silvain et Timothée, à l’église des Thessaloniciens, qui eét en Dieu le Père et dans le seigneur Jésus Christ. À vous grâce et paix.",
@@ -7104,7 +7104,7 @@ grosjean=[
   ]
  ],
  [
-  "14-2 TESSALONICIENS - 3 chapitres",
+  "14-2 THESSALONICIENS - 3 chapitres",
   [
    "14:1:12",
    "Paul, Silvain et Timothée, à l’église des Thessaloniciens, qui est en notre Dieu et père et dans le seigneur Jésus Christ.",

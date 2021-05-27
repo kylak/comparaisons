@@ -6999,7 +6999,7 @@ darby_rev=[
   ]
  ],
  [
-  "13-1 TESSALONICIENS - 5 chapitres",
+  "13-1 THESSALONICIENS - 5 chapitres",
   [
    "13:1:10",
    "Paul, Silvain et Timothée, à l'assemblée des Thessaloniciens, en Dieu le Père et dans le Seigneur Jésus Christ : Grâce et paix à vous !",
@@ -7106,7 +7106,7 @@ darby_rev=[
   ]
  ],
  [
-  "14-2 TESSALONICIENS - 3 chapitres",
+  "14-2 THESSALONICIENS - 3 chapitres",
   [
    "14:1:12",
    "Paul, Silvain, et Timothée, à l'assemblée des Thessaloniciens, en Dieu notre Père et dans le Seigneur Jésus Christ :",

@@ -6996,7 +6996,7 @@ francaiscourant=[
   ]
  ],
  [
-  "13-1 TESSALONICIENS - 5 chapitres",
+  "13-1 THESSALONICIENS - 5 chapitres",
   [
    "13:1:10",
    "De la part de Paul, Silas et Timothée. A l'Église de Thessalonique, qui appartient à Dieu le Père et au Seigneur Jésus-Christ: Que la grâce et la paix vous soient accordées.",
@@ -7103,7 +7103,7 @@ francaiscourant=[
   ]
  ],
  [
-  "14-2 TESSALONICIENS - 3 chapitres",
+  "14-2 THESSALONICIENS - 3 chapitres",
   [
    "14:1:12",
    "De la part de Paul, Silas et Timothée. A l'Église de Thessalonique, qui appartient à Dieu notre Père et au Seigneur Jésus-Christ:",

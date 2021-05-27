@@ -6996,7 +6996,7 @@ ostervald=[
   ]
  ],
  [
-  "13-1 TESSALONICIENS - 5 chapitres",
+  "13-1 THESSALONICIENS - 5 chapitres",
   [
    "13:1:10",
    "Paul, et Silvain, et Timothée, à l'Église des Thessaloniciens, en Dieu le Père, et en notre Seigneur Jésus-Christ. La grâce et la paix vous soient données de la part de Dieu notre Père, et du Seigneur Jésus-Christ.",
@@ -7103,7 +7103,7 @@ ostervald=[
   ]
  ],
  [
-  "14-2 TESSALONICIENS - 3 chapitres",
+  "14-2 THESSALONICIENS - 3 chapitres",
   [
    "14:1:12",
    "Paul, Silvain et Timothée, à l'Église des Thessaloniciens qui est en Dieu notre Père, et dans le Seigneur Jésus-Christ.",

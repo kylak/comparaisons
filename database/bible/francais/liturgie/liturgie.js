@@ -6996,7 +6996,7 @@ liturgie=[
   ]
  ],
  [
-  "13-1 TESSALONICIENS - 5 chapitres",
+  "13-1 THESSALONICIENS - 5 chapitres",
   [
    "13:1:10",
    "PAUL, SILVAIN ET TIMOTHEE, à l’Église de Thessalonique qui est en Dieu le Père et dans le Seigneur Jésus Christ. À vous, la grâce et la paix.",
@@ -7103,7 +7103,7 @@ liturgie=[
   ]
  ],
  [
-  "14-2 TESSALONICIENS - 3 chapitres",
+  "14-2 THESSALONICIENS - 3 chapitres",
   [
    "14:1:12",
    "PAUL, SILVAIN ET TIMOTHEE, à l’Église de Thessalonique qui est en Dieu notre Père et dans le Seigneur Jésus Christ.",

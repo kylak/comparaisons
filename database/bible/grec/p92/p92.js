@@ -40,7 +40,7 @@ p92=[
  null,
  null,
  [
-  "14-2 TESSALONICIENS - 1 chapitres",
+  "14-2 THESSALONICIENS - 1 chapitres",
   [
    "14:1:12",
    null,

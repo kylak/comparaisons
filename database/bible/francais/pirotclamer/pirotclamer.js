@@ -6996,7 +6996,7 @@ pirotclamer=[
   ]
  ],
  [
-  "13-1 TESSALONICIENS - 5 chapitres",
+  "13-1 THESSALONICIENS - 5 chapitres",
   [
    "13:1:10",
    "Paul, Sylvain et Timothée, à l'Eglise des Thessaloniciens en Dieu le Père et dans le Seigneur Jésus-Christ: à vous grâce et paix.",
@@ -7103,7 +7103,7 @@ pirotclamer=[
   ]
  ],
  [
-  "14-2 TESSALONICIENS - 3 chapitres",
+  "14-2 THESSALONICIENS - 3 chapitres",
   [
    "14:1:12",
    "Paul, sylvain et Timothée à l'Eglise des Thessaloniciens, en Dieu notre Père et dans le Seigneur Jésus-Christ.",

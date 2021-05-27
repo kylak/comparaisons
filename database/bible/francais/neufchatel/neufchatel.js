@@ -6996,7 +6996,7 @@ neufchatel=[
   ]
  ],
  [
-  "13-1 TESSALONICIENS - 5 chapitres",
+  "13-1 THESSALONICIENS - 5 chapitres",
   [
    "13:1:10",
    "Paul, et Silvain, et Timothée, à l'Eglise des Thessaloniciens, en Dieu le Père, et dans le Seigneur Jésus-Christ: Que la grâce et la paix vous soient données!",
@@ -7103,7 +7103,7 @@ neufchatel=[
   ]
  ],
  [
-  "14-2 TESSALONICIENS - 3 chapitres",
+  "14-2 THESSALONICIENS - 3 chapitres",
   [
    "14:1:12",
    "Paul et Silvain et Timothée, à l'Eglise des Thessaloniciens qui est en Dieu notre Père, et dans le Seigneur Jésus-Christ:",

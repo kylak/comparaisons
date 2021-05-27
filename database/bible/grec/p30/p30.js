@@ -13,7 +13,7 @@ p30=[
  null,
  null,
  [
-  "13-1 TESSALONICIENS - 5 chapitres",
+  "13-1 THESSALONICIENS - 5 chapitres",
   null,
   null,
   null,
@@ -70,7 +70,7 @@ p30=[
   ]
  ],
  [
-  "14-2 TESSALONICIENS - 2 chapitres",
+  "14-2 THESSALONICIENS - 2 chapitres",
   [
    "14:1:2",
    "⟦παυλος⟧ ⟦και⟧ ⟦σιλ⟧ουανο⟦ς⟧ και ⟦τιμοθεος⟧ ⟦τη⟧ ⟦εκκ⟧λησια ⟦θεσσαλονεικεων⟧ ⟦ε⟧ν θ̅ω̅ ⟦π̅ρ̅ι̅⟧ ⟦ημων⟧ ⟦και⟧ ⟦κ̅ω̅⟧ ⟦⟦̅ι̅η̅⟧̅υ̅⟧ χ̅ω̅",

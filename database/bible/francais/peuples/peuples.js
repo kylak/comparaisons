@@ -6996,7 +6996,7 @@ peuples=[
   ]
  ],
  [
-  "13-1 TESSALONICIENS - 5 chapitres",
+  "13-1 THESSALONICIENS - 5 chapitres",
   [
    "13:1:10",
    "Lettre de Paul, Silvain et Timothée à l’Église des Thessaloniciens réunie en Dieu le Père et en Jésus Christ, le Seigneur. Que la grâce et la paix soient avec vous.",
@@ -7103,7 +7103,7 @@ peuples=[
   ]
  ],
  [
-  "14-2 TESSALONICIENS - 3 chapitres",
+  "14-2 THESSALONICIENS - 3 chapitres",
   [
    "14:1:12",
    "Lettre de Paul, Silvain et Timothée, à l’Église des Thessaloniciens rassemblée en Dieu le Père et en Jésus Christ, le Seigneur.",

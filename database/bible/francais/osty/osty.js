@@ -6997,7 +6997,7 @@ osty=[
   ]
  ],
  [
-  "13-1 TESSALONICIENS - 5 chapitres",
+  "13-1 THESSALONICIENS - 5 chapitres",
   [
    "13:1:10",
    "Paul, Silvain et Timothée, à l'Église des Thessaloniciens qui est en Dieu Père et dans le Seigneur Jésus Christ ; à vous grâce et paix !",
@@ -7104,7 +7104,7 @@ osty=[
   ]
  ],
  [
-  "14-2 TESSALONICIENS - 3 chapitres",
+  "14-2 THESSALONICIENS - 3 chapitres",
   [
    "14:1:12",
    "Paul, Silvain et Timothée, à l'Église des Thessaloniciens qui est en Dieu, notre Père, et dans le Seigneur Jésus Christ ;",

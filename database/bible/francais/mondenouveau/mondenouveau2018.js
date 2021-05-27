@@ -6986,7 +6986,7 @@ mondenouveau2018=[
   ]
  ],
  [
-  "13-1 TESSALONICIENS - 5 chapitres",
+  "13-1 THESSALONICIENS - 5 chapitres",
   [
    "13:1:10",
    "De la part de Paul, de Silvain et de Timothée, à l’assemblée des Thessaloniciens, qui est en union avec Dieu le Père et le Seigneur Jésus Christ :Que faveur imméritée et paix vous soient accordées !",
@@ -7093,7 +7093,7 @@ mondenouveau2018=[
   ]
  ],
  [
-  "14-2 TESSALONICIENS - 3 chapitres",
+  "14-2 THESSALONICIENS - 3 chapitres",
   [
    "14:1:12",
    "De la part de Paul, de Silvain et de Timothée, à l’assemblée des Thessaloniciens, qui est en union avec Dieu notre Père et le Seigneur Jésus Christ :",

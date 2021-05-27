@@ -6996,7 +6996,7 @@ segond21=[
   ]
  ],
  [
-  "13-1 TESSALONICIENS - 5 chapitres",
+  "13-1 THESSALONICIENS - 5 chapitres",
   [
    "13:1:10",
    "De la part de Paul, Silvain et Timothée à l'Eglise des Thessaloniciens qui est en Dieu le Père et dans le Seigneur Jésus-Christ: que la grâce et la paix vous soient données [de la part de Dieu notre Père et du Seigneur Jésus-Christ]!",
@@ -7103,7 +7103,7 @@ segond21=[
   ]
  ],
  [
-  "14-2 TESSALONICIENS - 3 chapitres",
+  "14-2 THESSALONICIENS - 3 chapitres",
   [
    "14:1:12",
    "De la part de Paul, Silvain et Timothée à l'Eglise des Thessaloniciens qui est en Dieu notre Père et dans le Seigneur Jésus-Christ:",

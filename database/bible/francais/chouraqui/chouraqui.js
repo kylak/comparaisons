@@ -6996,7 +6996,7 @@ chouraqui=[
   ]
  ],
  [
-  "13-1 TESSALONICIENS - 5 chapitres",
+  "13-1 THESSALONICIENS - 5 chapitres",
   [
    "13:1:10",
    "Paulos et Silvanus et Timotheos, à la communauté des Thessaloniciens, en Elohîms, père, et en l’Adôn Iéshoua’ le messie : à vous, grâce et paix.",
@@ -7103,7 +7103,7 @@ chouraqui=[
   ]
  ],
  [
-  "14-2 TESSALONICIENS - 3 chapitres",
+  "14-2 THESSALONICIENS - 3 chapitres",
   [
    "14:1:12",
    "Paulos, Silvanus et Timotheos à la communauté des Thessaloniciens en Elohîms notre père et dans l’Adôn Iéshoua’, le messie.",
