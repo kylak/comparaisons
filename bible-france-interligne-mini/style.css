@@ -20,6 +20,17 @@ color: #4774ce;
 text-decoration: none;
 }
 
+.td3 a {
+	color:black;
+} 
+span.g {
+    color: #ea0400;
+}
+
+span.f {
+    color: #0078d8;
+}
+
 table td {
 border-bottom: 1px solid #ddd;
 }

@@ -138,6 +138,7 @@ for (livre = 1 ; livre != 28 ; livre++)
 			seb_lem		= '';
 			seb_morph	= '';
 			seb_fr		= '';
+			seb			= '';
 
 			if (sebastien_lemme[livre][chapitre][verset] && sebastien_lemme[livre][chapitre][verset] != "")
 			{
@@ -156,6 +157,7 @@ for (livre = 1 ; livre != 28 ; livre++)
 					//new morph
 					sgsm = sebastien_a[s].split('=')[2].split(',');
 					newmorph = '';
+					/*
 					for (nbnas = 0 ; nbnas != sgsm.length ; nbnas++)
 					{
 						if (!sgsm[nbnas][1])
@@ -164,7 +166,11 @@ for (livre = 1 ; livre != 28 ; livre++)
 						}
 						newmorph += sgsm[nbnas][0]+sgsm[nbnas][1]
 					}
-
+					*/
+					
+					seb += '<a title="'+sebastien_a[s].split('=')[2]+
+					'" target="_blank" href="../lemme/'+sebastien_a[s].split('=')[1]+'.html">'+
+					'<span class="g">'+sebastien_a[s].split('=')[0]+'</span>:<span class="f">'+sebastien_b[s]+'</span></a>&ensp;';
 					seb_grec += '<a title="'+sebastien_a[s].split('=')[2]+'" target="_blank" href="../lemme/'+sebastien_a[s].split('=')[1]+'.html">'+sebastien_a[s].split('=')[0]+'</a> ';
 
 				}
@@ -185,7 +191,12 @@ for (livre = 1 ; livre != 28 ; livre++)
 
 
 
-
+/*
+<tr><td class="td1">Sébastien GREC</td>
+<td class="td2">2021</td><td class="td3">`+seb_grec+`</td></tr>
+<tr><td class="td1">Sébastien FR</td>
+<td class="td2">2021</td><td class="td3">`+sebastien[livre][chapitre][verset]+`</td></tr>
+*/
 
 		//	console.log(book[livre]+':'+chapitre+':'+verset+' '+dumont[livre][chapitre][verset]);
 
@@ -194,10 +205,8 @@ body+=`\
 <a href="#a">Δ </a><span class="b">VERSET `+verset+`</span>
 
 <table cellspacing="0"><tbody>
-<tr><td class="td1">Sébastien GREC</td>
-<td class="td2">2021</td><td class="td3">`+seb_grec+`</td></tr>
-<tr><td class="td1">Sébastien FR</td>
-<td class="td2">2021</td><td class="td3">`+sebastien[livre][chapitre][verset]+`</td></tr>
+<tr><td class="td1">Sébastien</td>
+<td class="td2">2021</td><td class="td3">`+seb+`</td></tr>
 <tr><td class="td1">Alain Dumont</td>
 <td class="td2">2020</td><td class="td3">`+dumont[livre][chapitre][verset]+`</td></tr>
 <tr><td class="td1">Jacqueline</td>
