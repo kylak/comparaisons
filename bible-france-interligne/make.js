@@ -57,6 +57,7 @@ require('../database/bible/francais/jerusalem/jerusalem.js');
 require('../database/bible/francais/rilliet/rilliet.js');
 require('../database/bible/francais/darby/darby.js');
 require('../database/bible/francais/darby/darby_rev.js');
+require('../database/bible/francais/tresmontant/tresmontant.js');
 require('../database/bible/francais/chouraqui/chouraqui.js');
 require('../database/bible/francais/pirotclamer/pirotclamer.js');
 require('../database/bible/francais/lausanne/lausanne.js');
@@ -134,17 +135,25 @@ for (livre = 1 ; livre != 28 ; livre++)
 
 	if (jacqueline[livre] == "" || !jacqueline[livre])
 		jacqueline[livre] = [];
+	
+	if (tresmontant[livre] == "" || !tresmontant[livre])
+		tresmontant[livre] = [];
 
 
 	//chapitre
 	for (chapitre = 1 ; chapitre != maxchapitres; chapitre++)
 	{
 
+		
+		if (tresmontant[livre][chapitre] == "" || !tresmontant[livre][chapitre])	tresmontant[livre][chapitre] = [];
+		if (jacqueline[livre][chapitre] == "" || !jacqueline[livre][chapitre])		jacqueline[livre][chapitre] = [];
+
 		body='';
 
 		maxversets = Math.max(
 		sebastien[livre][chapitre].length,
 		grosjean[livre][chapitre].length,
+		jacqueline[livre][chapitre].length,
 		huguesoltramare[livre][chapitre].length,
 		oecumenique[livre][chapitre].length,
 		fillion[livre][chapitre].length,
@@ -173,14 +182,14 @@ for (livre = 1 ; livre != 28 ; livre++)
 		jerusalem[livre][chapitre].length,
 		lausanne[livre][chapitre].length,
 		pirotclamer[livre][chapitre].length,
+		tresmontant[livre][chapitre].length,
 		chouraqui[livre][chapitre].length,
 		crampon[livre][chapitre].length,
 		rilliet[livre][chapitre].length,
 		dumont[livre][chapitre].length,
 		geneve1669[livre][chapitre].length)
 
-		if (jacqueline[livre][chapitre] == "" || !jacqueline[livre][chapitre])
-			jacqueline[livre][chapitre] = [];
+		
 
 
 		//verset
@@ -193,7 +202,30 @@ for (livre = 1 ; livre != 28 ; livre++)
 			lch = livre+'-'+chapitre+'.html#v'+verset;
 
 
-			//console.log(book[livre]+':'+chapitre+':'+verset+' '+dumont[livre][chapitre][verset]);
+			
+			/*
+			if (osty[livre][chapitre][verset] && osty[livre][chapitre][verset] != "")
+			{
+				llo = osty[livre][chapitre][verset].length;
+		
+			if (grosjean[livre][chapitre][verset] && grosjean[livre][chapitre][verset] != "")
+				{
+					lgj = grosjean[livre][chapitre][verset].length;
+					
+					
+					if (lgj+50 < llo)
+					{
+						console.log('\n\n')
+						console.log(book[livre]+':'+chapitre+':'+verset+' '+lgj+' '+llo);
+						console.log('OSTY : '+osty[livre][chapitre][verset])
+						console.log('')
+						console.log('GRJE : '+grosjean[livre][chapitre][verset])
+					}
+					
+				}
+			
+			}
+			*/
 
 body+=`\
 <div id="v`+verset+`"></div>
@@ -235,8 +267,11 @@ body+=`\
 
 <tr><td class="td1">Peuples</td>
 <td class="td2">2005</td><td class="td3">`+peuples[livre][chapitre][verset]+`</td></tr>
+
 <tr><td class="td1">Chouraqui</td>
 <td class="td2">1977</td><td class="td3">`+chouraqui[livre][chapitre][verset]+`</td></tr>
+<tr><td class="td1">Tresmontant</td>
+<td class="td2">2007</td><td class="td3">`+tresmontant[livre][chapitre][verset]+`</td></tr>
 
 <tr><td class="td1">Pirot et Clamer</td>
 <td class="td2">1950</td><td class="td3">`+pirotclamer[livre][chapitre][verset]+`</td></tr>
