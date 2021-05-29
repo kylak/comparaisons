@@ -4274,7 +4274,7 @@ tresmontant=[
    "et ils ne se sont pas repentis de leurs meurtres ni de leurs sortilèges ni de leurs prostitutions ni de leurs vols"
   ],
   [
-   "27:10:12",
+   "27:10:11",
    "et j'ai vu un autre messager puissant qui descendait des cieux il était enveloppé d'un nuage et l'arc-en-ciel [était] sur sa tête et sa face [était] comme le soleil et ses jambes [étaient] comme des colonnes de feu",
    "et il y avait dans sa main un petit rouleau qui était ouvert et il a posé sa jambe droite sur la mer et sa jambe gauche sur la terre",
    "et il a crié d'une voix forte comme le lion lorsqu'il rugit et lorsqu'il a crié alors ils ont parlé les sept tonnerres [et ils ont fait entendre] leurs propres voix",
@@ -4284,7 +4284,6 @@ tresmontant=[
    "mais aux jours de la voix du septième messager lorsqu'il va sonner du schôphar alors sera accompli le [dessein] secret de dieu comme il en a annoncé l'heureuse nouvelle à ses serviteurs les prophètes",
    "et la voix que j'ai entendue qui venait des cieux de nouveau elle a parlé avec moi et elle a dit va et prends le rouleau qui est ouvert dans la main du messager qui se tient debout sur la mer et sur la terre",
    "et alors je suis allé vers le messager et je lui ai dit de me donner le petit rouleau et il m'a dit prends et mange-le il va te rendre amer ton ventre mais dans ta bouche il sera doux comme du miel",
-   "Rev 10:10",
    "et j'ai pris le petit rouleau de la main du messager et je l'ai dévoré et il a été dans ma bouche doux comme du miel et lorsque je l'ai mangé il est devenu amer mon ventre",
    "et ils m'ont dit tu vas de nouveau prophétiser sur des peuples et des nations et des langues et des rois nombreux"
   ],
