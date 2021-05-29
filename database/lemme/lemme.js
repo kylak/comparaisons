@@ -4962,8 +4962,8 @@ lemme={
   "Vient de  αὐγή"
  ],
  "αὐγή": [
-  "aube",
-  "jour, éclat, lumière du jour, le point du jour, l'aube   Pour les Synonymes voir entrée  5817",
+  "irradiation",
+  "jour, éclat, lumière du jour, le point du jour, l'aube, aurore",
   "Nom féminin",
   "Dérivation incertaine"
  ],
@@ -12660,19 +12660,19 @@ lemme={
   "Vient de  εὖ  et  θυμός"
  ],
  "εὐθύνω": [
-  "diriger droit",
-  "aplanir, aplanissez , pilote, rendre droit, niveler, aplanir.  mener ou conduire droitement, garder le droit chemin.   du timonier ou homme de barre d'un navire.  d'un conducteur de char",
+  "rectifier",
+  "diriger droit, aplanir, aplanissez , pilote, rendre droit, niveler, aplanir.  mener ou conduire droitement, garder le droit chemin.   du timonier ou homme de barre d'un navire.  d'un conducteur de char",
   "Verbe",
   "Vient de  εὐθύς"
  ],
  "εὐθύς": [
-  "droit, droits, droite, droites",
+  "direct, directs, directe, directes",
   "droit, droite, aplanir, redresser, aussitôt, bientôt, droit, de niveau, aplani.  droit, juste, vrai, sincère.  directement, immédiatement, sur-le-champ",
   "Adjectif",
   "Vient peut-être de  εὖ  et  τίθημι"
  ],
  "εὐθύτης": [
-  "droiture",
+  "rectitude",
   "équité, rectitude, justice",
   "Nom féminin",
   "Vient de  εὐθύς"
@@ -16542,7 +16542,7 @@ lemme={
   "Vient de  κέραμος"
  ],
  "κεραμικός": [
-  "argileux",
+  "céramiques",
   "argileux, d'argile, appartenant à un potier.  fait d'argile, de terre (français : céramique)",
   "Adjectif",
   "Vient de  κέραμος"
@@ -19543,7 +19543,7 @@ lemme={
   "Vient de  ἐάν  et  μή"
  ],
  "μηδαμῶς": [
-  "nullement",
+  "certainement non",
   "nullement, nullement",
   "Adverbe",
   "Vient d'un composé de  μή  et amos (quelqu'un)"
@@ -19561,7 +19561,7 @@ lemme={
   "Vient de  μή  et  εἷς"
  ],
  "μηδέποτε": [
-  "jamais",
+  "non cependant à un moment",
   "jamais, jamais",
   "Adverbe",
   "Vient de  μηδέ  et  ποτέ"
@@ -21547,7 +21547,7 @@ lemme={
   "Vient de  ὅς  et  ποτέ"
  ],
  "ὅπου": [
-  "où",
+  "là où",
   "où, en quelque lieu, partout où, la maison où, là où, où, à l'endroit que",
   "Adverbe",
   "Vient de  ὅς  et  πού"
@@ -21913,7 +21913,7 @@ lemme={
   "Exclamation de chagrin, Oy Vaï"
  ],
  "οὐδαμῶς": [
-  "nullement",
+  "certainement pas",
   "nullement, certes pas, en aucune façon, d'aucune manière",
   "Adverbe",
   "Vient de  οὐδείς"
@@ -21931,7 +21931,7 @@ lemme={
   "Vient de  οὐδέ  et  εἷς"
  ],
  "οὐδέποτε": [
-  "jamais",
+  "pas cependant à un moment",
   "jamais, jamais rien, jamais",
   "Adverbe",
   "Vient de  οὐδέ  et  ποτέ"
@@ -30325,7 +30325,7 @@ lemme={
   "Vient de  τρέφω"
  ],
  "τροχιά": [
-  "trajectoires",
+  "pistes de roues",
   "trajectoires, une piste faite par une roue, une ornière.  une voie, un chemin",
   "Nom féminin",
   "Vient de  τροχός"

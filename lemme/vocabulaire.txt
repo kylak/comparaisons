@@ -2,29 +2,6 @@ De Didier Fontaine
 
 
 
-299	droit	ὀρθός
-299b	direct	εὐθύς
-
-300	aube	ὄρθρος
-300b	éclat du jour	αὐγή
-
-301	argileux	ὀστράκινος
-301b	de terre cuite	κεραμικός
-
-302	quand	ὅταν
-302b	chaque fois que	ἡνίκα
-
-303	lorsque	ὅτε
-303b	quand	ὅταν
-
-304	où	οὗ
-304b	là où	ὅπου
-
-305	nullement	οὐδαμῶς
-305b	aucunement	μηδαμῶς
-
-306	jamais	οὐδέποτε
-306b	jamais	μηδέποτε
 
 307	pas encore	οὐδέπω
 307b	pas encore	μήπω
