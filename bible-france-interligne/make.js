@@ -54,6 +54,7 @@ require('../database/bible/francais/grosjean/grosjean.js');
 require('../database/bible/francais/oecumenique/oecumenique.js');
 require('../database/bible/francais/liturgie/liturgie.js');
 require('../database/bible/francais/jerusalem/jerusalem.js');
+require('../database/bible/francais/lienart/lienart.js');
 require('../database/bible/francais/rilliet/rilliet.js');
 require('../database/bible/francais/darby/darby.js');
 require('../database/bible/francais/darby/darby_rev.js');
@@ -162,6 +163,8 @@ for (livre = 1 ; livre != 28 ; livre++)
 		segond1910[livre][chapitre].length,
 		paroledevie[livre][chapitre].length,
 		liturgie[livre][chapitre].length,
+		jerusalem[livre][chapitre].length,
+		lienart[livre][chapitre].length,
 		kuetu[livre][chapitre].length,
 		sacy[livre][chapitre].length,
 		neufchatel[livre][chapitre].length,
@@ -179,7 +182,6 @@ for (livre = 1 ; livre != 28 ; livre++)
 		martin[livre][chapitre].length,
 		edmondstapfer[livre][chapitre].length,
 		ostervald[livre][chapitre].length,
-		jerusalem[livre][chapitre].length,
 		lausanne[livre][chapitre].length,
 		pirotclamer[livre][chapitre].length,
 		tresmontant[livre][chapitre].length,
@@ -261,6 +263,9 @@ body+=`\
 <td class="td2">1885</td><td class="td3">`+darby[livre][chapitre][verset]+`</td></tr>
 <tr><td class="td1">Darby Rev.</td>
 <td class="td2">2006</td><td class="td3">`+darby_rev[livre][chapitre][verset]+`</td></tr>
+
+<tr><td class="td1">LIENART</td>
+<td class="td2">1951</td><td class="td3">`+lienart[livre][chapitre][verset]+`</td></tr>
 
 <tr><td class="td1">Shora Kuetu</td>
 <td class="td2">2021</td><td class="td3">`+kuetu[livre][chapitre][verset]+`</td></tr>
