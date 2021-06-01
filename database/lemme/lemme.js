@@ -7734,14 +7734,14 @@ lemme={
   "Vient de  διά  et  σπάω"
  ],
  "διασπείρω": [
-  "disperser",
+  "disséminer",
   "disperser, être dispersé, éparpiller au loin, disperser",
   "Verbe",
   "Vient de  διά  et  σπείρω"
  ],
  "διασπορά": [
-  "dispersion",
-  "dispersé, dispersion, un éparpillement, une dispersion.   des Israélites dispersés parmi les nations étrangères.  des Chrétiens éparpillés parmi les païens",
+  "dissémination",
+  "diaspora, dispersé, dispersion, un éparpillement, une dispersion.   des Israélites dispersés parmi les nations étrangères.  des Chrétiens éparpillés parmi les païens",
   "Nom féminin",
   "Vient de  διασπείρω"
  ],
