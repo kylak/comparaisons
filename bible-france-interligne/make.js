@@ -58,6 +58,7 @@ require('../database/bible/francais/lienart/lienart.js');
 require('../database/bible/francais/rilliet/rilliet.js');
 require('../database/bible/francais/darby/darby.js');
 require('../database/bible/francais/darby/darby_rev.js');
+require('../database/bible/francais/amiot/amiot.js');
 require('../database/bible/francais/tresmontant/tresmontant.js');
 require('../database/bible/francais/chouraqui/chouraqui.js');
 require('../database/bible/francais/pirotclamer/pirotclamer.js');
@@ -107,6 +108,7 @@ for (livre = 1 ; livre != 28 ; livre++)
 	segond1910[livre].length,
 	paroledevie[livre].length,
 	liturgie[livre].length,
+	amiot[livre].length,
 	kuetu[livre].length,
 	sacy[livre].length,
 	neufchatel[livre].length,
@@ -173,6 +175,7 @@ for (livre = 1 ; livre != 28 ; livre++)
 		peuples[livre][chapitre].length,
 		darby_rev[livre][chapitre].length,
 		darby[livre][chapitre].length,
+		amiot[livre][chapitre].length,
 		nfc[livre][chapitre].length,
 		francaiscourant[livre][chapitre].length,
 		parolevivante[livre][chapitre].length,
@@ -258,6 +261,9 @@ body+=`\
 
 <tr><td class="td1">Albert Rilliet</td>
 <td class="td2">1858</td><td class="td3">`+rilliet[livre][chapitre][verset]+`</td></tr>
+
+<tr><td class="td1">AMIOT</td>
+<td class="td2">1950</td><td class="td3">`+amiot[livre][chapitre][verset]+`</td></tr>
 
 <tr><td class="td1">Darby</td>
 <td class="td2">1885</td><td class="td3">`+darby[livre][chapitre][verset]+`</td></tr>
