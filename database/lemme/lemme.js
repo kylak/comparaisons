@@ -4752,8 +4752,8 @@ lemme={
   "Vient de astu (une ville)"
  ],
  "ἀστήρ": [
-  "astre, astres",
-  "étoile , astres, une étoile, un astre",
+  "étoile, étoiles",
+  "étoile, astres, personne illustre",
   "Nom masculin",
   "Vient probablement de  στρωννύω"
  ],
@@ -4788,7 +4788,7 @@ lemme={
   "Vient probablement de  ἀστήρ"
  ],
  "ἄστρον": [
-  "étoile, étoiles",
+  "astre, astres",
   "étoile, groupe d'étoiles, une constellation.  une étoile",
   "Nom neutre",
   "Vient de  ἀστήρ"
