@@ -51,6 +51,7 @@ require('../database/bible/francais/jacqueline/jacqueline.js');
 require('../database/bible/francais/osty/osty.js');
 require('../database/bible/francais/nbs/nbs.js');
 require('../database/bible/francais/grosjean/grosjean.js');
+require('../database/bible/francais/bayard/bayard.js');
 require('../database/bible/francais/oecumenique/oecumenique.js');
 require('../database/bible/francais/liturgie/liturgie.js');
 require('../database/bible/francais/jerusalem/jerusalem.js');
@@ -156,6 +157,7 @@ for (livre = 1 ; livre != 28 ; livre++)
 		maxversets = Math.max(
 		sebastien[livre][chapitre].length,
 		grosjean[livre][chapitre].length,
+		bayard[livre][chapitre].length,
 		jacqueline[livre][chapitre].length,
 		huguesoltramare[livre][chapitre].length,
 		oecumenique[livre][chapitre].length,
@@ -251,6 +253,9 @@ body+=`\
 
 <tr><td class="td1">Jean Grosjean</td>
 <td class="td2">1971</td><td class="td3">`+grosjean[livre][chapitre][verset]+`</td></tr>
+
+<tr><td class="td1">Bayard</td>
+<td class="td2">2018</td><td class="td3">`+bayard[livre][chapitre][verset]+`</td></tr>
 
 <tr><td class="td1">Œcuménique</td>
 <td class="td2">1976</td><td class="td3">`+oecumenique[livre][chapitre][verset]+`</td></tr>
