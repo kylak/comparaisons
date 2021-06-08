@@ -8124,7 +8124,7 @@ lemme={
   "Vient de Dionusos (Bacchus)"
  ],
  "διόπερ": [
-  "donc certes",
+  "c'est pourquoi certes",
   "c'est pourquoi, ceci est la cause, c'est ce qui",
   "Conjonction",
   "Vient de  διό  et  περ"
@@ -19579,7 +19579,7 @@ lemme={
   "D'origine étrangère voir  04074"
  ],
  "μηκέτι": [
-  "non encore",
+  "ne pas plus",
   "non encore, pas plus, pas plus longtemps, pas ... dorénavant",
   "Adverbe",
   "Vient de  μή  et  ἔτι"
@@ -19633,7 +19633,7 @@ lemme={
   "Vient de  μή  et  ποτέ"
  ],
  "μήπω": [
-  "pas encore",
+  "ne pas encore",
   "pas encore, pas encore",
   "Adverbe",
   "Vient de  μή  et  -πω"
@@ -21919,7 +21919,7 @@ lemme={
   "Vient de  οὐδείς"
  ],
  "οὐδέ": [
-  "pas cependant",
+  "non cependant",
   "pas cependant, non plus, ni, pas même, jamais, aucune, rien, sans, .., non plus, ni l'un ni l'autre, ni, pas même ..",
   "Conjonction",
   "Vient de  οὐ  et  δέ"
@@ -21937,7 +21937,7 @@ lemme={
   "Vient de  οὐδέ  et  ποτέ"
  ],
  "οὐδέπω": [
-  "pas encore",
+  "non cependant encore",
   "pas encore, pas encore, pas jusqu'ici",
   "Adverbe",
   "Vient de  οὐδέ  et  -πω"
@@ -21961,7 +21961,7 @@ lemme={
   "Apparemment un mot primaire"
  ],
  "οὔπω": [
-  "pas encore",
+  "non encore",
   "pas encore, pas encore",
   "Adverbe",
   "Vient de  οὐ  et  -πω"
@@ -22303,7 +22303,7 @@ lemme={
   "Vient de  πάλιν  et  γένεσις"
  ],
  "πάλιν": [
-  "encore",
+  "de nouveau",
   "encore, de nouveau, aussi, une seconde fois, .., de nouveau, encore.   renouvellement ou répétition d'une action.   encore : davantage, de plus.  d'une autre manière, aussi",
   "Adverbe",
   "Vient probablement du même mot que  πάλη  (à travers l'idée de répétition oscillatoire)"

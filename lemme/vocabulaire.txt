@@ -3,14 +3,8 @@ De Didier Fontaine
 
 
 
-307	pas encore	οὐδέπω
-307b	pas encore	μήπω
 
-308	donc	οὖν
-308b	c'est pourquoi	διόπερ
 
-309	pas encore	οὔπω
-309b	pas encore	οὐδέπω
 
 310	celui-ci	οὗτος
 310b	celui-ci	ὅδε
@@ -46,8 +40,6 @@ De Didier Fontaine
 321	vieillir	παλαιόω
 321b	devenir vieux	γηράσκω
 
-322	de nouveau	πάλιν
-322b	encore	ἔτι
 
 323	en tout temps	πάντοτε
 323b	toujours	ἀεί

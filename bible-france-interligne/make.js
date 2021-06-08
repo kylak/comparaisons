@@ -240,108 +240,108 @@ body+=`\
 
 <table cellspacing="0"><tbody>
 
-<tr><td class="td1">Sébastien</td>
+<tr><td class="tdg">Sébastien</td>
 <td class="td2">2021</td><td class="td3">`+sebastien[livre][chapitre][verset]+`</td></tr>
-<tr><td class="td1">Alain Dumont</td>
+<tr><td class="tdg">Alain Dumont</td>
 <td class="td2">2020</td><td class="td3">`+dumont[livre][chapitre][verset]+`</td></tr>
-<tr><td class="td1">Jacqueline</td>
+<tr><td class="tdg">Jacqueline</td>
 <td class="td2">1992</td><td class="td3">`+jacqueline[livre][chapitre][verset]+`</td></tr>
-<tr><td class="td1">Osty et Trinquet</td>
+<tr><td class="tdg">Osty et Trinquet</td>
 <td class="td2">1973</td><td class="td3">`+osty[livre][chapitre][verset]+`</td></tr>
-<tr><td class="td1">Segond NBS</a></td>
+<tr><td class="tdg">Segond NBS</a></td>
 <td class="td2">2002</td><td class="td3">`+nbs[livre][chapitre][verset]+`</td></tr>
 
-<tr><td class="td1">Jean Grosjean</td>
+<tr><td class="tdg">Jean Grosjean</td>
 <td class="td2">1971</td><td class="td3">`+grosjean[livre][chapitre][verset]+`</td></tr>
 
-<tr><td class="td1">Bayard</td>
+<tr><td class="tdg">Bayard</td>
 <td class="td2">2018</td><td class="td3">`+bayard[livre][chapitre][verset]+`</td></tr>
 
-<tr><td class="td1">Œcuménique</td>
+<tr><td class="tdg">Œcuménique</td>
 <td class="td2">1976</td><td class="td3">`+oecumenique[livre][chapitre][verset]+`</td></tr>
-<tr><td class="td1">Liturgie</td>
+<tr><td class="tdg">Liturgie</td>
 <td class="td2">2013</td><td class="td3">`+liturgie[livre][chapitre][verset]+`</td></tr>
-<tr><td class="td1">Jérusalem</td>
+<tr><td class="tdg">Jérusalem</td>
 <td class="td2">1973</td><td class="td3">`+jerusalem[livre][chapitre][verset]+`</td></tr>
 
-<tr><td class="td1">Albert Rilliet</td>
+<tr><td class="tdg">Albert Rilliet</td>
 <td class="td2">1858</td><td class="td3">`+rilliet[livre][chapitre][verset]+`</td></tr>
 
-<tr><td class="td1">AMIOT</td>
+<tr><td class="tdg">AMIOT</td>
 <td class="td2">1950</td><td class="td3">`+amiot[livre][chapitre][verset]+`</td></tr>
 
-<tr><td class="td1">Darby</td>
+<tr><td class="tdg">Darby</td>
 <td class="td2">1885</td><td class="td3">`+darby[livre][chapitre][verset]+`</td></tr>
-<tr><td class="td1">Darby Rev.</td>
+<tr><td class="tdg">Darby Rev.</td>
 <td class="td2">2006</td><td class="td3">`+darby_rev[livre][chapitre][verset]+`</td></tr>
 
-<tr><td class="td1">LIENART</td>
+<tr><td class="tdg">LIENART</td>
 <td class="td2">1951</td><td class="td3">`+lienart[livre][chapitre][verset]+`</td></tr>
 
-<tr><td class="td1">Shora Kuetu</td>
+<tr><td class="tdy">Shora Kuetu</td>
 <td class="td2">2021</td><td class="td3">`+kuetu[livre][chapitre][verset]+`</td></tr>
 
-<tr><td class="td1">Peuples</td>
+<tr><td class="tdy">Peuples</td>
 <td class="td2">2005</td><td class="td3">`+peuples[livre][chapitre][verset]+`</td></tr>
 
-<tr><td class="td1">Chouraqui</td>
+<tr><td class="tdy">Chouraqui</td>
 <td class="td2">1977</td><td class="td3">`+chouraqui[livre][chapitre][verset]+`</td></tr>
-<tr><td class="td1">Tresmontant</td>
+<tr><td class="tdy">Tresmontant</td>
 <td class="td2">2007</td><td class="td3">`+tresmontant[livre][chapitre][verset]+`</td></tr>
 
-<tr><td class="td1">Pirot et Clamer</td>
+<tr><td class="tdy">Pirot et Clamer</td>
 <td class="td2">1950</td><td class="td3">`+pirotclamer[livre][chapitre][verset]+`</td></tr>
-<tr><td class="td1">Abbé Crampon</td>
+<tr><td class="tdy">Abbé Crampon</td>
 <td class="td2">1923</td><td class="td3">`+crampon[livre][chapitre][verset]+`</td></tr>
 
-<tr><td class="td1">David Martin</td>
+<tr><td class="tdy">David Martin</td>
 <td class="td2">1744</td><td class="td3">`+martin[livre][chapitre][verset]+`</td></tr>
-<tr><td class="td1">King James</td>
+<tr><td class="tdy">King James</td>
 <td class="td2">1611</td><td class="td3">`+kingjames[livre][chapitre][verset]+`</td></tr>
-<tr><td class="td1">Ostervald</td>
+<tr><td class="tdy">Ostervald</td>
 <td class="td2">1881</td><td class="td3">`+ostervald[livre][chapitre][verset]+`</td></tr>
-<tr><td class="td1">Abbé Fillion</td>
+<tr><td class="tdy">Abbé Fillion</td>
 <td class="td2">1895</td><td class="td3">`+fillion[livre][chapitre][verset]+`</td></tr>
 
-<tr><td class="td1">Genève</td>
+<tr><td class="tdy">Genève</td>
 <td class="td2">1669</td><td class="td3">`+geneve1669[livre][chapitre][verset]+`</td></tr>
-<tr><td class="td1">Lausanne</td>
+<tr><td class="tdy">Lausanne</td>
 <td class="td2">1872</td><td class="td3">`+lausanne[livre][chapitre][verset]+`</td></tr>
 
-<tr><td class="td1">Sacy</td>
+<tr><td class="tdy">Sacy</td>
 <td class="td2">1759</td><td class="td3">`+sacy[livre][chapitre][verset]+`</td></tr>
 
-<tr><td class="td1">Segond 21</td>
+<tr><td class="tdy">Segond 21</td>
 <td class="td2">2007</td><td class="td3">`+segond21[livre][chapitre][verset]+`</td></tr>
-<tr><td class="td1">Louis Segond</td>
+<tr><td class="tdr">Louis Segond</td>
 <td class="td2">1910</td><td class="td3">`+segond1910[livre][chapitre][verset]+`</td></tr>
 
-<tr><td class="td1">Monde Nouveau</td>
+<tr><td class="tdr">Monde Nouveau</td>
 <td class="td2">2018</td><td class="td3">`+mondenouveau2018[livre][chapitre][verset]+`</td></tr>
-<tr><td class="td1">Monde Nouveau</td>
+<tr><td class="tdr">Monde Nouveau</td>
 <td class="td2">1995</td><td class="td3">`+mondenouveau1995[livre][chapitre][verset]+`</td></tr>
 
-<tr><td class="td1">Edmond Stapfer</td>
+<tr><td class="tdr">Edmond Stapfer</td>
 <td class="td2">1889</td><td class="td3">`+edmondstapfer[livre][chapitre][verset]+`</td></tr>
 
-<tr><td class="td1">Oltramare</td>
+<tr><td class="tdr">Oltramare</td>
 <td class="td2">1874</td><td class="td3">`+huguesoltramare[livre][chapitre][verset]+`</td></tr>
 
-<tr><td class="td1">Neufchâtel</td>
+<tr><td class="tdr">Neufchâtel</td>
 <td class="td2">1899</td><td class="td3">`+neufchatel[livre][chapitre][verset]+`</td></tr>
 
-<tr><td class="td1">Parole de vie</td>
+<tr><td class="tdr">Parole de vie</td>
 <td class="td2">2000</td><td class="td3">`+paroledevie[livre][chapitre][verset]+`</td></tr>
 
-<tr><td class="td1">Français C. N.</td>
+<tr><td class="tdr">Français C. N.</td>
 <td class="td2">2019</td><td class="td3">`+nfc[livre][chapitre][verset]+`</td></tr>
-<tr><td class="td1">Français C.</td>
+<tr><td class="tdr">Français C.</td>
 <td class="td2">1982</td><td class="td3">`+francaiscourant[livre][chapitre][verset]+`</td></tr>
 
-<tr><td class="td1">Semeur</td>
+<tr><td class="tdr">Semeur</td>
 <td class="td2">2000</td><td class="td3">`+semeur[livre][chapitre][verset]+`</td></tr>
 
-<tr><td class="td1">Parole vivante</td>
+<tr><td class="tdr">Parole vivante</td>
 <td class="td2">2013</td><td class="td3">`+parolevivante[livre][chapitre][verset]+`</td></tr>
 
 </tbody></table><br>`;
