@@ -22,14 +22,68 @@ text-decoration: none;
 
 table td {
 border-bottom: 1px solid #ddd;
+font-family: Roboto,RobotoDraft,Helvetica,Arial,sans-serif;
 }
 
-.td1 {
-font-family: Roboto,RobotoDraft,Helvetica,Arial,sans-serif;
+.tdg {
 text-transform: uppercase;
 white-space: nowrap;
 font-size:14px;
+border-left: solid #00c300 2px;
+padding-left: 5px;
 }
+
+
+.tdg:hover {
+text-transform: uppercase;
+white-space: nowrap;
+font-size:14px;
+border-left: solid #00ff00 2px;
+padding-left: 5px;
+}
+
+
+.tdy {
+text-transform: uppercase;
+white-space: nowrap;
+font-size:14px;
+border-left: solid #cfcf00 2px;
+padding-left: 5px;
+}
+
+
+.tdy:hover {
+text-transform: uppercase;
+white-space: nowrap;
+font-size:14px;
+border-left: solid #ffff00 2px;
+padding-left: 5px;
+}
+
+
+.tdr {
+text-transform: uppercase;
+white-space: nowrap;
+font-size:14px;
+border-left: solid #d30000 2px;
+padding-left: 5px;
+}
+
+
+.tdr:hover {
+text-transform: uppercase;
+white-space: nowrap;
+font-size:14px;
+border-left: solid #ff0000 2px;
+padding-left: 5px;
+}
+
+
+
+
+
+
+
 
 .td2 {
 padding: 0 6px;
