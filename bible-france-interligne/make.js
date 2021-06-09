@@ -352,7 +352,7 @@ body+=`\
 
 //clean regex
 body = body.replace(
-/<tr><td class="td1">\S+(?: \S+){0,4}<\/td>\s<td class="td2">[0-9]+<\/td><td class="td3">(undefined|null|)<\/td><\/tr>/sgi
+/<tr><td class="(tdg|tdy|tdr)">\S+(?: \S+){0,4}<\/td>\s<td class="td2">[0-9]+<\/td><td class="td3">(undefined|null|)<\/td><\/tr>/sgi
 ,'');
 
 
