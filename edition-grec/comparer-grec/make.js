@@ -85,12 +85,12 @@ sebastien_grec	= require('../ntgr/sebastien_grec.json');
 seb_n			= 'SEB';
 */
 
-require('../database/bible/grec/na28/na28.js'); //na28
+require('../../database/bible/grec/na28/na28.js'); //na28
 na28_n	= 'NA28';
 na28_sma = na28;
 
 
-require('../database/bible/grec/seb/sebastien_lemme.js'); //sebastien_grec
+require('../../database/bible/grec/seb/sebastien_lemme.js'); //sebastien_grec
 seb_n	= 'SEB';
 sebastien_grec = sebastien_lemme;
 
@@ -914,7 +914,7 @@ maxchapitres	= Math.max(
 
 			if (diff == 1)
 			{
-				lien='../bible-grec-interligne/'+livre+'-'+chapitre+'.html#v'+verset;
+				lien='../../bible-grec-interligne/'+livre+'-'+chapitre+'.html#v'+verset;
 
 				diff_mot_v++;
 

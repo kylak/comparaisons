@@ -3,12 +3,6 @@ De Didier Fontaine
 
 
 
-
-
-
-310	celui-ci	οὗτος
-310b	celui-ci	ὅδε
-
 311	dette	ὀφείλημα
 311b	dû	ὀφειλή
 

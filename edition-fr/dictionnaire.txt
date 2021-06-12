@@ -42,7 +42,7 @@ dichotomiser=couper en deux
 évergésie=action bien, bienfaisance
 évergète=bien en action, bienfaiteur
 
-
+fretin=opsarion, petite garniture, petit poisson
 fureur=thumos, âme en fumée, souffle colérique
 
 gouvernement=hégémonie
