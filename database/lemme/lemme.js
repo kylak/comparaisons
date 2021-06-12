@@ -1302,7 +1302,7 @@ lemme={
   "Vient de  ἅλς"
  ],
  "ἀλείφω": [
-  "oindre",
+  "huiler",
   "oindre, embaumer, verser, oindre, parfumer   Pour les Synonymes voir entrée  5805",
   "Verbe",
   "Vient de ἄλφα (particule d'union) et base de  λιπαρός"
@@ -5688,7 +5688,7 @@ lemme={
   "Vient de  βδελύσσομαι"
  ],
  "βδελύσσομαι": [
-  "détester",
+  "abominer",
   "détester, abhorrer, abomination , abominable, rendre sale, amener à être abhorré  abominable.  métaphorique : abhorrer, détester",
   "Verbe",
   "Vient peut-être d'un dérivé de bdeo (puer)"
@@ -22123,10 +22123,10 @@ lemme={
   "Vient d'un dérivé de  ἔχω  (du sens de fortifier, à travers l'idée de se tenir en sécurité)"
  ],
  "ὀψάριον": [
-  "poisson, poissons",
-  "poisson, poisson",
+  "fretin, fretins",
+  "petite garniture, friandise, sardine, petit en-cas de poisson, frétin, diminutif  de ὄψον : « qui accompagne le pain : légumes, oignons, olives, parfois viande, souvent poisson »",
   "Nom neutre",
-  "Vient du dérivé présumé de  ὀπτός"
+  "ὄψον ὀπτός ψάρι"
  ],
  "ὀψέ": [
   "tardivement",
