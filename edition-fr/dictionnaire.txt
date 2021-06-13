@@ -47,8 +47,12 @@ fureur=thumos, âme en fumée, souffle colérique
 
 gouvernement=hégémonie
 
+Hellas=Grèce
+hellèn=un homme grec
+hellène=une femme grec
 Hellénique=en langage grec
-Helléniste=personne qui utilise la langue Grec
+Helléniste=qui utilise la langue Grec
+
 hérésie=airesis, action de prendre, choix, opinion, parti
 himation=vêtement sans manches enroulé sur corps ou sur chiton, pallium
 humain=anthropinos

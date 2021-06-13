@@ -123,7 +123,7 @@ bayard=[
    "Et on ne va pas cacher la lumière de la lampe qu?on allume. On met plutôt la lampe bien en vue, pour qu’elle éclaire tous les habitants de la maison.",
    "Que votre lumière éclaire ainsi vos semblables. Tous verront quand vous ferez le bien et on louera votre Père dans les deux.",
    "Ne croyez pas que je viens détruire l’Enseignement et les Prophètes*. Loin de détruire, je viens accomplir.",
-   "Croyez-en ma parole : Aussi longtemps que le del et la terre existeront, l’Enseignement sera accompli. Dans tous ses détails. Jusqu’à la plus petite lettre. Et pour que tout soit achevé.",
+   "Croyez-en ma parole : Aussi longtemps que le ciel et la terre existeront, l’Enseignement sera accompli. Dans tous ses détails. Jusqu’à la plus petite lettre. Et pour que tout soit achevé.",
    "Qui remet en cause le moindre de ces préceptes ou incite à les contester sera renvoyé au dernier rang dans le règne des Cieux. Mais qui les met en pratique et les défend par son enseignement sera admis parmi les grands dans le règne des Cieux.",
    "Je vous le dis : Les scribes * et les séparés ont leur justice. Mais la vôtre doit être plus grande encore, sans quoi vous n’entrerez pas dans le règne des Cieux.",
    "Vous avez entendu qu’on a dit aux anciens : « Tu ne tueras pas. » Qui a tué mérite d’être jugé.",

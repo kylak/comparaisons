@@ -1,75 +1,8 @@
 De Didier Fontaine
+==================
 
 
 
-
-311	dette	ὀφείλημα
-311b	dû	ὀφειλή
-
-312	troubler	ὀχλέω
-312b	malmener	θορυβέω
-
-313	petit poisson	ὀψάριον
-313b	poisson	ἰχθύς
-
-314	aspect	ὄψις
-314b	vue	βλέμμα
-
-315	solde	ὀψώνιον
-315b	salaire	μισθός
-
-
-317	enfant	παιδίον
-317b	petit enfant	παιδάριον
-
-318	jeune servant	παῖς
-318b	jeune servante	παιδίσκη
-
-319	battre	παίω
-319b	frapper	κρούω
-
-320	ancien	παλαιός
-320b	antique	ἀρχαῖος
-
-321	vieillir	παλαιόω
-321b	devenir vieux	γηράσκω
-
-
-323	en tout temps	πάντοτε
-323b	toujours	ἀεί
-
-324	exhorter	παραμυθέομαι
-324b	avertir	παραινέω
-
-325	réconfort	παραμύθιον
-325b	exhortation	παραμυθία
-
-326	transgression	παρανομία
-326b	illégalité	ἀνομία
-
-327	préparer	παρασκευάζω
-327b	préparer	ἑτοιμάζω
-
-328	préparation	παρασκευή
-328b	disponibilité	ἑτοιμασία
-
-329	immédiatement	παραχρῆμα
-329b	aussitôt	εὐθέως
-
-330	passer à côté	παρέρχομαι
-330b	passer	παραπορεύομαι
-
-331	exhortation	παρηγορία
-331b	réconfort	παραμύθιον
-
-332	plat	πεδινός
-332b	assiette	παροψίς
-
-333	éprouver	πειράω
-333b	tenter	πειράζω
-
-334	de l'autre côté	πέραν
-334b	au delà	ἐπέκεινα
 
 335	autour	περί
 335b	tout autour	κυκλόθεν

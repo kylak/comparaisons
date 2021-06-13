@@ -1,4 +1,6 @@
 f690ab0a465d78cb493853946bb4f56f  bible/critique/critique.js
+4d4641888bc788e0d148df183457314a  bible/francais/amiot/amiot.js
+12e7d69d95b7d4315b8f417ebbc78dd8  bible/francais/bayard/bayard.js
 2ab58b30835ca81d5b3a3f9d75272d85  bible/francais/chouraqui/chouraqui.js
 d460154e3af13ab76485570ceb3ec30d  bible/francais/crampon/crampon.js
 cf5b42f4b30f8e9bcb0004bf6f3504fe  bible/francais/darby/darby.js
@@ -15,6 +17,7 @@ fa52febfbe61cca873ff73c9c012d857  bible/francais/jerusalem/jerusalem.js
 7f82e3bae4009c3c1e8109fd850f54d1  bible/francais/kingjames/kingjames.js
 b2db4d9d0b3deb7937d0e8b02e3ec890  bible/francais/kuetu/kuetu.js
 3306bd1db6dc010f7fd5bf05adf596da  bible/francais/lausanne/lausanne.js
+56d5d40692ce88296392eb281a47c89d  bible/francais/lienart/lienart.js
 83566d36cd0d5fec3f295c9212c869b8  bible/francais/liturgie/liturgie.js
 29a6b285ebc959649721b6372f1bd9b8  bible/francais/martin/martin.js
 cf8a29faa6d244a3201a7a0cf53e9dda  bible/francais/mondenouveau/mondenouveau1995.js
@@ -31,7 +34,7 @@ ad800f244cef81ce399a0e9cc1675661  bible/francais/parolevivante/parolevivante.js
 e5269324feac51853e2115610e7214fc  bible/francais/pirotclamer/pirotclamer.js
 e4202771385b39c5f5c6cc7fbe39aa6b  bible/francais/rilliet/rilliet.js
 921206b8b2952e6a3847a97a65225d7c  bible/francais/sacy/sacy.js
-318a45087809b783a0df972f46fa1aad  bible/francais/sebastien/sebastien.js
+71ac832bd8be592d8bc2b2be7cb5f52a  bible/francais/sebastien/sebastien.js
 11a4dcdf4f69787b9dbbc9055e4432a6  bible/francais/segond/segond1910.js
 d8be284237cf2890bdc0991b8b6274b7  bible/francais/segond/segond21.js
 0e75375d89f1fb8cc67e2627a8835d57  bible/francais/semeur/semeur.js
@@ -58,7 +61,7 @@ ef28c103f83fd65998962c32c7c63d4e  bible/grec/ga03/ga03c.js
 f4697a35707f6be8beca8cf98d9b05d9  bible/grec/ga32/ga32a.js
 7eedfbc4ed68803df18a8b737e6438a3  bible/grec/ga32/ga32b.js
 4b716ac30c7c6e96d0b6835d30859d90  bible/grec/na28/na28.js
-e519787103ceba517b1346dfa6aba3f0  bible/grec/na28/na28_lemme.js
+78a21f2903a38454ba34cbe5efd8f412  bible/grec/na28/na28_lemme.js
 36759531eaddb03f619bae509bef328b  bible/grec/p1/p1.js
 8124f4185c594e8c72ded028b5ae61f0  bible/grec/p100/p100.js
 38b1b5c567f7b558643ef10a19a472db  bible/grec/p101/p101.js
@@ -149,7 +152,7 @@ c6feb3ec1783ea82d30e7e2226ce5b57  bible/grec/p92/p92.js
 fcfe43204beb1f0634dadf3ffe4d9356  bible/grec/p95/p95.js
 6d7ae2b51e3e1f2c206edad757612bec  bible/grec/p98/p98.js
 6404f4ce728f5e328c8b8acb8ed7a594  bible/grec/sbl/sbl.js
-edadfe059e34bcb916ee77f91552d5e0  bible/grec/seb/sebastien_lemme.js
+6481044749be9c402cdd3fbb033e2c22  bible/grec/seb/sebastien_lemme.js
 a8e77317e9297c23fb98e412153cd79e  bible/grec/tisch/tisch.js
 0087cfb564067c44d369bb4093dee1f5  bible/grec/wh/erreur
 1d70def5a51d52e7e28170a5d4fc3923  bible/grec/wh/wha.js
@@ -157,5 +160,5 @@ a8e77317e9297c23fb98e412153cd79e  bible/grec/tisch/tisch.js
 ff13bf147ba1f8a6b7f2c85b0347c3b8  bible/grec/wh/whc.js
 d84e08a08e18a4c23e096081fb991baa  bible/grec/wh/whd.js
 1c889a5a31fe59f84f0f565ab8837029  bible/romain/jerome/jerome.js
-d05ac06fc8afcbb1085475ea574c4fc5  lemme/lemme.js
+aae197be3e9ffa933f6cc2c747194764  lemme/lemme.js
 0f9a47abe5489c046fc01cf1d94978c2  verbes/verbes.js
