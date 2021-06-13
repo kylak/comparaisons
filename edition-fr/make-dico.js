@@ -32,15 +32,19 @@ result	= fs.readFileSync('dictionnaire.txt', 'utf8');
 
 
 line = result.match(/^.*$/mg);
-
+debl = '';
 for (nb=0;nb!=line.length;nb++)
 {
 	if (line[nb] != '')
 	{
 		word = line[nb].split('=');
 
-    body_html += '<div><b>'+word[0]+'</b>&ensp; '+word[1]+'</div>\n';
 
+	if (word[0][0].toUpperCase().normalize("NFD").replace(/[\u0300-\u036f]/g, "") != debl)
+		body_html += '<h1>'+word[0][0].toUpperCase().normalize("NFD").replace(/[\u0300-\u036f]/g, "")+'</h1>\n';
+	
+    body_html	+= '<div><b>'+word[0]+'</b>&ensp; '+word[1]+'</div>\n';
+	debl		= word[0][0].toUpperCase().normalize("NFD").replace(/[\u0300-\u036f]/g, "");
 
 
 

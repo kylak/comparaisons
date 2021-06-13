@@ -1482,8 +1482,8 @@ lemme={
   "Vient de  ἄλλος"
  ],
  "ἀλοάω": [
-  "battre",
-  "battre, fouler, battage, fouler le grain",
+  "fouler le grain",
+  "triturer, fouler, battage, fouler le grain",
   "Verbe",
   "Vient du même mot que  ἅλων"
  ],
@@ -1536,7 +1536,7 @@ lemme={
   "Vient d'un mot Hébreu [cf  02501 ]"
  ],
  "ἅλων": [
-  "aire",
+  "aire à fouler le grain",
   "aire, surface en terre ou aire de battage, c'est à dire le lieu dans le champ qui est aplani par un rouleau, avant d'extraire le grain par battage",
   "Nom féminin",
   "Vient probablement de la base de  εἱλίσσω"
@@ -4368,7 +4368,7 @@ lemme={
   "Vient de  ἁρπάζω"
  ],
  "ἀρραβών": [
-  "gage",
+  "arrhe",
   "gage, arrhes, des arrhes.   monnaie donnée en gage d'un futur paiement, et en attendant que le solde soit payé",
   "Nom masculin",
   "Vient d'un mot Hébreu  06162"
@@ -4464,8 +4464,8 @@ lemme={
   "Vient de  ἄρχω  et  ἄγγελος"
  ],
  "ἀρχαῖος": [
-  "ancien, anciens, ancienne, anciennes",
-  "ancien, les anciens, dès longtemps, bien des générations, choses anciennes, ce qui a été depuis le commencement, originel, ancien.   des hommes, choses, temps, conditions    Pour les Synonymes voir entrée  5816",
+  "originaire, originaires, originaire, originaires",
+  "antique, du commencement, anciens, dès longtemps, bien des générations, choses anciennes, ce qui a été depuis le commencement, originel, ancien.   des hommes, choses, temps, conditions    Pour les Synonymes voir entrée  5816",
   "Adjectif",
   "Vient de  ἀρχή"
  ],
@@ -7380,8 +7380,8 @@ lemme={
   "Vient de  διά  et de la base de  ἄγγελος"
  ],
  "διαγίνομαι": [
-  "passer",
-  "passer,passé, après, écoulé, avoir fini, continuer.  être entre, intervenir, être intervenu, écoulé, sur ces entrefaites",
+  "devenir au travers",
+  "passer, devenir traversé, advenir outre, après, écoulé, avoir fini, continuer.  être entre, intervenir, être intervenu, écoulé, sur ces entrefaites",
   "Verbe",
   "Vient de  διά  et  γίνομαι"
  ],
@@ -9762,7 +9762,7 @@ lemme={
   "Vient de  ἐκ"
  ],
  "ἐκχωρέω": [
-  "partir",
+  "placer au dehors",
   "sortir,en sortent, partir de.  enlever, avec le sens de fuite",
   "Verbe",
   "Vient de  ἐκ  et  χωρέω"
@@ -9840,7 +9840,7 @@ lemme={
   "Probablement parent de  ἐλαύνω  et de  ἐλάσσων"
  ],
  "ἐλάχιστος": [
-  "plus petit, plus petits, plus petite, plus petites",
+  "moindre, moindres, moindre, moindres",
   "moindre, plus petit, moindre chose, peu de choses, peu, très petit, plus petit, moindre.   en dimensions.  en valeur : commerce ou affaires.  en importance : le moindre moment.  en autorité : des ordres.  dans l'estimation d'hommes, de personnes.  dans le rang et l'excellence de personnes",
   "Adjectif",
   "Superlatif de 'elachus' (court); pris comme équivalent de  μικρός"
@@ -9990,25 +9990,25 @@ lemme={
   "Probablement parent de  αἱρέω"
  ],
  "Ἑλλάς": [
-  "Grèce",
+  "Hellas",
   "Grèce, Grèce = \"instable : argileuse, souple\"   contrée au sud de l'Europe",
   "Nom propre locatif",
   "Affinité incertaine"
  ],
  "Ἕλλην": [
-  "Grec, Grecs",
+  "Hellèn, Hellèns",
   "Grec, Grecs, païens, un Grec de par sa nationalité, ou par sa naissance sur le territoire Grec ou dans les colonies ou îles Grecques.  dans un sens plus large, ce mot englobe toutes les nations non Juives qui avaient le langage, les coutumes et l'éducation Grecque ;  la première référence implique une différence de religion et de culte",
   "Nom masculin",
   "Vient de  Ἑλλάς"
  ],
  "Ἑλληνικός": [
-  "Hellénique",
+  "Hellènique",
   "Grec, en langage grec",
   "Adjectif",
   "Vient de  Ἕλλην"
  ],
  "Ἑλληνίς": [
-  "Grecque, Grecques, Grecque, Grecques",
+  "Hellène, Hellènes, Hellène, Hellènes",
   "Grecque, Grecques, une femme Grecque.  une femme païenne, non Juive",
   "Nom féminin",
   "Féminin de  Ἕλλην"
@@ -10020,7 +10020,7 @@ lemme={
   "Vient d'un dérivé de  Ἕλλην"
  ],
  "Ἑλληνιστί": [
-  "en Grec",
+  "en Helléniste",
   "en Grec, en grec, le langage grec",
   "Adverbe",
   "Vient du même mot que  Ἑλληνιστής"
@@ -11364,8 +11364,8 @@ lemme={
   "Vient de  ἐπί  et  εἶτα"
  ],
  "ἐπέκεινα": [
-  "au delà",
-  "au delà, au delà de",
+  "sur le delà",
+  "sur le delà, sur celui-là, sur l’autre rive",
   "Adverbe",
   "Vient de  ἐπί  et de  ἐκεῖνος"
  ],
@@ -12505,13 +12505,13 @@ lemme={
  ],
  "ἑτοιμάζω": [
   "préparer",
-  "préparer, réserver, disposer, tenir prêt, propre, rendre prêt, préparer.   faire les préparations nécessaires, tenir chaque chose prête.   métaphorique.   désigne la coutume orientale d'envoyer des gens devant les rois en voyage pour évaluer les routes et les rendre praticables.  préparer les esprits des hommes pour leur donner une bonne perception du Messie et les rassurer sur les bénédictions",
+  "préparer, disposer, réserver, tenir prêt, propre, rendre prêt, préparer.   faire les préparations nécessaires, tenir chaque chose prête.   métaphorique.   désigne la coutume orientale d'envoyer des gens devant les rois en voyage pour évaluer les routes et les rendre praticables.  préparer les esprits des hommes pour leur donner une bonne perception du Messie et les rassurer sur les bénédictions",
   "Verbe",
   "Vient de  ἕτοιμος"
  ],
  "ἑτοιμασία": [
   "préparation",
-  "préparation, l'action de préparation.  la condition d'une personne ou d'une chose qui est préparée, prête",
+  "préparation, disposition, l'action de préparation.  la condition d'une personne ou d'une chose qui est préparée, prête",
   "Nom féminin",
   "Vient de  ἑτοιμάζω"
  ],
@@ -13842,7 +13842,7 @@ lemme={
   "Vient de  θεός  et  διδάσκω"
  ],
  "θεομαχέω": [
-  "combattre Dieu",
+  "bataillants Dieu",
   "combattre contre Dieu, lutter contre Dieu",
   "Verbe",
   "Vient de  θεομάχος"
@@ -17208,7 +17208,7 @@ lemme={
   "Vient de kopros (ordure, peut-être parent de  κόπτω )"
  ],
  "κόπτω": [
-  "frapper",
+  "couper",
   "couper, couper,  découper, arracher.  se frapper la poitrine de chagrin",
   "Verbe",
   "Un mot racine"
@@ -17508,8 +17508,8 @@ lemme={
   "Vient de  κριτής"
  ],
  "κρούω": [
-  "frapper",
-  "frapper, frapper : à la porte",
+  "toquer",
+  "toquer, cogner, frapper : à la porte",
   "Verbe",
   "Apparemment un verbe primaire"
  ],
@@ -17616,8 +17616,8 @@ lemme={
   "Vient du même mot que  κυβέρνησις"
  ],
  "κυκλόθεν": [
-  "autour",
-  "autour, autour",
+  "en encerclement",
+  "en cercle tout autour, en encerclement",
   "Adverbe",
   "Vient du même mot que  κύκλος"
  ],
@@ -22051,7 +22051,7 @@ lemme={
   "Vient de  ὀφείλω"
  ],
  "ὀφείλημα": [
-  "dette, dettes",
+  "dû, dûs",
   "dette, ce qui est un dû, chose due, ce que l'on doit légalement, une dette.   métaphorique offense, péché",
   "Nom neutre",
   "Vient d'une variante de  ὀφείλω"
@@ -22148,12 +22148,12 @@ lemme={
  ],
  "ὄψις": [
   "vue",
-  "vue, à la vue, au regard.  figure, visage, expression.  l'apparence extérieure, le \"look\"",
+  "vue, regard, figure, visage, expression, aspect,  l'apparence extérieure, le \"look\"",
   "Nom féminin",
   "Vient de  ὀπτάνομαι"
  ],
  "ὀψώνιον": [
-  "salaire, salaires",
+  "gage, gages",
   "salaire, provisions, la paye d'un soldat, allocation.   la part du soldat donnée en supplément à la paye (les rations) et la monnaie dans laquelle il est payé   métaphorique gages : le prix du péché",
   "Nom neutre",
   "Vient d'un dérivé présumé du même mot que  ὀψάριον"
@@ -22201,7 +22201,7 @@ lemme={
   "Vient de  παῖς  et d'une forme de  ἄγω"
  ],
  "παιδάριον": [
-  "petit enfant",
+  "petit jeune enfant",
   "petit enfant, petit enfant, petiot, un petit garçon   Pour les Synonymes voir entrée  5868",
   "Nom neutre",
   "Vient d'un dérivé présumé de  παῖς"
@@ -22231,7 +22231,7 @@ lemme={
   "Vient de (\"la source\") et de  παιδίον"
  ],
  "παιδίον": [
-  "petit enfant, petits enfants",
+  "jeune enfant, jeunes enfants",
   "petit enfant, un jeune enfant, un petit garçon, une petite fille.   enfants.  les petits.  un enfant.   un bébé (mâle) qui est né récemment.    un enfant un peu plus âgé, d'un enfant mâture ;    métaphorique enfant (ou comme un enfant) dans l'intellect    Pour les Synonymes voir entrée  5868",
   "Nom neutre",
   "Vient de dimin. de  παῖς"
@@ -22285,7 +22285,7 @@ lemme={
   "Vient de  παλαιός"
  ],
  "παλαιόω": [
-  "vieillir",
+  "rendre ancien",
   "vieillir, devenir ancien ou vieux.   être usé  de choses usées par le temps et l'usage.   déclarer une chose comme étant ancienne, et devant être abrogée",
   "Verbe",
   "Vient de  παλαιός"
@@ -22405,8 +22405,8 @@ lemme={
   "Vient de  πᾶς  et  κράτος"
  ],
  "πάντοτε": [
-  "toujours",
-  "toujours, tous, continuellement, de mieux en mieux, en tout temps, ne cessant de, en tous temps, toujours",
+  "en tout moment",
+  "en tout moment, en tout temps, tout continuellement",
   "Adverbe",
   "Vient de  πᾶς  et  ὅτε"
  ],
@@ -22556,7 +22556,7 @@ lemme={
  ],
  "παραινέω": [
   "exhorter",
-  "exhorter, avertir,avertit , exhorte, exhorter, réprimander, avertir",
+  "exhorter, avertir, réprimander",
   "Verbe",
   "Vient de  παρά  et  αἰνέω"
  ],
@@ -22681,31 +22681,31 @@ lemme={
   "Vient de  παρά  et  μένω"
  ],
  "παραμυθέομαι": [
-  "exhorter",
+  "réconforter",
   "exhorter, parler avec, s'adresser à, soit par la voie d'une admonition stimulante, ou pour calmer et consoler.    encourager, consoler",
   "Verbe",
   "Vient de  παρά  et d'un dérivé de  μῦθος"
  ],
  "παραμυθία": [
-  "exhortation",
+  "réconfortation",
   "exhortation, dire à côté, n'importe quel discours, qu'il soit fait dans le but de persuader, ou pur élever et stimuler, ou pour calmer et consoler.   consolation, réconfort",
   "Nom féminin",
   "Vient de  παραμυθέομαι"
  ],
  "παραμύθιον": [
-  "exhortation",
+  "réconfort",
   "exhortation, paroles persuasives",
   "Nom neutre",
   "Vient de  παραμυθία"
  ],
  "παρανομέω": [
-  "légiférer à côté",
+  "contrer la loi",
   "légiférer à côté, faire la loi à côté, agir contrairement à la loi, violer la loi",
   "Verbe",
   "Vient d'un composé de  παρά  et  νόμος"
  ],
  "παρανομία": [
-  "illégalité",
+  "contrariation de la loi",
   "illégalité, transgression, viol de la loi, transgression, méchanceté",
   "Nom féminin",
   "Vient du même mot que  παρανομέω"
@@ -22771,13 +22771,13 @@ lemme={
   "Vient de  παρά  et de  σημαίνω"
  ],
  "παρασκευάζω": [
-  "préparer",
-  "préparer, se préparer, être prêt, se rendre prêt, se préparer.  s'être préparé, être préparé ou prêt",
+  "équiper à côté",
+  "équiper contre, préparer, apprêter les ustensiles, être prêt, se rendre prêt, se préparer.  s'être préparé, être préparé ou prêt",
   "Verbe",
   "Vient de  παρά  et d'un dérivé de  σκεῦος"
  ],
  "παρασκευή": [
-  "préparation",
+  "équipement de côté",
   "préparation, ce qui rend prêt, préparation, action d'équiper.  ce qui est préparé, équipement.  dans le Nouveau Testament dans un sens Juif, le jour de préparation.   le jour où les Juifs faisaient la préparation nécessaire pour célébrer un sabbat ou une fête",
   "Nom féminin",
   "Comme s'il venait de  παρασκευάζω"
@@ -23017,7 +23017,7 @@ lemme={
   "Vient de  παρά  et  οἶνος"
  ],
  "παροίχομαι": [
-  "aller à côté",
+  "être passé",
   "aller à côté, s'en aller, être passé",
   "Verbe",
   "Vient de  παρά  et oichomai (partir)"
@@ -23071,8 +23071,8 @@ lemme={
   "Vient de  πάρειμι"
  ],
  "παροψίς": [
-  "plat",
-  "plat, un plat annexe, un plat de friandises ou de mets choisis destinés plus à ouvrir l'appétit qu'à le satisfaire.    un accompagnement d'une nourriture plus consistante.   le plat lui-même dans lequel les mets délicats sont servis",
+  "écuelle",
+  "plat annexe, plat de friandises ou de mets choisis destinés plus à ouvrir l'appétit qu'à le satisfaire, assiette, un accompagnement d'une nourriture plus consistante.   le plat lui-même dans lequel les mets délicats sont servis",
   "Nom féminin",
   "Vient de  παρά  et de  ὀψάριον"
  ],
@@ -23263,7 +23263,7 @@ lemme={
   "Vient de  πέραν  (à travers l'idée de percement)"
  ],
  "πειράζω": [
-  "tenter",
+  "mettre en tentation",
   "tenter, tentateur, éprouver, être tenté, se disposer à, s'examiner, mettre à l'épreuve, essayer si une chose peut être faite.   tenter, s'efforcer.   essayer, éprouver, dans le but de certifier une quantité, ou ce que pense l'autre, ou comment il se conduit.    dans un bon sens.  dans un mauvais sens, éprouver malicieusement, astucieusement pour prouver ses sentiments ou jugements.  essayer ou éprouver la foi, la vertu, le caractère, par la séduction du péché    solliciter à pécher, tenter.   des tentations du diable.    après l'Ancien Testament.   de Dieu : infliger des maux dans le but d'éprouver un caractère et la constance de la foi.  il est dit que les hommes veulent tenter Dieu en montrant leur méfiance, par une conduite impie ou méchante, pour éprouver la justice et la patience de Dieu, et le défier, comme s'il avait à donner une preuve de ses perfections",
   "Verbe",
   "Vient de  πεῖρα"
@@ -23401,8 +23401,8 @@ lemme={
   "Vient de  πέραν"
  ],
  "πέραν": [
-  "au delà",
-  "au delà, l'autre bord, l'autre côté, l'autre rive, au delà, de l'autre côté",
+  "de l'autre côté",
+  "de l'autre bord, de l'autre côté, l'autre rive, au delà, de l'autre côté",
   "Adverbe",
   "Vient apparemment d'un dérivé de peiro (\"percer\")"
  ],
@@ -24199,8 +24199,8 @@ lemme={
   "Vient d'un dérivé présumé de  πλήθω"
  ],
  "πλήσσω": [
-  "frapper",
-  "frapper, frapper, battre",
+  "heurter",
+  "frapper, battre",
   "Verbe",
   "Apparemment une autre forme de  πλάσσω  (à travers l'idée d'aplatir)"
  ],
@@ -30427,7 +30427,7 @@ lemme={
   "Vient de  τύπτω"
  ],
  "τύπτω": [
-  "percuter",
+  "taper",
   "percuter, frapper, blesser, frapper, battre, donner des coups.   avec un bâton, un fouet, le poing, la main.  de pleureuses, qui se frappent la poitrine.   frapper quelqu'un à qui on inflige une punition.  frapper.   métaphorique c'est à dire blesser, déranger la conscience",
   "Verbe",
   "Un verbe primaire (dans une forme renforcée)"
@@ -33481,10 +33481,10 @@ lemme={
   "ἧττων"
  ],
  "θορυβάζομαι": [
-  "tumultuer",
+  "mettre en tumulte",
   "tumultuer, tumultuer",
   "Verbe",
-  "Voir θορυβέω, τυρβάζω"
+  "θορυβέω τυρβάζω βάζω(mettre)"
  ],
  "ἱερόθυτος": [
   "sanctuaire sacrifice",
