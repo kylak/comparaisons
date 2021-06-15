@@ -10068,8 +10068,8 @@ lemme={
   "Composé de  ἐμοῦ  et  αὐτός"
  ],
  "ἐμβαίνω": [
-  "entrer",
-  "monter, remonter, descendre, entrer dans, monter dans",
+  "embarquer",
+  "marcher dans, entrer dans",
   "Verbe",
   "Vient de  ἐν  et de  βάσις"
  ],
@@ -28039,7 +28039,7 @@ lemme={
   "Vient de  σύν  et  κάμπτω"
  ],
  "συγκαταβαίνω": [
-  "descendre de haut en bas avec",
+  "descendre ensemble",
   "descendre de haut en bas avec, descendre de haut en bas avec.   de ceux qui descendent d'un endroit sur la hauteur vers un endroit plus bas, comme par exemple de Jérusalem à Césarée",
   "Verbe",
   "Vient de  σύν  et  καταβαίνω"

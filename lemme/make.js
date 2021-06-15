@@ -215,24 +215,39 @@ for (livre = 1 ; livre != 28 ; livre++)
 						
 							if (concordance_morph[sebs1])
 							{
-							
+								
+								
+								sebx2 = sebfrs.replace(/\?/g,'\\?');
 								regexvar = 
-								'<tr><td>'+sebs0+'</td><td>&ensp;</td>'+'<td>'+sebs2+'</td><td>&ensp;</td><td>'+sebfrs+'</td><td>&ensp;</td><td>(.*?)</td></tr>';
-								
+								'<tr><td>'+sebs0+'</td><td>&ensp;</td>'+'<td>'+sebs2+'</td><td>&ensp;</td><td>'+sebx2+'</td><td>&ensp;</td><td>(.*?)</td></tr>';
+
 								regexpress = new RegExp(regexvar, "")
-								
+
 								if 	(resultregex=concordance_morph[sebs1].match(regexpress))
 								{
+									
+									
+									
 									newnumber = parseInt(resultregex[1])+1 
 									regexvar=regexvar.replace('(.*?)',newnumber);
+									regexvar=regexvar.replace(/\\\?/g,'?');
+									
+									
 									concordance_morph[sebs1] = concordance_morph[sebs1].replace(resultregex[0], regexvar);
 										
 								}
 								
 								
 								else
+								{
+
 								concordance_morph[sebs1] += 
 								'<tr><td>'+sebs0+'</td><td>&ensp;</td>'+'<td>'+sebs2+'</td><td>&ensp;</td><td>'+sebfrs+'</td><td>&ensp;</td><td>1</td></tr>';
+								
+								}
+								
+								
+								
 							}
 													
 							else
