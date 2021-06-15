@@ -3762,7 +3762,7 @@ lemme={
   "Vient du même mot que  ἀπολογέομαι"
  ],
  "ἀπολούω": [
-  "laver complètement",
+  "baigner complètement",
   "être lavé profondément, laver au loin ou être lavé",
   "Verbe",
   "Vient de  ἀπό  et  λούω"
@@ -3816,7 +3816,7 @@ lemme={
   "Vient de  ἀπό  et  πλέω"
  ],
  "ἀποπλύνω": [
-  "laver loin",
+  "rincer loin",
   "laver, laver, nettoyer",
   "Verbe",
   "Vient de  ἀπό  et  πλύνω"
@@ -4740,8 +4740,8 @@ lemme={
   "Probablement origine étrangère"
  ],
  "ἀστατέω": [
-  "errer",
-  "errer,errant çà et là, sans domicile fixe, errant",
+  "être non-stationnaire",
+  "être instable, errer, errant çà et là, sans domicile fixe, errant",
   "Verbe",
   "Vient de ἄλφα (négatif) et un dérivé de  ἵστημι"
  ],
@@ -6780,7 +6780,7 @@ lemme={
   "Vient de  γυμνάζω"
  ],
  "γυμνητεύω": [
-  "dénuder",
+  "être nus",
   "dévêtir,la nudité, être légèrement ou pauvrement vêtu.  être un soldat peu armé",
   "Verbe",
   "Vient d'un dérivé de  γυμνός"
@@ -11658,8 +11658,8 @@ lemme={
   "Vient de  ἐπί  et  κρίνω"
  ],
  "ἐπιλαμβάνομαι": [
-  "saisir",
-  "saisir, se saisir, prendre, avancer la main, reprendre, venir en aide, prendre en ajout, prendre possession de, rattraper, atteindre.   saisir quelque chose avec les mains, se saisir de.  métaphorique sauver quelqu'un du péril, venir en aide, secourir",
+  "emparer",
+  "prendre sur, se saisir du dessus, prendre dessus, avancer la main, reprendre, venir en aide, prendre en ajout, prendre possession de, rattraper, atteindre.   saisir quelque chose avec les mains, se saisir de.  métaphorique sauver quelqu'un du péril, venir en aide, secourir",
   "Verbe",
   "Vient de  ἐπί  et  λαμβάνω"
  ],
@@ -14041,7 +14041,7 @@ lemme={
  ],
  "θλίβω": [
   "oppresser",
-  "resserrer, presser, être affligé, exposé à des tribulations,  malheureux, persécuté, presser (comme des grappes), oppresser.  un chemin rétréci.   étroit, contracté   métaphorique affliger, troubler, persécuter",
+  "resserrer, presser, être affligé, exposé à des tribulations,  tourmenter, persécuté, presser (comme des grappes), oppresser.  un chemin rétréci.   étroit, contracté   métaphorique affliger, troubler, persécuter",
   "Verbe",
   "Parent de  τρίβος"
  ],
@@ -15288,7 +15288,7 @@ lemme={
   "Vient du même mot que  κακοπάθεια"
  ],
  "κακοποιέω": [
-  "faire le mal",
+  "faire mal",
   "maltraiter, faire du mal, faire le mal.  faire mal, faire faux",
   "Verbe",
   "Vient de  κακοποιός"
@@ -18174,7 +18174,7 @@ lemme={
   "Vient de  λίθος"
  ],
  "λιθοβολέω": [
-  "lapider",
+  "jeter des pierres",
   "lapider, jeter de pierre, tuer par lapidation, lapider.  frapper quelqu'un à coups de pierres",
   "Verbe",
   "Vient d'un composé de  λίθος  et  βάλλω , jeter+pierre donc lapider"
@@ -18444,7 +18444,7 @@ lemme={
   "Vient de  λύω"
  ],
  "λυσιτελέω": [
-  "avantager",
+  "être avantageux",
   "avantager, acquitter ses impôts.  revenir sur des dépenses.  être utile, avantageux, profitable",
   "Verbe",
   "Troisième personne du singulier au présent de l'indicatif d'un composé de  λύσις  et  τέλος"
@@ -20299,8 +20299,8 @@ lemme={
   "Vient de  ναῦς  et  κλῆρος  (\"commis\")"
  ],
  "ναῦς": [
-  "navire",
-  "navire, un navire, bateau de grande dimension",
+  "vaisseau",
+  "navire, vaisseau, bateau de grande dimension",
   "Nom féminin",
   "Vient de 'nao' ou 'neo' (flotter)"
  ],
@@ -21823,8 +21823,8 @@ lemme={
   "Vient de  ὄζω"
  ],
  "ὅσος": [
-  "combien grand, combien grands, combien grande, combien grandes",
-  "combien grand, aussi grand que, aussi loin que, combien, comme, qui que ..",
+  "autant lequel, autant lesquels, autant laquelle, autant lesquelles",
+  "comme lequel, autant que, aussi grand que, aussi loin que, combien, comme, qui que ..",
   "Pronom",
   "Vient par duplication de  ὅς"
  ],
@@ -22411,8 +22411,8 @@ lemme={
   "Vient de  πᾶς  et  ὅτε"
  ],
  "πάντως": [
-  "toutefois",
-  "toutefois, complètement, en tout cas, tout à fait.   dans toutes les façons, de toute manière.  sans doute, sûrement, certainement.  nullement, pas du tout",
+  "en tout cas",
+  "toutefois, complètement, en tout cas, tout à fait, de toute manière,  sans doute, sûrement, certainement.  nullement, pas du tout",
   "Adverbe",
   "Vient de  πᾶς"
  ],
@@ -23311,10 +23311,10 @@ lemme={
   "Apparemment un mot racine"
  ],
  "πένης": [
-  "accablés",
+  "peinés",
   "accablé, peineur, peineur, celui qui peine,  Pour les Synonymes voir entrée  5870",
   "Adjectif",
-  "Vient du mot primaire peno (peiner pour une subsistance quotidienne)"
+  "Vient du mot primaire peno (peiner pour une subsistance quotidienne) πόνος "
  ],
  "πενθερά": [
   "belle-mère",
@@ -23653,7 +23653,7 @@ lemme={
   "Vient de  περί  et  σπάω"
  ],
  "περισσεία": [
-  "abondance",
+  "surabondance",
   "abondance, débordante, encore d'avantage, tout excès, abondance, surabondamment, d'une façon superflue.  supériorité, préférence, prééminence.  gain, profit.  résidus, restes : la méchanceté qui reste dans un Chrétien et qui provient de son état antérieur à sa conversion mot utilisé par les Grecs pour décrire l'excès de cire dans leurs oreilles",
   "Nom féminin",
   "Vient de  περισσεύω"
@@ -23761,7 +23761,7 @@ lemme={
   "Vient d'un comparatif de  περί  et psao (frotter)"
  ],
  "περπερεύομαι": [
-  "vanter",
+  "fanfaronner",
   "vanter, se glorifier.  affichage de soi, en employant un embellissement rhétorique pour se vanter avec excès",
   "Verbe",
   "Vient de perperos (fanfaron, peut-être par duplication de  πέραν )"
@@ -23803,8 +23803,8 @@ lemme={
   "Apparemment un mot primaire"
  ],
  "πετρώδης": [
-  "pierreux",
-  "pierreux, rocheux, pierreux.   d'une sol plein de pierres",
+  "rocailleux",
+  "rocheux, pierreux.   d'une sol plein de pierres",
   "Adjectif",
   "Vient de  πέτρα  et  εἶδος"
  ],
@@ -23864,7 +23864,7 @@ lemme={
  ],
  "πιέζω": [
   "serrer",
-  "serrer,serrée, presser, serrer ensemble",
+  "serrer, comprimer, presser",
   "Verbe",
   "Une autre forme pour πιάζω"
  ],
@@ -23977,7 +23977,7 @@ lemme={
   "Vient de  πείθω"
  ],
  "πιστόω": [
-  "croire",
+  "rendre croyant",
   "reconnaître certaines ,reconnues certaines, rendre fidèle, rendre digne de confiance.   établir.   être fermement persuadé de.   être assuré de",
   "Verbe",
   "Vient de  πιστός"
@@ -24067,7 +24067,7 @@ lemme={
   "Superlatif de  πολύς"
  ],
  "πλείων": [
-  "plus nombreux, plus nombreux, plus nombreuse, plus nombreuses",
+  "en plus nombreux que, en plus nombreux que, en plus nombreuse que, en plus nombreuses que",
   "plus que, davantage, en plus grand, au delà, beaucoup de choses, encore plus, plusieurs, d'autre, la plupart, le plus grand nombre, d'autant supérieur, plus excellent, plus nombreuses que, plus grand en quantité   la plupart, en très grand nombre.   plus grand en qualité, supérieur, plus excellent",
   "Adjectif",
   "Comparatif de  πολύς"
@@ -24079,14 +24079,14 @@ lemme={
   "Un mot racine"
  ],
  "πλεονάζω": [
-  "surabonder",
-  "surabonder, surabonder.   de choses.   exister en abondance.  augmenter.  être augmenté    faire accroître, multiplier",
+  "être en plus nombreux",
+  "surabonder, exister en abondance, augmenter, être augmenté, faire accroître, multiplier",
   "Verbe",
   "Vient de  πλείων"
  ],
  "πλεονεκτέω": [
-  "avantager",
-  "avantager,avantage, tirer du profit, exiger quelque chose, fraude, avoir plus, une plus grande part.   être supérieur, exceller, surpasser,avoir l'avantage sur.   gagner ou prendre avantage d'un autre, duper, user de fraude",
+  "abuser",
+  "avantager, tirer du profit, exiger quelque chose, fraude, avoir plus, une plus grande part.   être supérieur, exceller, surpasser,avoir l'avantage sur.   gagner ou prendre avantage d'un autre, duper, user de fraude",
   "Verbe",
   "Vient de  πλεονέκτης"
  ],
@@ -24253,13 +24253,13 @@ lemme={
   "Vient de  πλήθω"
  ],
  "πλύνω": [
-  "laver",
-  "laver,ils ont lavé, qui lavent, laver : en référence aux vêtements.    utilisé au figuré de ceux qui par leur foi se sont appropriés les résultats de l'expiation de Christ et sont regardés par Dieu comme purs et sans péché",
+  "rincer",
+  "rincer, laver, en référence aux vêtements utilisé au figuré de ceux qui par leur foi se sont appropriés les résultats de l'expiation de Christ et sont regardés par Dieu comme purs et sans péché",
   "Verbe",
   "Une forme prolongée de pluo (\"couler\")"
  ],
  "πνεῦμα": [
-  "souffle, souffles",
+  "esprit, esprits",
   "souffle, esprit, esprit, choses spirituelles, vérité, inspiration, souffle, vents, âme, un mouvement de l'air (un petit coup de vent).   le mouvement du vent, de là le vent lui-même.  haleine des narines ou de la bouche.   l'esprit, c'est à dire le principe vital par lequel le corps est animé   l'esprit rationnel, le pouvoir par lequel l'être humain ressent, pense, décide.  l'âme.   un esprit, c'est à dire une simple essence, dépourvu de toute matière, possédant un pouvoir de connaissance, de désir, de décision, d'action.   un esprit donnant la vie.  une âme humaine qui a quitté le corps.  un esprit plus élevé que l'homme mais inférieur à Dieu, c'est à dire un ange.     utilisé de démons, ou mauvais esprits, qui étaient censés habiter les corps des hommes.  la nature spirituelle de Christ, plus élevée que le plus haut des anges, et égale à Dieu, la nature divine de Christ.     de Dieu.   la puissance de Dieu que l'on peut distinguer dans la pensée qui provient de son essence.    manifestée dans le cours des choses.  par son influence sur les âmes qui produit dans le corps théocratique (l'église) les dons les plus élevés et les plus grandes bénédictions.  la troisième personne de la trinité, Dieu le Saint-Esprit.    la disposition ou influence qui remplit et gouverne l'âme de chacun.   la source efficace et tout pouvoir, affection, émotion, désir, etc",
   "Nom neutre",
   "Vient de  πνέω"
@@ -24308,7 +24308,7 @@ lemme={
  ],
  "πόθεν": [
   "d'où",
-  "d'où , comment, de lieu : vient d'où, vient de quelle condition.  d'origine ou de source : vient de quel auteur ou donateur.  de cause : comment est-ce ?, comment cela peut-il être ?",
+  "d'où , de quel lieu, comment, de lieu : vient d'où, vient de quelle condition.  d'origine ou de source : vient de quel auteur ou donateur.  de cause : comment est-ce ?, comment cela peut-il être ?",
   "Adverbe",
   "Vient de  πόσις  avec adverbe d'origine"
  ],
@@ -24493,7 +24493,7 @@ lemme={
   "Vient de  πονηρός"
  ],
  "πονηρός": [
-  "mauvais, mauvais, mauvaise, mauvaises",
+  "méchant, méchants, méchante, méchantes",
   "mal, le malin, le méchant, mauvais état, mauvais, envieux, infâme, puissance du malin, douloureux, rempli de contrariétés, privations.   pressé et harassé par le labeur.  apportant des difficultés et périls : d'un temps plein de péril pour la foi chrétienne et la constance ;  causant peine et difficultés.   mauvais, d'une nature ou condition mauvaise.   dans un sens physique : morbide ou aveugle.  dans un sens moral : méchant, mauvais.    Le mot est utilisé au nominatif dans Matthieu 6.13. Ceci dénote en général un titre en grec, et lorsque Christ dit \"délivre nous du malin\", il se réfère probablement à Satan",
   "Adjectif",
   "Vient d'un dérivé de  πόνος"
@@ -24637,7 +24637,7 @@ lemme={
   "Vient d'une variante de  πίνω"
  ],
  "πόσος": [
-  "combien grand, combien grands, combien grande, combien grandes",
+  "combien lequel, combien lesquels, combien laquelle, combien lesquelles",
   "combien, combien seront grandes, à combien plus forte raison, combien de choses, de temps, quel, .., combien est grand.  combien de choses.  combien de temps",
   "Pronom",
   "Vient de l'absolu pos (qui, quoi) et  ὅς"
@@ -24709,7 +24709,7 @@ lemme={
   "Vient de pos (quelque, voir πόσος)"
  ],
  "ποῦ": [
-  "où",
+  "où?",
   "où , place, quelque part.  de près.  quelque part auprès de, autour de",
   "Adverbe",
   "Vient de pos (quel) interrogatif, (peut-être le même que πού)"
@@ -26089,8 +26089,8 @@ lemme={
   "Vient de  -πω  et  ποτέ"
  ],
  "πωρόω": [
-  "pierrer",
-  "pierrer, endurcir, devenu dur, recouvrir d'une peau épaisse, durci par le recouvrement d'une callosité  métaphorique.   rendre le cœur dur, aigri.  devenir dur, engourdi, terne, perdre le pouvoir de compréhension",
+  "rendre calleux",
+  "pétrifier, pierrer, endurcir, devenu dur, recouvrir d'une peau épaisse, durci par le recouvrement d'une callosité  métaphorique.   rendre le cœur dur, aigri.  devenir dur, engourdi, terne, perdre le pouvoir de compréhension",
   "Verbe",
   "Vient apparemment de poros (une sorte de pierre)"
  ],
