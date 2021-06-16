@@ -20047,7 +20047,7 @@ lemme={
   "Probablement renforcement de 'oschos' (rejeton)"
  ],
  "μόχθος": [
-  "peine",
+  "labeur",
   "peine, être dans la peine, un travail dur et difficile, dur labeur, privation, détresse, peine   Pour les Synonymes voir entrée  5860",
   "Nom masculin",
   "Vient de  μόγις"
