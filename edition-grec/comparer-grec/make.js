@@ -914,7 +914,7 @@ maxchapitres	= Math.max(
 
 			if (diff == 1)
 			{
-				lien='../../bible-grec-interligne/'+livre+'-'+chapitre+'.html#v'+verset;
+				lien='../../comparer-grec/'+livre+'-'+chapitre+'.html#v'+verset;
 
 				diff_mot_v++;
 
