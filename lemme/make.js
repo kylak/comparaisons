@@ -113,7 +113,7 @@ require('./perseus.js');
 require('./james.js');
 require('./bailly.js');
 require('../database/bible/grec/seb/sebastien_lemme.js')
-require('../database/bible/francais/sebastien/sebastien.js');
+require('../database/bible/francais/sebastien/sebastien_brut.js');
 require('../database/bible/francais/dumont/dumont.js');
 require('../database/bible/romain/jerome/jerome.js');
 
@@ -175,7 +175,7 @@ for (livre = 1 ; livre != 28 ; livre++)
 
 					
 					seb		= sebastien_lemme[livre][chapitre][verset].match(/\S+/g);
-					sebfr	= sebastien[livre][chapitre][verset].split("#");
+					sebfr	= sebastien_brut[livre][chapitre][verset].split("#");
 					
 					for (s = 0 ; s != seb.length ; s++)
 					{
@@ -360,36 +360,7 @@ for (let [lem, info] of Object.entries(lemme))
 	
 	if (james[lem])
 	{
-		/*
-		//james_detail	= james[lem].match(/[ΑαΒβΓγΔδΕεΖζΗηΘθΙιΚκΛλΜμΝνΞξΟοΠπΡρΣσςΤτΥυΦφΧχΨψΩωάἀἁἂἃἄἅἆἇὰάᾀᾁᾂᾃᾄᾅᾆᾇᾰᾱᾲᾳᾴᾶᾷαΆἈἉἊἋἌἍἎἏᾈᾉᾊᾋᾌᾍᾎᾏᾸᾹᾺΆᾼΑέἐἑἒἓἔἕὲέεΈἘἙἚἛἜἝῈΈΕήἠἡἢἣἤἥἦἧὴήᾐᾑᾒᾓᾔᾕᾖᾗῂῃῄῆῇηΉἨἩἪἫἬἭἮἯᾘᾙᾚᾛᾜᾝᾞᾟῊΉῌΗίΐἰἱἲἳἴἵἶἷὶίῐῑῒΐῖῗιΊΪἸἹἺἻἼἽἾἿῘῙῚΊΙόὀὁὂὃὄὅὸόοΌὈὉὊὋὌὍῸΌΟΰϋύὐὑὒὓὔὕὖὗὺύῠῡῢΰῦῧυΎΫὙὛὝὟῨῩῪΎΥώὠὡὢὣὤὥὦὧὼώᾠᾡᾢᾣᾤᾥᾦᾧῲῳῴῶῷωΏὨὩὪὫὬὭὮὯᾨᾩᾪᾫᾬᾭᾮᾯῺΏῼΩῤῥρῬΡ]+/g);
-		james_detail	= james[lem].match(/\S+/g);
-		//james_modif		= james[lem];
 		
-		for (x=0 ; x!=james_detail.length ; x++)
-		{
-			james_detail1 = james_detail[x].replace(/ά/g,'ά');
-			james_detail2 = james_detail[x].replace(/ά/g,'ά');
-			
-			james_detail1 = james_detail1.replace(/ί/g,'ί');
-			james_detail2 = james_detail2.replace(/ί/g,'ί');
-			
-			james_detail1 = james_detail1.replace(/έ/g,'έ');
-			james_detail2 = james_detail2.replace(/έ/g,'έ');
-			
-			if (lemme[james_detail1])
-			{
-				james_detail[x]	= james_detail[x].replace(james_detail[x],'<a href="'+james_detail1+'.html">'+james_detail1+'</a>');
-			}
-			else if (lemme[james_detail2])
-			{
-				james_detail[x]	= james_detail[x].replace(james_detail[x],'<a href="'+james_detail2+'.html">'+james_detail2+'</a>');
-			}
-		
-		}
-		
-		fichier += '<br><br>'+james_detail.join(' ');
-		
-	*/
 		
 		fichier += '<br><br>'+james[lem];
 	}
@@ -412,71 +383,7 @@ for (let [lem, info] of Object.entries(lemme))
 
 	concordance_lem		= '';
 	concordance_jlem	= {};
-	/*
-	for (livre = 1 ; livre != 28 ; livre++)
-	{
-		for (chapitre = 1 ; chapitre != sebastien_lemme[livre].length ; chapitre++)
-		{
-			
-			for (verset = 1 ; verset != sebastien_lemme[livre][chapitre].length ; verset++)
-			{
-				
-				if (sebastien_lemme[livre][chapitre][verset] && sebastien_lemme[livre][chapitre][verset] != "")
-				{	
-					
-					
-					//if (sebastien_lemme[livre][chapitre][verset].indexOf('='+lem+'=') != -1)
-					if (sebastien_lemme[livre][chapitre][verset].includes('='+lem+'='))
-					{
-					
-					seb	= sebastien_lemme[livre][chapitre][verset].match(/\S+/g);
-					
-					
-					
-					for (s = 0 ; s != seb.length ; s++)
-					{
-						if (seb[s].indexOf('='+lem+'=') != -1)
-						{
-							sebfr	= sebastien[livre][chapitre][verset].split("#");
-							sebs0	= seb[s].split('=')[0].replace(/\·|\.|,|;|;/g,'').toLowerCase();
-							sebs2	= seb[s].split('=')[2].replace(/,/g,', ');
-							sebfrs	= sebfr[s].replace(/\·|\.|,|;|;/g,'').toLowerCase();
-							
-							concordance_lem = 
-							'<td>'+sebs0+'</td><td>&ensp;</td>'+
-							'<td>'+sebs2+'</td><td>&ensp;</td><td>'+sebfrs+'</td>';
-							
-							if (concordance_jlem[concordance_lem])
-								concordance_jlem[concordance_lem]=concordance_jlem[concordance_lem]+1;
-							
-							else
-								concordance_jlem[concordance_lem]=1;
-							
-							
-							sebfr[s] = '<span style="background:#ffee63">'+sebfr[s]+'</span>';
-							
-							concordance_verset += 
-							'<br><br><span style="font-size:18px">'+
-							'<a href="../bible-france-interligne/'+livre+'-'+chapitre+'.html#v'+verset+'">'+book[livre]+'</a> '+ 														
-							'<a href="../bible-grec-interligne/'+livre+'-'+chapitre+'.html#v'+verset+'">'+chapitre+':'+verset+'</a></span> '+
-							'<span style="font-size:14px">&ensp; '+sebs0+' ('+sebs2+')</span><br>'+sebfr.join(' ')+
-							'<br><br>'+dumont[livre][chapitre][verset]+
-							'<br><br>'+jerome[livre][chapitre][verset]+'<br>';
-							
-						}
-						
-					}
-					
-					}
-				
-				}
-				
-			}
-			
-		}
-		
-	}
-*/
+	
 
 	
 	if (concordance_morph[lem])
@@ -531,7 +438,6 @@ intro_book=`<?xml version='1.0' encoding='utf-8'?><html xmlns="http://www.w3.org
 <title>BIBLE</title>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<link href="style.css" rel="stylesheet">
 </head><body><table>`;
 
 
