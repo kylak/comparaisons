@@ -204,8 +204,8 @@ for (livre = 1 ; livre != 28 ; livre++)
 							else
 							concordance_verset[sebs1] =
 							'<br><br><span style="font-size:18px">'+
-							'<a href="../bible-france-interligne/'+livre+'-'+chapitre+'.html#v'+verset+'">'+book[livre]+'</a> '+ 													
-							'<a href="../bible-grec-interligne/'+livre+'-'+chapitre+'.html#v'+verset+'">'+chapitre+':'+verset+'</a></span> '+
+							'<a href="../comparer-francais/'+livre+'-'+chapitre+'.html#v'+verset+'">'+book[livre]+'</a> '+ 													
+							'<a href="../comparer-grec/'+livre+'-'+chapitre+'.html#v'+verset+'">'+chapitre+':'+verset+'</a></span> '+
 							'<span style="font-size:14px">&ensp; '+sebs0+' ('+sebs2+')</span><br>'+sebfr_c.join(' ')+
 							'<br><br>'+dumont[livre][chapitre][verset]+
 							'<br><br>'+jerome[livre][chapitre][verset]+'<br>';
