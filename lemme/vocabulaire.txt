@@ -3,9 +3,6 @@ De Didier Fontaine
 
 
 
-363	méchant	πονηρός
-363b	mauvais	κακός
-
 364	peine	πόνος
 364b	labeur	μόχθος
 
