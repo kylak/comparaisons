@@ -3,12 +3,6 @@ De Didier Fontaine
 
 
 
-364	peine	πόνος
-364b	labeur	μόχθος
-
-365	de pourpre	πορφυροῦς
-365b	pourpre	πορφύρα
-
 366	boisson	πόσις
 366b	boire	πίνω
 

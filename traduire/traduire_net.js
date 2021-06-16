@@ -41,9 +41,7 @@ index_nb_name = {
 
 
 //FILE
-fs		= require('fs');
 file	= require('fs');
-
 
 
 
@@ -64,8 +62,8 @@ chapitre_fr	=[];
 verset_fr	=[];
 
 
-file.writeFileSync('nt-auto-seb-debut.txt', '', 'utf8');
-
+file.writeFileSync('nt-auto-seb-net.txt', '', 'utf8');
+file.writeFileSync('nt-auto-seb-brut.txt', '', 'utf8');
 
 total = 0;
 tnb = 0;
@@ -511,7 +509,14 @@ if (phrase[i+1])
 		prase_fin = prase_fin.replace(/l' +/g,"l'");
 		prase_fin = prase_fin.replace(/;/g," ?");
 
-		file.appendFileSync('nt-auto-seb-debut.txt', index_nb_name[livre]+':'+chapitre+':'+verset+' '+prase_fin+'\n', 'utf8');
+		
+		//gen phrase brut
+		phrase_brut = verset_sebastien.split('#').join(' ').replace(/\s+/g,' ')
+		
+		file.appendFileSync('nt-auto-seb-brut.txt', index_nb_name[livre]+':'+chapitre+':'+verset+' '+phrase_brut+'\n', 'utf8');
+		
+		file.appendFileSync('nt-auto-seb-net.txt', index_nb_name[livre]+':'+chapitre+':'+verset+' '+prase_fin+'\n', 'utf8');
+		
 		
 		verset_fr[verset] = prase_fin;
 		verset_fr[0] = livre+':'+chapitre+':'+verset;
@@ -537,7 +542,7 @@ if (phrase[i+1])
 //livre fr
 nblivrefr = livre_fr.length-1;
 livre_fr[0] = 'BIBLE SEBASTIEN NET - '+nblivrefr+' livres';
-fs.writeFileSync('../database/bible/francais/sebastien/sebastien_net.js','sebastien_net='+JSON.stringify(livre_fr, null, 1), 'utf8');
+file.writeFileSync('../database/bible/francais/sebastien/sebastien_net.js','sebastien_net='+JSON.stringify(livre_fr, null, 1), 'utf8');
 
 
 
