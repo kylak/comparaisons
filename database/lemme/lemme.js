@@ -1050,10 +1050,10 @@ lemme={
   "Vient de ἄλφα (négatif) et  καρπός"
  ],
  "ἀκατάγνωστος": [
-  "incondamnable",
+  "inconnu en condamnation",
   "incondamnable, irréprochable, ce qui ne peut être condamné, ni censuré",
   "Adjectif",
-  "Vient de ἄλφα (négatif) et un dérivé de  καταγινώσκω"
+  "ἄλφα ἄγνωστος καταγινώσκω"
  ],
  "ἀκατακάλυπτος": [
   "non couverte de haut en bas",
@@ -6564,13 +6564,13 @@ lemme={
   "Contracté d'un mot racine"
  ],
  "γῆρας": [
-  "vieillesse",
+  "vétusté",
   "vieillesse, le grand âge, les vieux, la vieillesse",
   "Nom neutre",
   "Parent de  γέρων"
  ],
  "γηράσκω": [
-  "vieillir",
+  "être vétuste",
   "vieillir, avoir vieilli, devenir vieux.  des choses et des institutions : prendre de l'âge, vieilli",
   "Verbe",
   "Vient de  γῆρας"
@@ -9552,8 +9552,8 @@ lemme={
   "Vient de  ἐκ  et  πάλαι"
  ],
  "ἐκπειράζω": [
-  "tenter à l'excès",
-  "tenter dehors, éprouver hors, éprouver, mettre à l'épreuve.  éprouver le caractère de Dieu et son pouvoir",
+  "mettre en tentation à l'excès",
+  "tenter dehors, éprouver hors, éprouver excessivement, mettre à l'épreuve à partir de, éprouver le caractère de Dieu et son pouvoir",
   "Verbe",
   "Vient de  ἐκ  et  πειράζω"
  ],
@@ -10314,26 +10314,26 @@ lemme={
   "Vient de  ἐν  et  ἅλς"
  ],
  "ἔναντι": [
-  "en-devant",
+  "en-face",
   "devant, devant",
   "Adverbe",
   "Vient de  ἐν  et  ἀντί"
  ],
  "ἐναντίον": [
-  "devant",
-  "devant , en présence, sur, contre, opposé   endroits : opposés, contraires (comme le vent).   métaphorique.   opposé comme un adversaire, hostile, en opposition en pensée ou en action.  un opposant",
+  "en-présence",
+  "en présence, sur, contre, opposé   endroits : opposés, contraires (comme le vent).   métaphorique.   opposé comme un adversaire, hostile, en opposition en pensée ou en action.  un opposant",
   "Préposition",
   "Vient de  ἐναντίος"
  ],
  "ἐναντίος": [
-  "opposé, opposés, opposée, opposées",
-  "en face, contre, ennemis, adversaire, opposé   de face (le vent).   métaphorique.   opposé : adversaire, en opposition.  un opposant",
+  "à l'encontre, aux encontres, à l'encontre, aux encontres",
+  "en-opposition, en face, contre, ennemis, adversaire, opposé   de face (le vent).   métaphorique.   opposé : adversaire, en opposition.  un opposant",
   "Adjectif",
   "Vient de  ἔναντι"
  ],
  "ἐνάρχομαι": [
-  "commencer",
-  "commencer, commencer, faire un commencement",
+  "commencer dedans",
+  "commencer en, commencer dans, faire un commencement",
   "Verbe",
   "Vient de  ἐν  et  ἄρχομαι"
  ],
@@ -10992,7 +10992,7 @@ lemme={
   "Vient de  ἐκ  et  ἠχέω"
  ],
  "ἕξις": [
-  "pratique",
+  "habitude",
   "pratique, une habitude soit du corps, soit de l'esprit.  un pouvoir acquis par la coutume, la pratique, l'usage",
   "Nom féminin",
   "Vient de  ἔχω"
@@ -12198,7 +12198,7 @@ lemme={
   "Vient de  ἔργον"
  ],
  "ἐργασία": [
-  "travail",
+  "travaillance",
   "tâcher, gain, profit, commettre, industrie, un travail, une réalisation.  affaire.  gain obtenu par le travail, profit.  s'efforcer, tâcher de",
   "Nom féminin",
   "Vient de  ἐργάτης"
@@ -12210,7 +12210,7 @@ lemme={
   "Vient de  ἔργον"
  ],
  "ἔργον": [
-  "action, actions",
+  "travail, travaux",
   "action, oeuvre, tâche, faire, acte, ouvrage, travail, affaire, emploi, ce à quoi chacun est employé   ce que chacun entreprend de faire, entreprise.   tout produit réalisé, ce qui est fait à la main, art, œuvre de l'esprit.  acte, ce qui est fait, action",
   "Nom neutre",
   "Vient du mot primaire mais désuet 'ergo' (travailler)"
@@ -22267,25 +22267,25 @@ lemme={
   "Féminin d'un adjectif de dérivation incertaine"
  ],
  "πάλαι": [
-  "anciennement",
-  "anciennement, anciennement, vieillement, depuis longtemps, autrefois",
+  "vieillement",
+  "vieillement , anciennement, depuis longtemps, autrefois",
   "Adverbe",
   "Probablement une autre forme pour  πάλιν  (à travers l'idée de rétrocession)"
  ],
  "παλαιός": [
-  "ancien, anciens, ancienne, anciennes",
+  "vieil, vieux, vieille, vieilles",
   "ancien, vieux, vieux, ancien.  qui n'est plus neuf, usé par l'utilisation, vieux   Pour les Synonymes voir entrée  5816",
   "Adjectif",
   "Vient de  πάλαι"
  ],
  "παλαιότης": [
-  "ancienneté",
+  "vieillesse",
   "ancienneté, vieillesse : l'ancien état de vie contrôlé par \"la lettre\"",
   "Nom féminin",
   "Vient de  παλαιός"
  ],
  "παλαιόω": [
-  "rendre ancien",
+  "rendre vieux",
   "vieillir, devenir ancien ou vieux.   être usé  de choses usées par le temps et l'usage.   déclarer une chose comme étant ancienne, et devant être abrogée",
   "Verbe",
   "Vient de  παλαιός"
@@ -24757,7 +24757,7 @@ lemme={
   "Vient d'un dérivé de  πράσσω"
  ],
  "πρᾶξις": [
-  "action, actions, action, actions",
+  "pratique, pratiques, pratique, pratiques",
   "action, oeuvre, actes, avoir fait, actions, fonction, une œuvre, un mode d'action, une affaire, une transaction.   les actes des apôtres.  dans un mauvais sens, mauvaise action, crime, une \"pratique\" c'est à dire une tromperie).   une chose qui doit être faite, une affaire",
   "Nom féminin",
   "Vient de  πράσσω"
@@ -24829,13 +24829,13 @@ lemme={
   "Comparatif de presbus (plus âgé)"
  ],
  "πρεσβύτης": [
-  "vieillard, vieillards",
+  "homme ancien, hommes anciens",
   "vieillard , vieux, un vieil homme, un vieillard, un homme âgé  un ambassadeur",
   "Nom masculin",
   "Vient du même mot que  πρεσβύτερος"
  ],
  "πρεσβῦτις": [
-  "femmes âgées",
+  "femmes anciennes",
   "femmes âgées, une femme âgée",
   "Nom féminin",
   "Vient de  πρεσβύτης"
@@ -24871,8 +24871,8 @@ lemme={
   "Diminutif de  Πρίσκα"
  ],
  "πρό": [
-  "avant",
-  "avant, devant, précéder, il n'y a pas longtemps, à l'entrée, dernièrement, qui fut, dès, à (la porte), devant, avant",
+  "d'avant",
+  "devant, précéder, il n'y a pas longtemps, à l'entrée, dernièrement, qui fut, dès, à (la porte), devant, avant",
   "Préposition",
   "Une préposition primaire"
  ],
@@ -25357,7 +25357,7 @@ lemme={
   "Vient de  πρός  et  ἐργάζομαι"
  ],
  "προσέρχομαι": [
-  "approcher",
+  "venir vers",
   "approcher, venir auprès, venir à, s'approcher de.  aller près de.  consentir à",
   "Verbe",
   "Vient de  πρός  et  ἔρχομαι  (incluant ses variantes)"
@@ -25543,7 +25543,7 @@ lemme={
   "Vient de  πρός  et  ποιέω"
  ],
  "προσπορεύομαι": [
-  "approcher",
+  "aller vers",
   "approcher, venir près de, s'approcher de",
   "Verbe",
   "Vient de  πρός  et  πορεύομαι"
@@ -25909,8 +25909,8 @@ lemme={
   "Vient de  πτύω"
  ],
  "πτύρω": [
-  "effrayer",
-  "effrayer, effrayer, effroi",
+  "épouvanter",
+  "effrayer, être effrayé, faire peur",
   "Verbe",
   "Vient d'un dérivé présumé de  πτύω  (et donc parent de  πτοέω )"
  ],
@@ -26011,8 +26011,8 @@ lemme={
   "Un mot racine"
  ],
  "πυρά": [
-  "feu",
-  "feu, un feu, un tas de bois qui flambe",
+  "grand feu",
+  "grand feu, super feu, feu de bûcher",
   "Nom féminin",
   "Vient de  πῦρ"
  ],
@@ -26059,8 +26059,8 @@ lemme={
   "Vient de  πῦρ"
  ],
  "πύρωσις": [
-  "brûlure",
-  "brûlure, embrasement, une combustion.   le feu par lequel les métaux sont fondus.  par une figure provenant d'un feu d'affineur : calamités ou épreuves qui éprouvent le caractère",
+  "enflammement",
+  "brûlure, embrasement, combustion, inflammation   le feu par lequel les métaux sont fondus.  par une figure provenant d'un feu d'affineur : calamités ou épreuves qui éprouvent le caractère",
   "Nom féminin",
   "Vient de  πυρόω"
  ],

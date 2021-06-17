@@ -3,63 +3,7 @@ De Didier Fontaine
 
 
 
-366	boisson	πόσις
-366b	boire	πίνω
 
-367	combien	πόσος
-367b	combien grand	πηλίκος
-
-368	quand	πότε
-368b	lorsque	ὅτε
-
-369	où	ποῦ
-369b	là où	οὗ
-
-370	action	πρᾶξις
-370b	oeuvre	ἔργον
-
-371	doux	πραΰς
-371b	bienveillant	ἤπιος
-
-372	convenir	πρέπω
-372b	arriver	καθήκω
-
-373	ambassade	πρεσβεία
-373b	ancienneté	παλαιότης
-
-374	plus ancien	πρεσβύτερος
-374b	ancien	παλαιός
-
-375	ancien	πρεσβύτης
-375b	vieillard	γέρων
-
-376	devant	πρό
-376b	avant	πρίν
-
-377	mendier	προσαιτέω
-377b	mendier	ἐπαιτέω
-
-378	patienter	προσδοκάω
-378b	attendre	ἐκδέχομαι
-
-379	attente	προσδοκία
-379b	attente	ἐκδοχή
-
-380	s'approcher	προσέρχομαι
-380b	approcher	ἐγγίζω
-
-
-382	approcher	προσπορεύομαι
-382b	s'approcher	προσέρχομαι
-
-383	effrayer	πτύρω
-383b	être craintif	δειλιάω
-
-384	pauvre	πτωχός
-384b	indigent	πενιχρός
-
-385	bûcher	πυρά
-385b	feu	πῦρ
 
 386	combustion	πύρωσις
 386b	brûlure	καῦμα
@@ -387,8 +331,6 @@ De Didier Fontaine
 498	foin	χόρτος
 498b	herbe	βοτάνη
 
-499	prêter	χράω
-499b	prêter	δανείζω
 
 500	besoin	χρεία
 500b	nécessité	ἀνάγκη
@@ -449,8 +391,7 @@ De Didier Fontaine
 519	s'enorgueillir	αὐχέω
 519b	vanter	περπερεύομαι
 
-520	incorruptibilité	ἀφθορία
-520b	incorruptibilité	ἀφθαρσία
+
 
 521	trou d'une aiguille	βελόνη
 521b	aiguille	ῥαφίς
