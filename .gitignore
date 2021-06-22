@@ -12,7 +12,6 @@ database/bible/francais/parolevivante/
 database/bible/francais/peuples/
 database/bible/francais/semeur/
 database/bible/francais/tresmontant/
-database/bible/francais/dumont/
 database/bible/francais/jacqueline/
 database/bible/francais/kingjames/
 database/bible/francais/lienart/
@@ -22,9 +21,9 @@ database/bible/francais/pirotclamer/
 database/bible/francais/lefevre/
 database/bible/francais/darby/darby_rev.js
 
-database/bible/grec/ga03/ga03a.js
-database/bible/grec/ga03/ga03b.js
-database/bible/grec/ga03/ga03c.js
-database/bible/grec/ga03/ga03d.js
+#database/bible/grec/ga03/ga03a.js
+#database/bible/grec/ga03/ga03b.js
+#database/bible/grec/ga03/ga03c.js
+#database/bible/grec/ga03/ga03d.js
 
-database/bible/grec/na28/na28.js
+#database/bible/grec/na28/na28.js

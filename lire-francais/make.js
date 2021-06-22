@@ -13,7 +13,7 @@ fs = require('fs');
 
 require('../database/bible/francais/sebastien/sebastien_net.js');
 require('../database/bible/francais/dumont/dumont.js');
-require('../database/bible/francais/osty/osty.js');
+require('../database/bible/francais/darby/darby.js');
 
 
 
@@ -127,7 +127,7 @@ body_html 	+= '\n<tr>\
 		maxversets = Math.max(
 		sebastien_net[livre][chapitre].length,
 		dumont[livre][chapitre].length,
-		osty[livre][chapitre].length)
+		darby[livre][chapitre].length)
 		
 		
 		//verset
@@ -136,12 +136,12 @@ body_html 	+= '\n<tr>\
 		
 			body_html_seb		= '\n<span class="v"><b>'+chapitre+':'+verset+'</b></span> ';
 			body_html_dumont	= '\n<span class="v"><b>'+chapitre+':'+verset+'</b></span> ';
-			body_html_osty		= '\n<span class="v"><b>'+chapitre+':'+verset+'</b></span> ';
+			body_html_darby		= '\n<span class="v"><b>'+chapitre+':'+verset+'</b></span> ';
 
 			
 			body_html_seb		+= sebastien_net[livre][chapitre][verset].replace(/#/g,' ');
 			body_html_dumont	+= dumont[livre][chapitre][verset];
-			body_html_osty		+= osty[livre][chapitre][verset].replace(/#/g,' ');
+			body_html_darby		+= darby[livre][chapitre][verset];
 
 
 body_html	+= '\n<tr>'+
@@ -149,7 +149,7 @@ body_html	+= '\n<tr>'+
 '<td width="1%"> </td>'+
 '<td style="border: none; padding: 0cm" width="23%" class="r" valign="top">'+body_html_dumont+'</td>'+
 '<td width="1%"> </td>'+
-'<td style="border: none; padding: 0cm" width="23%" class="r" valign="top">'+body_html_osty+'</td>'+
+'<td style="border: none; padding: 0cm" width="23%" class="r" valign="top">'+body_html_darby+'</td>'+
 '<td width="1%"> </td>';
 
 
