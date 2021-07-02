@@ -34,11 +34,11 @@ node make.js<br>
 cd ..<br>
 
 
-echo COMPARER GREC
-echo =============
-cd comparer-grec
-node make.js
-cd ..
+echo COMPARER GREC<br>
+echo =============<br>
+cd comparer-grec<br>
+node make.js<br>
+cd ..<br>
 <br>
 <br>
 echo LIRE FRANCAIS<br>
