@@ -48,11 +48,11 @@ require('../database/bible/grec/seb/sebastien_lemme.js');
 
 require('../database/bible/francais/sebastien/sebastien_brut.js');
 require('../database/bible/francais/dumont/dumont.js');
-require('../database/bible/francais/jacqueline/jacqueline.js');
-require('../database/bible/francais/osty/osty.js');
-require('../database/bible/francais/nbs/nbs.js');
-require('../database/bible/francais/grosjean/grosjean.js');
-require('../database/bible/francais/bayard/bayard.js');
+//require('../database/bible/francais/jacqueline/jacqueline.js');
+//require('../database/bible/francais/osty/osty.js');
+//require('../database/bible/francais/nbs/nbs.js');
+//require('../database/bible/francais/grosjean/grosjean.js');
+//require('../database/bible/francais/bayard/bayard.js');
 /*
 require('../database/bible/francais/oecumenique/oecumenique.js');
 require('../database/bible/francais/liturgie/liturgie.js');
@@ -98,14 +98,11 @@ for (livre = 1 ; livre != 28 ; livre++)
 	book_name=book[livre];
 
 	maxchapitres = Math.max(
-	sebastien_brut[livre].length,
-	grosjean[livre].length,
-	osty[livre].length,
-	nbs[livre].length)
+	sebastien_brut[livre].length)
 
 
-	if (jacqueline[livre] == "" || !jacqueline[livre])
-		jacqueline[livre] = [];
+	/* if (jacqueline[livre] == "" || !jacqueline[livre])
+		jacqueline[livre] = []; */
 
 
 	//chapitre
@@ -115,14 +112,10 @@ for (livre = 1 ; livre != 28 ; livre++)
 		body='';
 
 		maxversets = Math.max(
-		sebastien_brut[livre][chapitre].length,
-		grosjean[livre][chapitre].length,
-		osty[livre][chapitre].length,
-		nbs[livre][chapitre].length,
-		bayard[livre][chapitre].length)
+		sebastien_brut[livre][chapitre].length)
 
-		if (jacqueline[livre][chapitre] == "" || !jacqueline[livre][chapitre])
-			jacqueline[livre][chapitre] = [];
+		/* if (jacqueline[livre][chapitre] == "" || !jacqueline[livre][chapitre])
+			jacqueline[livre][chapitre] = []; */
 
 
 		//verset
@@ -211,18 +204,6 @@ body+=`\
 <td class="td2">2021</td><td class="td3">`+seb+`</td></tr>
 <tr><td class="td1">Alain Dumont</td>
 <td class="td2">2020</td><td class="td3">`+dumont[livre][chapitre][verset]+`</td></tr>
-<tr><td class="td1">Jacqueline</td>
-<td class="td2">1992</td><td class="td3">`+jacqueline[livre][chapitre][verset]+`</td></tr>
-<tr><td class="td1">Osty et Trinquet</td>
-<td class="td2">1973</td><td class="td3">`+osty[livre][chapitre][verset]+`</td></tr>
-<tr><td class="td1">Segond NBS</a></td>
-<td class="td2">2002</td><td class="td3">`+nbs[livre][chapitre][verset]+`</td></tr>
-<tr><td class="td1">Jean Grosjean</td>
-<td class="td2">1971</td><td class="td3">`+grosjean[livre][chapitre][verset]+`</td></tr>
-<tr><td class="td1">Bayard</td>
-<td class="td2">2018</td><td class="td3">`+bayard[livre][chapitre][verset]+`</td></tr>
-
-
 </tbody></table><br>`;
 
 

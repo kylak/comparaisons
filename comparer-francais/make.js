@@ -47,44 +47,44 @@ book = {
 
 require('../database/bible/francais/sebastien/sebastien_net.js');
 require('../database/bible/francais/dumont/dumont.js');
-require('../database/bible/francais/jacqueline/jacqueline.js');
-require('../database/bible/francais/osty/osty.js');
-require('../database/bible/francais/nbs/nbs.js');
-require('../database/bible/francais/grosjean/grosjean.js');
-require('../database/bible/francais/bayard/bayard.js');
-require('../database/bible/francais/oecumenique/oecumenique.js');
-require('../database/bible/francais/liturgie/liturgie.js');
-require('../database/bible/francais/jerusalem/jerusalem.js');
-require('../database/bible/francais/lienart/lienart.js');
+//require('../database/bible/francais/jacqueline/jacqueline.js');
+//require('../database/bible/francais/osty/osty.js');
+//require('../database/bible/francais/nbs/nbs.js');
+//require('../database/bible/francais/grosjean/grosjean.js');
+//require('../database/bible/francais/bayard/bayard.js');
+//require('../database/bible/francais/oecumenique/oecumenique.js');
+//require('../database/bible/francais/liturgie/liturgie.js');
+//require('../database/bible/francais/jerusalem/jerusalem.js');
+//require('../database/bible/francais/lienart/lienart.js');
 require('../database/bible/francais/rilliet/rilliet.js');
 require('../database/bible/francais/darby/darby.js');
-require('../database/bible/francais/darby/darby_rev.js');
+//require('../database/bible/francais/darby/darby_rev.js');
 require('../database/bible/francais/amiot/amiot.js');
-require('../database/bible/francais/tresmontant/tresmontant.js');
-require('../database/bible/francais/chouraqui/chouraqui.js');
-require('../database/bible/francais/pirotclamer/pirotclamer.js');
+//require('../database/bible/francais/tresmontant/tresmontant.js');
+//require('../database/bible/francais/chouraqui/chouraqui.js');
+//require('../database/bible/francais/pirotclamer/pirotclamer.js');
 require('../database/bible/francais/lausanne/lausanne.js');
 require('../database/bible/francais/geneve/geneve1669.js');
 require('../database/bible/francais/crampon/crampon.js');
 require('../database/bible/francais/kuetu/kuetu.js');
 require('../database/bible/francais/martin/martin.js');
-require('../database/bible/francais/kingjames/kingjames.js');
-require('../database/bible/francais/peuples/peuples.js');
+//require('../database/bible/francais/kingjames/kingjames.js');
+//require('../database/bible/francais/peuples/peuples.js');
 require('../database/bible/francais/ostervald/ostervald.js');
-require('../database/bible/francais/segond/segond21.js');
+//require('../database/bible/francais/segond/segond21.js'); ICI
 require('../database/bible/francais/segond/segond1910.js');
-require('../database/bible/francais/mondenouveau/mondenouveau2018.js');
-require('../database/bible/francais/mondenouveau/mondenouveau1995.js');
+//require('../database/bible/francais/mondenouveau/mondenouveau2018.js');
+//require('../database/bible/francais/mondenouveau/mondenouveau1995.js');
 require('../database/bible/francais/edmondstapfer/edmondstapfer.js');
 require('../database/bible/francais/huguesoltramare/huguesoltramare.js');
 require('../database/bible/francais/fillion/fillion.js');
-require('../database/bible/francais/neufchatel/neufchatel.js');
-require('../database/bible/francais/paroledevie/paroledevie.js');
+//require('../database/bible/francais/neufchatel/neufchatel.js');
+//require('../database/bible/francais/paroledevie/paroledevie.js');
 require('../database/bible/francais/sacy/sacy.js');
-require('../database/bible/francais/nfc/nfc.js');
-require('../database/bible/francais/francaiscourant/francaiscourant.js');
-require('../database/bible/francais/semeur/semeur.js');
-require('../database/bible/francais/parolevivante/parolevivante.js');
+//require('../database/bible/francais/nfc/nfc.js');
+//require('../database/bible/francais/francaiscourant/francaiscourant.js');
+//require('../database/bible/francais/semeur/semeur.js');
+//require('../database/bible/francais/parolevivante/parolevivante.js');
 
 
 
@@ -100,97 +100,99 @@ for (livre = 1 ; livre != 28 ; livre++)
 
 	maxchapitres = Math.max(
 	sebastien_net[livre].length,
-	grosjean[livre].length,
+	//grosjean[livre].length,
 	huguesoltramare[livre].length,
-	oecumenique[livre].length,
+	//oecumenique[livre].length,
 	fillion[livre].length,
-	osty[livre].length,
-	segond21[livre].length,
+	//osty[livre].length,
+	//segond21[livre].length,
 	segond1910[livre].length,
-	paroledevie[livre].length,
-	liturgie[livre].length,
+	//paroledevie[livre].length,
+	//liturgie[livre].length,
 	amiot[livre].length,
 	kuetu[livre].length,
 	sacy[livre].length,
-	neufchatel[livre].length,
-	kingjames[livre].length,
-	nbs[livre].length,
-	peuples[livre].length,
-	darby_rev[livre].length,
+	//neufchatel[livre].length,
+	//kingjames[livre].length,
+	//nbs[livre].length,
+	//peuples[livre].length,
+	//darby_rev[livre].length,
 	darby[livre].length,
-	nfc[livre].length,
-	francaiscourant[livre].length,
-	parolevivante[livre].length,
-	semeur[livre].length,
-	mondenouveau2018[livre].length,
-	mondenouveau1995[livre].length,
+	//nfc[livre].length,
+	//francaiscourant[livre].length,
+	//parolevivante[livre].length,
+	//semeur[livre].length,
+	//mondenouveau2018[livre].length,
+	//mondenouveau1995[livre].length,
 	martin[livre].length,
 	edmondstapfer[livre].length,
 	ostervald[livre].length,
-	jerusalem[livre].length,
+	//jerusalem[livre].length,
 	lausanne[livre].length,
-	pirotclamer[livre].length,
-	chouraqui[livre].length,
+	//pirotclamer[livre].length,
+	//chouraqui[livre].length,
 	crampon[livre].length,
 	rilliet[livre].length,
 	dumont[livre].length,
 	geneve1669[livre].length)
 
-
+/*
 	if (jacqueline[livre] == "" || !jacqueline[livre])
 		jacqueline[livre] = [];
 	
 	if (tresmontant[livre] == "" || !tresmontant[livre])
-		tresmontant[livre] = [];
+		tresmontant[livre] = []; 
+*/
 
 
 	//chapitre
 	for (chapitre = 1 ; chapitre != maxchapitres; chapitre++)
 	{
 
-		
+		/*
 		if (tresmontant[livre][chapitre] == "" || !tresmontant[livre][chapitre])	tresmontant[livre][chapitre] = [];
 		if (jacqueline[livre][chapitre] == "" || !jacqueline[livre][chapitre])		jacqueline[livre][chapitre] = [];
+		*/
 
 		body='';
 
 		maxversets = Math.max(
 		sebastien_net[livre][chapitre].length,
-		grosjean[livre][chapitre].length,
-		bayard[livre][chapitre].length,
-		jacqueline[livre][chapitre].length,
+		//grosjean[livre][chapitre].length,
+		//bayard[livre][chapitre].length,
+		//jacqueline[livre][chapitre].length,
 		huguesoltramare[livre][chapitre].length,
-		oecumenique[livre][chapitre].length,
+		//oecumenique[livre][chapitre].length,
 		fillion[livre][chapitre].length,
-		osty[livre][chapitre].length,
-		segond21[livre][chapitre].length,
+		//osty[livre][chapitre].length,
+		//segond21[livre][chapitre].length,
 		segond1910[livre][chapitre].length,
-		paroledevie[livre][chapitre].length,
-		liturgie[livre][chapitre].length,
-		jerusalem[livre][chapitre].length,
-		lienart[livre][chapitre].length,
+		//paroledevie[livre][chapitre].length,
+		//liturgie[livre][chapitre].length,
+		//jerusalem[livre][chapitre].length,
+		//lienart[livre][chapitre].length,
 		kuetu[livre][chapitre].length,
 		sacy[livre][chapitre].length,
-		neufchatel[livre][chapitre].length,
-		kingjames[livre][chapitre].length,
-		nbs[livre][chapitre].length,
-		peuples[livre][chapitre].length,
-		darby_rev[livre][chapitre].length,
+		//neufchatel[livre][chapitre].length,
+		//kingjames[livre][chapitre].length,
+		//nbs[livre][chapitre].length,
+		//peuples[livre][chapitre].length,
+		//darby_rev[livre][chapitre].length,
 		darby[livre][chapitre].length,
 		amiot[livre][chapitre].length,
-		nfc[livre][chapitre].length,
-		francaiscourant[livre][chapitre].length,
-		parolevivante[livre][chapitre].length,
-		semeur[livre][chapitre].length,
-		mondenouveau2018[livre][chapitre].length,
-		mondenouveau1995[livre][chapitre].length,
+		//nfc[livre][chapitre].length,
+		//francaiscourant[livre][chapitre].length,
+		//parolevivante[livre][chapitre].length,
+		//semeur[livre][chapitre].length,
+		//mondenouveau2018[livre][chapitre].length,
+		//mondenouveau1995[livre][chapitre].length,
 		martin[livre][chapitre].length,
 		edmondstapfer[livre][chapitre].length,
 		ostervald[livre][chapitre].length,
 		lausanne[livre][chapitre].length,
-		pirotclamer[livre][chapitre].length,
-		tresmontant[livre][chapitre].length,
-		chouraqui[livre][chapitre].length,
+		//pirotclamer[livre][chapitre].length,
+		//tresmontant[livre][chapitre].length,
+		//chouraqui[livre][chapitre].length,
 		crampon[livre][chapitre].length,
 		rilliet[livre][chapitre].length,
 		dumont[livre][chapitre].length,
@@ -244,105 +246,44 @@ body+=`\
 <td class="td2">2021</td><td class="td3">`+sebastien_net[livre][chapitre][verset]+`</td></tr>
 <tr><td class="tdg">Alain Dumont</td>
 <td class="td2">2020</td><td class="td3">`+dumont[livre][chapitre][verset]+`</td></tr>
-<tr><td class="tdg">Jacqueline</td>
-<td class="td2">1992</td><td class="td3">`+jacqueline[livre][chapitre][verset]+`</td></tr>
-<tr><td class="tdg">Osty et Trinquet</td>
-<td class="td2">1973</td><td class="td3">`+osty[livre][chapitre][verset]+`</td></tr>
-<tr><td class="tdg">Segond NBS</a></td>
-<td class="td2">2002</td><td class="td3">`+nbs[livre][chapitre][verset]+`</td></tr>
-
-<tr><td class="tdg">Jean Grosjean</td>
-<td class="td2">1971</td><td class="td3">`+grosjean[livre][chapitre][verset]+`</td></tr>
-
-<tr><td class="tdg">Bayard</td>
-<td class="td2">2018</td><td class="td3">`+bayard[livre][chapitre][verset]+`</td></tr>
-
-<tr><td class="tdg">Œcuménique</td>
-<td class="td2">1976</td><td class="td3">`+oecumenique[livre][chapitre][verset]+`</td></tr>
-<tr><td class="tdg">Liturgie</td>
-<td class="td2">2013</td><td class="td3">`+liturgie[livre][chapitre][verset]+`</td></tr>
-<tr><td class="tdg">Jérusalem</td>
-<td class="td2">1973</td><td class="td3">`+jerusalem[livre][chapitre][verset]+`</td></tr>
-
-<tr><td class="tdg">Albert Rilliet</td>
-<td class="td2">1858</td><td class="td3">`+rilliet[livre][chapitre][verset]+`</td></tr>
-
-<tr><td class="tdg">AMIOT</td>
-<td class="td2">1950</td><td class="td3">`+amiot[livre][chapitre][verset]+`</td></tr>
 
 <tr><td class="tdg">Darby</td>
 <td class="td2">1885</td><td class="td3">`+darby[livre][chapitre][verset]+`</td></tr>
-<tr><td class="tdg">Darby Rev.</td>
-<td class="td2">2006</td><td class="td3">`+darby_rev[livre][chapitre][verset]+`</td></tr>
-
-<tr><td class="tdg">LIENART</td>
-<td class="td2">1951</td><td class="td3">`+lienart[livre][chapitre][verset]+`</td></tr>
 
 <tr><td class="tdy">Shora Kuetu</td>
 <td class="td2">2021</td><td class="td3">`+kuetu[livre][chapitre][verset]+`</td></tr>
-
-<tr><td class="tdy">Peuples</td>
-<td class="td2">2005</td><td class="td3">`+peuples[livre][chapitre][verset]+`</td></tr>
-
-<tr><td class="tdy">Chouraqui</td>
-<td class="td2">1977</td><td class="td3">`+chouraqui[livre][chapitre][verset]+`</td></tr>
-<tr><td class="tdy">Tresmontant</td>
-<td class="td2">2007</td><td class="td3">`+tresmontant[livre][chapitre][verset]+`</td></tr>
-
-<tr><td class="tdy">Pirot et Clamer</td>
-<td class="td2">1950</td><td class="td3">`+pirotclamer[livre][chapitre][verset]+`</td></tr>
-<tr><td class="tdy">Abbé Crampon</td>
-<td class="td2">1923</td><td class="td3">`+crampon[livre][chapitre][verset]+`</td></tr>
-
 <tr><td class="tdy">David Martin</td>
 <td class="td2">1744</td><td class="td3">`+martin[livre][chapitre][verset]+`</td></tr>
-<tr><td class="tdy">King James</td>
-<td class="td2">1611</td><td class="td3">`+kingjames[livre][chapitre][verset]+`</td></tr>
 <tr><td class="tdy">Ostervald</td>
 <td class="td2">1881</td><td class="td3">`+ostervald[livre][chapitre][verset]+`</td></tr>
-<tr><td class="tdy">Abbé Fillion</td>
-<td class="td2">1895</td><td class="td3">`+fillion[livre][chapitre][verset]+`</td></tr>
-
 <tr><td class="tdy">Genève</td>
 <td class="td2">1669</td><td class="td3">`+geneve1669[livre][chapitre][verset]+`</td></tr>
 <tr><td class="tdy">Lausanne</td>
 <td class="td2">1872</td><td class="td3">`+lausanne[livre][chapitre][verset]+`</td></tr>
 
+<tr><td class="tdy">Abbé Fillion</td>
+<td class="td2">1895</td><td class="td3">`+fillion[livre][chapitre][verset]+`</td></tr>
+
+<tr><td class="tdg">Albert Rilliet</td>
+<td class="td2">1858</td><td class="td3">`+rilliet[livre][chapitre][verset]+`</td></tr>
+
+<tr><td class="tdg">Amiot</td>
+<td class="td2">1950</td><td class="td3">`+amiot[livre][chapitre][verset]+`</td></tr>
+
+<tr><td class="tdy">Abbé Crampon</td>
+<td class="td2">1923</td><td class="td3">`+crampon[livre][chapitre][verset]+`</td></tr>
+
 <tr><td class="tdy">Sacy</td>
 <td class="td2">1759</td><td class="td3">`+sacy[livre][chapitre][verset]+`</td></tr>
 
-<tr><td class="tdy">Segond 21</td>
-<td class="td2">2007</td><td class="td3">`+segond21[livre][chapitre][verset]+`</td></tr>
 <tr><td class="tdr">Louis Segond</td>
 <td class="td2">1910</td><td class="td3">`+segond1910[livre][chapitre][verset]+`</td></tr>
-
-<tr><td class="tdr">Monde Nouveau</td>
-<td class="td2">2018</td><td class="td3">`+mondenouveau2018[livre][chapitre][verset]+`</td></tr>
-<tr><td class="tdr">Monde Nouveau</td>
-<td class="td2">1995</td><td class="td3">`+mondenouveau1995[livre][chapitre][verset]+`</td></tr>
 
 <tr><td class="tdr">Edmond Stapfer</td>
 <td class="td2">1889</td><td class="td3">`+edmondstapfer[livre][chapitre][verset]+`</td></tr>
 
 <tr><td class="tdr">Oltramare</td>
 <td class="td2">1874</td><td class="td3">`+huguesoltramare[livre][chapitre][verset]+`</td></tr>
-
-<tr><td class="tdr">Neufchâtel</td>
-<td class="td2">1899</td><td class="td3">`+neufchatel[livre][chapitre][verset]+`</td></tr>
-
-<tr><td class="tdr">Parole de vie</td>
-<td class="td2">2000</td><td class="td3">`+paroledevie[livre][chapitre][verset]+`</td></tr>
-
-<tr><td class="tdr">Français C. N.</td>
-<td class="td2">2019</td><td class="td3">`+nfc[livre][chapitre][verset]+`</td></tr>
-<tr><td class="tdr">Français C.</td>
-<td class="td2">1982</td><td class="td3">`+francaiscourant[livre][chapitre][verset]+`</td></tr>
-
-<tr><td class="tdr">Semeur</td>
-<td class="td2">2000</td><td class="td3">`+semeur[livre][chapitre][verset]+`</td></tr>
-
-<tr><td class="tdr">Parole vivante</td>
-<td class="td2">2013</td><td class="td3">`+parolevivante[livre][chapitre][verset]+`</td></tr>
 
 </tbody></table><br>`;
 

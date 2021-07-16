@@ -155,7 +155,6 @@ require('../database/bible/grec/ga32/ga32a.js');
 require('../database/bible/grec/ga32/ga32b.js');
 
 require('../database/bible/grec/seb/sebastien_lemme.js');
-require('../database/bible/grec/na28/na28.js');
 require('../database/bible/grec/sbl/sbl.js');
 require('../database/bible/grec/tisch/tisch.js');
 require('../database/bible/grec/wh/wha.js');
@@ -298,8 +297,7 @@ for (livre = 1 ; livre != 28 ; livre++)
 								ga02a[livre].length,
 								ga05a[livre].length,
 								ga32a[livre].length,
-								sebastien_lemme[livre].length,
-								na28[livre].length
+								sebastien_lemme[livre].length
 								);
 
 
@@ -437,7 +435,6 @@ for (livre = 1 ; livre != 28 ; livre++)
 									ga05a[livre][chapitre].length,
 									ga32a[livre][chapitre].length,
 									sebastien_lemme[livre][chapitre].length,
-									na28[livre][chapitre].length,
 									sbl[livre][chapitre].length,
 									tisch[livre][chapitre].length,
 									wha[livre][chapitre].length
@@ -970,11 +967,6 @@ for (livre = 1 ; livre != 28 ; livre++)
 
 
 
-			//NA28 SPLIT
-			mot_na28=[]
-			if (na28[livre][chapitre][verset] && na28[livre][chapitre][verset] != "")
-				mot_na28=na28[livre][chapitre][verset].replace(/\s+/g,'</td><td>');
-
 			
 			//SBL SPLIT
 			mot_sbl=[]
@@ -1254,8 +1246,6 @@ body+=`\
 <td>`+mot_wha+`</td></tr>
 
 
-
-<tr><td class="td1">NA28</td><td class="td2">2012</td><td>`+mot_na28+`</td></tr>
 
 <tr><td class="td1">SEB G.</td><td class="td2">2020</td>`+seb_grec+`</tr>
 <tr><td class="td1">SEB L.</td><td class="td2">2020</td>`+seb_lem+`</tr>
