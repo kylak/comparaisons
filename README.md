@@ -20,6 +20,7 @@ node traduire_net.js<br>
 cd ..<br>
 <br>
 <br>
+Attention à cette commande suivante, elle regénère le comparateur de traductions!
 echo COMPARER FRANCAIS<br>
 echo =================<br>
 cd comparer-francais<br>
